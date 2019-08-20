@@ -1,5 +1,6 @@
 # UiS DAT640 Information Retrieval and Text Mining course, fall 2019
 
+  * [Assignments](Assignments)
   * [Contact and getting help](#contact-and-getting-help)
 
 ## Schedule
@@ -8,14 +9,14 @@
 | -- | -- | -- | -- |
 | **Week 34** ||||
 | 19/08 (Mon) | Lecture (KB) | Introduction |  |
-| 20/08 (Tue) | Lecture (KB) | *TBD* |  |
-| 21/08 (Wed) | Practicum (TL) | Working on Assignment-1 |  |
+| 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) |  |
+| 21/08 (Wed) | Practicum (TL) | Assignment-1 |  |
 | **Week 35** ||||
-| 26/08 (Mon) | Lecture (KB) | *TBD* |  |
-| 27/08 (Tue) | Lecture (KB) | *TBD* |  |
-| 28/08 (Wed) | Practicum (TL) | Working on Assignment-1 | |
+| 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) |  |
+| 27/08 (Tue) | Lecture (KB) | Text classification (Part 3) |  |
+| 28/08 (Wed) | Practicum (TL) | Assignment-1 | |
 | **Week 36** ||||
-| 02/09 (Mon) | Practicum (TL) | Working on Assignment-1 | |
+| 02/09 (Mon) | Practicum (TL) | Assignment-1 | |
 | 03/09 (Tue) | Lecture (KB) | *TBD* | |
 | 04/09 (Wed) | Lecture (KB) | *TBD* | |
 | **Week 37** ||||
