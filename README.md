@@ -1,6 +1,6 @@
 # UiS DAT640 Information Retrieval and Text Mining course, fall 2019
 
-  * [Assignments](Assignments)
+  * [Assignments](assignments/)
   * [Contact and getting help](#contact-and-getting-help)
 
 ## Schedule
