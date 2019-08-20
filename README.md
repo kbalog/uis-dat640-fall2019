@@ -8,8 +8,8 @@
 | Date | What/Who | Topic | Resources |
 | -- | -- | -- | -- |
 | **Week 34** ||||
-| 19/08 (Mon) | Lecture (KB) | Introduction |  |
-| 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) |  |
+| 19/08 (Mon) | Lecture (KB) | Introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-introduction) |
+| 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-i) |
 | 21/08 (Wed) | Practicum (TL) | Assignment-1 |  |
 | **Week 35** ||||
 | 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) |  |
