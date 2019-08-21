@@ -10,9 +10,9 @@ You have been hired by a company as a data scientist, and you need to help build
 
 ## Task
 
-You are given a training dataset where emails are labeled either as spam or ham. Emails are stored as (ISO-8859-1 encoded) text files and organized in a set of folders (`train/XYZ`). The corresponding ground truth labels can be found in `train/labels.csv`.
+You are given a training dataset of over 82k emails, which are labeled either as spam or ham. Emails are stored as (ISO-8859-1 encoded) text files and organized in a set of folders (`train/XYZ`). The corresponding ground truth labels can be found in `train/labels.csv`.
 
-Based on this data, your ultimate goal is to build a classifier that processes all emails under (`test/XYZ`), makes a ham/spam prediction for each, and outputs these in a similar CSV format.
+Based on this data, your ultimate goal is to build a classifier that processes all emails under (`test/XYZ`), a total of over 9k documents, makes a ham/spam prediction for each, and outputs these in a similar CSV format.
 
 The idea is to make this classification by assigning each email a spam score. Emails above a certain score threshold will be labeled as spam, otherwise regarded as ham. Figuring out how to compute the spam score and what is an appropriate threshold is your main task; this is where having labeled data will help you big time.
 
@@ -22,7 +22,7 @@ Your overall objective is to beat the baseline classifier (which labels everythi
 
 #### 1) Download corpus
 
-Download the email corpus from *[link-to-be-added]* and unzip it to a `data` folder.
+Download the email corpus from the [URL provided on Canvas](https://stavanger.instructure.com/courses/4586/discussion_topics/41462) and unzip it to a `data` folder.
 
 #### 2) Split the labeled data
 
@@ -47,12 +47,12 @@ python classifier.py -mode predict --data {validation-data-dir} --model {model-f
 ```
 
   - The format and contents of the `model-file` is completely up to you. You probably want to collect some statistics from the training data, which you can then utilize when computing the spam score.
-  - The `prediction-file` should be in csv format, with Id and Label fields, where Id is the file path relative to the `train` folder, e.g.:
+  - The `prediction-file` should be in csv format, with Id and Label fields, where Id is the file path relative to the `data` folder, e.g.:
   ```
   Id,Label
-  000/001,spam
-  000/007,spam
-  000/009,spam
+  train/000/001,spam
+  train/000/007,spam
+  train/000/009,spam
   ```
 
 You can evaluate your classifier's performance using:
@@ -65,7 +65,14 @@ Iterate these steps until you're satisfied with the model's performance.
 
 #### 4) Upload predictions to Kaggle
 
-Train a model using all labeled data and then apply it on the test data. Then, upload the predictions file to Kaggle at: *[link-to-be-added]*.
+Train a model using all labeled data and then apply it on the test data. Essentially, you want to run:
+
+```
+python classifier.py -mode train --data {prefix}/data/train --output {model-file}
+python classifier.py -mode predict --data {prefix}/data/test --model {model-file} --output {prediction-file}
+```
+
+Then, upload the predictions file to Kaggle at: *[link-to-be-added]*.
 
 Use "Team-XYZ (teamname)" as your team name. You are free to choose the text inside the brackets (as long as it is not offensive or inappropriate).
 
