@@ -1,8 +1,8 @@
 # Assignment 1A: Spam Classification
 
-**URGENT** sign up for the assignment using this form: https://forms.gle/jc3TbUXW2He4XeHv9.
+**UPDATE 21/09 12:00** You will soon receive an email with your team ID, teammate (if applies), and link to your GitHub repository. In the meantime, you can find the two starer files here: [classifier.py](classifier.py) and [Report.md](Report.md).
 
-You will receive the starter files and report template once groups have been formed (before Wed 12:00).
+**URGENT** sign up for the assignment using this form: https://forms.gle/jc3TbUXW2He4XeHv9.
 
 ## Scenario
 
@@ -84,7 +84,7 @@ Complete the `Report.md` under your team's GitHub repository.
 
 #### 6) Commit and push changes
 
-Hopefully, you've been committing and pushing changes along the way. Make sure that both the completed `classifier.py` and the `Report.md` files are there, by checking your repository on the web interface (https://github.com/uis-dat640-fall2019/assignment-1a-team-XYZ). We'll fetch this repository when the deadline is due. You don't need to send us anything.
+Hopefully, you've been committing and pushing changes along the way. Make sure that both the completed `classifier.py` and the `Report.md` files are there, by checking your repository on the web interface (https://github.com/uis-dat640-fall2019/1a-team-XYZ-handin). We'll fetch this repository when the deadline is due. You don't need to send us anything.
 
 ## Assignment scoring
 
