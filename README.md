@@ -12,7 +12,7 @@
 | 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-i), [exercises](exercises/lecture-2/) |
 | 21/08 (Wed) | Practicum (TL) | Assignment-1 |  |
 | **Week 35** ||||
-| 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-ii)  |
+| 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-ii), [exercises](exercises/lecture-3/)  |
 | 27/08 (Tue) | Lecture (KB) | Text classification (Part 3) |  |
 | 28/08 (Wed) | Practicum (TL) | Assignment-1 | |
 | **Week 36** ||||
