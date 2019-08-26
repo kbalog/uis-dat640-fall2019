@@ -1,8 +1,8 @@
 # Assignment 1A: Spam Classification
 
-**UPDATE 21/09 12:00** You will soon receive an email with your team ID, teammate (if applies), and link to your GitHub repository. In the meantime, you can find the two starer files here: [classifier.py](classifier.py) and [Report.md](Report.md).
+**UPDATE 26/08** The Kaggle submission link has been posted.
 
-**URGENT** sign up for the assignment using this form: https://forms.gle/jc3TbUXW2He4XeHv9.
+**UPDATE 21/09 12:00** You will soon receive an email with your team ID, teammate (if applies), and link to your GitHub repository. In the meantime, you can find the two starer files here: [classifier.py](classifier.py) and [Report.md](Report.md).
 
 ## Scenario
 
@@ -72,7 +72,7 @@ python classifier.py -mode train --data {prefix}/data/train --output {model-file
 python classifier.py -mode predict --data {prefix}/data/test --model {model-file} --output {prediction-file}
 ```
 
-Then, upload the predictions file to Kaggle at: *[link-to-be-added]*.
+Then, upload the predictions file to Kaggle at: https://www.kaggle.com/t/eb3b116b1bfd4c809025bad6bbbc8880
 
 Use "Team-XYZ (teamname)" as your team name. You are free to choose the text inside the brackets (as long as it is not offensive or inappropriate).
 
