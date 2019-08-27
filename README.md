@@ -9,11 +9,11 @@
 | -- | -- | -- | -- |
 | **Week 34** ||||
 | 19/08 (Mon) | Lecture (KB) | Introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-introduction) |
-| 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-i), [exercises](exercises/lecture-2/) |
+| 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-i), [exercises](exercises/lecture_02/) |
 | 21/08 (Wed) | Practicum (TL) | Assignment-1 |  |
 | **Week 35** ||||
-| 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-ii), [exercises](exercises/lecture-3/)  |
-| 27/08 (Tue) | Lecture (KB) | Text classification (Part 3) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-iii), [exercises](exercises/lecture-4/) |
+| 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-ii), [exercises](exercises/lecture_03/)  |
+| 27/08 (Tue) | Lecture (KB) | Text classification (Part 3) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-iii), [exercises](exercises/lecture_04/) |
 | 28/08 (Wed) | Practicum (TL) | Assignment-1 | |
 | **Week 36** ||||
 | 02/09 (Mon) | Practicum (TL) | Assignment-1 | |
