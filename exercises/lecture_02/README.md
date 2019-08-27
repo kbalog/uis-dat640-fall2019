@@ -1,4 +1,10 @@
-# Lecture-2 exercise
+# Lecture-2 exercises
+
+## Exercise #1
+
+*To be added*
+
+## Exercise #2
 
 **Implement the computation of Accuracy, Precision, Recall, and F1-score in Python.**
 
