@@ -90,6 +90,10 @@ Hopefully, you've been committing and pushing changes along the way. Make sure t
 
 The specific criteria for scoring the assignment is as follows: *to be added*.
 
+## Submission deadline
+
+The deadline for submitting the report and code on GitHub is **02/09 17:00**.
+
 ## FAQ
 
   * **Is there a limitation to the techniques we are allowed to use? Should we use machine learning approaches?**

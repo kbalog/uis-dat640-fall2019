@@ -5,7 +5,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | Assignment | Announced | Deadline | Points |
 | -- | :--: | :--: | --: |
 | [1A) Spam classification](assignment-1a/) | 20/08 | 02/09 17:00 | 15 |
-| 1B) Advanced spam classification | | | 20 |
+| [1B) Advanced spam classification](assignment-1b/) | 27/08 | 16/09 17:00 | 20 |
 | 2A) Retrieval | | | 20 |
 | 2B) Advanced retrieval | | | 20 |
 | 3) *TBD* | | | 25 |
