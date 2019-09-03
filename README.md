@@ -9,35 +9,35 @@
 | -- | -- | -- | -- |
 | **Week 34** ||||
 | 19/08 (Mon) | Lecture (KB) | Introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-introduction) |
-| 20/08 (Tue) | Lecture (KB) | Text classification (Part 1) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-i), [exercises](exercises/lecture_02/) |
-| 21/08 (Wed) | Practicum (TL) | Assignment-1 |  |
+| 20/08 (Tue) | Lecture (KB) | Text classification (Part I) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-i), [exercises](exercises/lecture_02/) |
+| 21/08 (Wed) | Practicum (TL) | Assignment [1A](assignments/assignment-1a) |  |
 | **Week 35** ||||
-| 26/08 (Mon) | Lecture (KB) | Text classification (Part 2) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-ii), [exercises](exercises/lecture_03/)  |
-| 27/08 (Tue) | Lecture (KB) | Text classification (Part 3) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-iii), [exercises](exercises/lecture_04/) |
-| 28/08 (Wed) | Practicum (TL) | Assignment-1 | |
+| 26/08 (Mon) | Lecture (KB) | Text classification (Part II) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-ii), [exercises](exercises/lecture_03/)  |
+| 27/08 (Tue) | Lecture (KB) | Text classification (Part III) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-iii), [exercises](exercises/lecture_04/) |
+| 28/08 (Wed) | Practicum (TL) | Assignment [1A](assignments/assignment-1a)/[1B](assignments/assignment-1b) | |
 | **Week 36** ||||
-| 02/09 (Mon) | Practicum (TL) | Assignment-1 | |
-| 03/09 (Tue) | Lecture (KB) | Text classification (Part 4) | [exercises](exercises/lecture_05/) |
+| 02/09 (Mon) | Practicum (TL) | Assignment [1A](assignments/assignment-1a)/[1B](assignments/assignment-1b) | |
+| 03/09 (Tue) | Lecture (KB) | Text classification (Part IV) | [exercises](exercises/lecture_05/) |
 | 04/09 (Wed) | Lecture (KB) | Text clustering | |
 | **Week 37** ||||
-| 09/09 (Mon) | Lecture/Practicum (*TDB*) | *TBD* | |
-| 10/09 (Tue) | Lecture/Practicum (*TDB*) | *TBD* | |
-| 11/09 (Wed) | Lecture/Practicum (*TDB*) | *TBD* | |
+| 09/09 (Mon) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
+| 10/09 (Tue) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
+| 11/09 (Wed) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
 | **Week 38** ||||
-| 16/09 (Mon) | Lecture (KB) | *TBD* | |
-| 17/09 (Tue) | Lecture (KB) | *TBD* | |
+| 16/09 (Mon) | Lecture (KB) | Information retrieval (Part I) | |
+| 17/09 (Tue) | Lecture (KB) | Information retrieval (Part II) | |
 | 18/09 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 39** ||||
-| 23/09 (Mon) | Lecture (KB) | *TBD* | |
-| 24/09 (Tue) | Lecture (KB) | *TBD* | |
+| 23/09 (Mon) | Lecture (KB) | Information retrieval (Part III) | |
+| 24/09 (Tue) | Lecture (KB) | Information retrieval (Part IV) | |
 | 25/09 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 40** ||||
 | 30/09 (Mon) | no lecture | | |
 | 01/10 (Tue) | no lecture | | |
 | 02/10 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 41** ||||
-| 07/10 (Mon) | Lecture (KB) | *TBD* | |
-| 08/10 (Tue) | Lecture (KB) | *TBD* | |
+| 07/10 (Mon) | Lecture (KB) | Information retrieval (Part V) | |
+| 08/10 (Tue) | Lecture (KB) | Information retrieval (Part VI) | |
 | 09/10 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 42** ||||
 | 14/10 (Mon) | Lecture (KB) | *TBD* | |
