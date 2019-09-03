@@ -32,7 +32,8 @@ Additionally, you will need to develop some other (non-term-frequency-based) fea
 
 #### 3) Submit your best model's predictions on Kaggle
 
-  * Submit your best model's predictions on the test set to this assignment's Kaggle competition. The portion of your grade for this assignment that is based on numerical performance will be based on this (see below).
+  * Submit your best model's predictions on the test set to this assignment's Kaggle competition: https://www.kaggle.com/t/e05e60e385d64a93a26f0440cc08f06c
+  * The portion of your grade for this assignment that is based on numerical performance will be based on this (see below).
 
 #### 4) Write a report
 
