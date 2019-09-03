@@ -17,8 +17,8 @@
 | 28/08 (Wed) | Practicum (TL) | Assignment-1 | |
 | **Week 36** ||||
 | 02/09 (Mon) | Practicum (TL) | Assignment-1 | |
-| 03/09 (Tue) | Lecture (KB) | *TBD* | |
-| 04/09 (Wed) | Lecture (KB) | *TBD* | |
+| 03/09 (Tue) | Lecture (KB) | Text classification (Part 4) | [exercises](exercises/lecture_05/) |
+| 04/09 (Wed) | Lecture (KB) | Text clustering | |
 | **Week 37** ||||
 | 09/09 (Mon) | Lecture/Practicum (*TDB*) | *TBD* | |
 | 10/09 (Tue) | Lecture/Practicum (*TDB*) | *TBD* | |
