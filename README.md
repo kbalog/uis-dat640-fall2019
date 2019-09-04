@@ -18,7 +18,7 @@
 | **Week 36** ||||
 | 02/09 (Mon) | Practicum (TL) | Assignment [1A](assignments/assignment-1a)/[1B](assignments/assignment-1b) | |
 | 03/09 (Tue) | Lecture (KB) | Text classification (Part IV) | [exercises](exercises/lecture_05/) |
-| 04/09 (Wed) | Lecture (KB) | Text clustering | |
+| 04/09 (Wed) | Lecture (KB) | Text clustering | [exercises](exercises/lecture_06/) |
 | **Week 37** ||||
 | 09/09 (Mon) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
 | 10/09 (Tue) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
