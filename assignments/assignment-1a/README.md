@@ -88,8 +88,15 @@ Hopefully, you've been committing and pushing changes along the way. Make sure t
 
 ## Assignment scoring
 
-The specific criteria for scoring the assignment is as follows: *to be added*.
+The specific criteria for scoring the assignment is as follows:
 
+  * Kaggle performance (2 points)
+  * Approach (2 points)
+  * Experimental setup (2 points)
+  * Results (2 points)
+  * Discussion (2 points)
+  * Code (5 points)
+  
 ## Submission deadline
 
 The deadline for submitting the report and code on GitHub is **02/09 17:00**.
