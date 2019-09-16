@@ -24,7 +24,7 @@
 | 10/09 (Tue) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
 | 11/09 (Wed) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
 | **Week 38** ||||
-| 16/09 (Mon) | Lecture (KB) | Information retrieval (Part I) | |
+| 16/09 (Mon) | Lecture (KB) | Information retrieval (Part I) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-i), [exercises](exercises/lecture_07/) |
 | 17/09 (Tue) | Lecture (KB) | Information retrieval (Part II) | |
 | 18/09 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 39** ||||
