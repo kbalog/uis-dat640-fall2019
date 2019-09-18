@@ -60,7 +60,7 @@ The AQUAINT document collection consists of newswire text data in English, drawn
 
 The text data are separated into directories by source (`apw`, `nyt`, `xie`); within each source, data files are subdivided by year, and within each year, there is one file per date of collection. Each file contains a stream of SGML-tagged text, i.e., blocks of text bounded by `<DOC>` and `</DOC>` tags.  Create an index with *title* (inside `<HEADING>`) and *content* fields (inside `<TEXT>`) and use `<DOCNO>` as the document identifier (docID).
 
-The collection is 1.1GB compressed and can be dowloaded from: *link to be added*
+The collection is 1.1GB compressed and can be dowloaded from the URL provided on [Canvas](https://stavanger.instructure.com/courses/4586/discussion_topics/44794).
 
 Upon successful indexing, the index should contain 1,033,461 documents.
 
