@@ -26,19 +26,19 @@
 | **Week 38** ||||
 | 16/09 (Mon) | Lecture (KB) | Information retrieval (Part I) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-i), [exercises](exercises/lecture_07/) |
 | 17/09 (Tue) | Lecture (KB) | Information retrieval (Part II) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-ii), [exercises](exercises/lecture_08/) |
-| 18/09 (Wed) | Practicum (TL) | Assignment 2A | |
+| 18/09 (Wed) | Practicum (TL) | Assignment [2A](assignments/assignment-2a) | |
 | **Week 39** ||||
-| 23/09 (Mon) | Lecture (KB) | Information retrieval (Part III) | |
+| 23/09 (Mon) | Lecture (KB) | Information retrieval (Part III) | Information retrieval (Part II) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-iii), [exercises](exercises/lecture_09/) |
 | 24/09 (Tue) | Lecture (KB) | Information retrieval (Part IV) | |
-| 25/09 (Wed) | Practicum (TL) | Assignment 2A | |
+| 25/09 (Wed) | Practicum (TL) | Assignment [2A](assignments/assignment-2a) | |
 | **Week 40** ||||
 | 30/09 (Mon) | no lecture | | |
 | 01/10 (Tue) | no lecture | | |
-| 02/10 (Wed) | Practicum (TL) | Assignment 2A | |
+| 02/10 (Wed) | Practicum (SZ) | Assignment [2A](assignments/assignment-2a) | |
 | **Week 41** ||||
-| 07/10 (Mon) | Lecture (KB) | Information retrieval (Part V) | |
-| 08/10 (Tue) | Lecture (KB) | Information retrieval (Part VI) | |
-| 09/10 (Wed) | Practicum (TL) | *TBD* | |
+| 07/10 (Mon) | Practicum (SZ) | Assignment [2A](assignments/assignment-2a) | |
+| 08/10 (Tue) | Lecture (KB) | Information retrieval (Part V) | |
+| 09/10 (Wed) | Lecture (KB) | Information retrieval (Part VI) | |
 | **Week 42** ||||
 | 14/10 (Mon) | Lecture (KB) | *TBD* | |
 | 15/10 (Tue) | Lecture (KB) | *TBD* | |
