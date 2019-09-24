@@ -29,7 +29,7 @@
 | 18/09 (Wed) | Practicum (TL) | Assignment [2A](assignments/assignment-2a) | |
 | **Week 39** ||||
 | 23/09 (Mon) | Lecture (KB) | Information retrieval (Part III) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-iii), [exercises](exercises/lecture_09/) |
-| 24/09 (Tue) | Lecture (KB) | Information retrieval (Part IV) | |
+| 24/09 (Tue) | Lecture (KB) | Information retrieval (Part IV) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-iv), [exercises](exercises/lecture_10/) |
 | 25/09 (Wed) | Practicum (TL) | Assignment [2A](assignments/assignment-2a) | |
 | **Week 40** ||||
 | 30/09 (Mon) | no lecture | | |
