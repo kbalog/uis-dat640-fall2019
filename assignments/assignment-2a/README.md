@@ -19,8 +19,8 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - Download the document collection and index it by completing the missing parts of the provided code skeleton.
     * Use two fields, title and content.
     * See [below](#document-collection) for details about the document collection.
-    * The [1_Indexer.ipynb](1_Indexer.ipynb) notebook contains the code skeleton that you need to complete, as well a section for a mini-report on your solution.
-  - Complete the [1_Evaluation.ipynb](1_Evaluation.ipynb) notebook, which should be able to take a ranking file and ground truth file as input and output.
+    * The `1_Indexer.ipynb` notebook contains the code skeleton that you need to complete, as well a section for a mini-report on your solution.
+  - Complete the `1_Evaluation.ipynb` notebook, which should be able to take a ranking file and ground truth file as input and output.
       - A sample ranking file and ground truth file with dummy data is made available for testing purposes.
       - The evaluation capability will be used to evaluate rankings produced by the retrieval models that you implement in Parts 2 and 3.
 
@@ -29,7 +29,7 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - Implement two (single-field) retrieval models (LM and BM25) and evaluate them using your evaluation solution from Part 1.
     * Search only in the `content` field.
     * Return the top 100 documents for each query in `data/queries.txt` and write the results to a `data/baseline.txt` file (see [below](#output-file-format) for the output file format).
-    * The [2_Retrieval.ipynb](2_Retrieval.ipynb) notebook contains the code skeleton that you need to complete.
+    * The `2_Retrieval.ipynb` notebook contains the code skeleton that you need to complete.
 
 ## Part 3 (weeks 40-41)
 
@@ -37,7 +37,7 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - Tune the parameters
     * For BM25F, tune the k1 and b parameters.
     * For MLM, tune the field weights, smoothing method, and smoothing parameter.
-    * The [3_Multifield_retrieval.ipynb](3_Multifield_retrieval.ipynb) notebook contains the code skeleton that you need to complete.
+    * The `3_Multifield_retrieval.ipynb` notebook contains the code skeleton that you need to complete.
   - You may compete with a single ranking against other teams.
     * The competition is hosted on [Kaggle](https://www.kaggle.com/t/4dd79e8ac78c4dc3bac2c5525e08f2d3).
     * The competition uses graded relevance judgments and NDCG@100 as the evaluation metric. (Documents with the highest relevance level have been shared with you in `data/qrels2.csv`; the rest of the data is withheld.)
