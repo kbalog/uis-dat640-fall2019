@@ -35,7 +35,7 @@ Do your best to follow the schedule as indicated by week number, since the assig
 
   - Implement multi-field versions of BM25 and LM retrieval models, i.e., BM25F and MLM.
   - Tune the parameters
-    * For BM25F, tune the k1 and b parameters.
+    * For BM25F, tune the field weights, k1, and b parameters.
     * For MLM, tune the field weights, smoothing method, and smoothing parameter.
     * The `3_Multifield_retrieval.ipynb` notebook contains the code skeleton that you need to complete.
   - You may compete with a single ranking against other teams.
