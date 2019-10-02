@@ -29,7 +29,7 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - Implement two (single-field) retrieval models (LM and BM25) and evaluate them using your evaluation solution from Part 1.
     * Search only in the `content` field.
     * Return the top 100 documents for each query in `data/queries.txt` and write the results to a `data/baseline.txt` file (see [below](#output-file-format) for the output file format).
-    * The [2_Retrieval.ipynb](2_Retrieval.ipynb) notebook contains the code skeleton that you need to complete. *NOTE: This notebook will be added to your repository later.*
+    * The [2_Retrieval.ipynb](2_Retrieval.ipynb) notebook contains the code skeleton that you need to complete.
 
 ## Part 3 (weeks 40-41)
 
@@ -37,11 +37,11 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - Tune the parameters
     * For BM25F, tune the k1 and b parameters.
     * For MLM, tune the field weights, smoothing method, and smoothing parameter.
-    * The [3_Multifield_retrieval.ipynb](3_Multifield_retrieval.ipynb) notebook contains the code skeleton that you need to complete. *NOTE: This notebook will be added to your repository later.*
+    * The [3_Multifield_retrieval.ipynb](3_Multifield_retrieval.ipynb) notebook contains the code skeleton that you need to complete.
   - You may compete with a single ranking against other teams.
-    * The competition is hosted on [Kaggle](https://www.kaggle.com/c/uis-dat640-2019-2a/leaderboard).
+    * The competition is hosted on [Kaggle](https://www.kaggle.com/t/4dd79e8ac78c4dc3bac2c5525e08f2d3).
     * The competition uses graded relevance judgments and NDCG@100 as the evaluation metric. (Documents with the highest relevance level have been shared with you in `data/qrels2.csv`; the rest of the data is withheld.)
-    * You may submit a single 1 entry to Kaggle per day.
+    * You may submit a 2 entries to Kaggle per day (starting on 02/10).
     * Your performance will be based on the last submission to the Kaggle competition.
 
 
