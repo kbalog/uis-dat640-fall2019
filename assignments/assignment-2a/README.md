@@ -51,6 +51,10 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - The mini-report sections must be filled out in the notebooks. No separate report needs to be submitted.
   - You must submit your best ranking file to the Kaggle competition, and your grade will take your performance results into account.
 
+### Submission deadline
+
+The deadline for submitting your code on GitHub as well as your final ranking on Kaggle is 09/10 17:00.
+
 
 ## Data
 
