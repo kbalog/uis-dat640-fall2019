@@ -19,7 +19,7 @@ Do your best to follow the schedule as indicated by week number, since the assig
   - Download the document collection and index it by completing the missing parts of the provided code skeleton.
     * Use two fields, title and content.
     * See [below](#document-collection) for details about the document collection.
-    * The `1_Indexer.ipynb` notebook contains the code skeleton that you need to complete, as well a section for a mini-report on your solution.
+    * The `1_Indexer.ipynb` notebook contains the code skeleton that you need to complete.
   - Complete the `1_Evaluation.ipynb` notebook, which should be able to take a ranking file and ground truth file as input and output.
       - A sample ranking file and ground truth file with dummy data is made available for testing purposes.
       - The evaluation capability will be used to evaluate rankings produced by the retrieval models that you implement in Parts 2 and 3.
