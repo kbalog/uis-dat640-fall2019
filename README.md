@@ -37,15 +37,15 @@
 | 02/10 (Wed) | Practicum (SZ) | Assignment [2A](assignments/assignment-2a) | |
 | **Week 41** ||||
 | 07/10 (Mon) | Practicum (SZ) | Assignment [2A](assignments/assignment-2a) | |
-| 08/10 (Tue) | Lecture (KB) | Information retrieval (Part V) | |
+| 08/10 (Tue) | Lecture (KB) | Information retrieval (Part V) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-v), [exercises](exercises/lecture_11/) |
 | 09/10 (Wed) | Lecture (KB) | Information retrieval (Part VI) | |
 | **Week 42** ||||
-| 14/10 (Mon) | Lecture (KB) | *TBD* | |
-| 15/10 (Tue) | Lecture (KB) | *TBD* | |
+| 14/10 (Mon) | Lecture (KB) | Semantic search (Part I) | |
+| 15/10 (Tue) | Lecture (KB) | Semantic search (Part II) | |
 | 16/10 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 43** ||||
-| 21/10 (Mon) | Lecture (KB) | *TBD* | |
-| 22/10 (Tue) | Lecture (KB) | *TBD* | |
+| 21/10 (Mon) | Lecture (KB) | Semantic search (Part III) | |
+| 22/10 (Tue) | Lecture (KB) | Invited talk (*TBD*) | |
 | 23/10 (Wed) | Practicum (TL) | *TBD* | |
 | **Week 44** ||||
 | 28/10 (Mon) | Lecture (KB) | *TBD* | |
