@@ -20,8 +20,11 @@ Elasticsearch is distributed, which means that indices can be divided into shard
 
   * Download the latest Elasticsearch distribution from https://www.elastic.co/downloads/elasticsearch (currently: 7.4.0)
   * Unzip
-  * Run `bin/elasticsearch` on Unix or `bin\elasticsearch.bat` on Windows
 
+## Running the service
+
+  * Run `bin/elasticsearch` on Unix or `bin\elasticsearch.bat` on Windows to start the service
+    * The service will run as long as you have that terminal window open; will need to be launched again upon machine restart, for example.
 
 ## Using Elasticsearch
 
