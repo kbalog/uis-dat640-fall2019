@@ -1,6 +1,7 @@
 # UiS DAT640 Information Retrieval and Text Mining course, fall 2019
 
   * [Assignments](assignments/)
+  * [Code examples](code/)
   * [Contact and getting help](#contact-and-getting-help)
 
 ## Schedule
@@ -42,11 +43,11 @@
 | **Week 42** ||||
 | 14/10 (Mon) | Lecture (KB) | Semantic search (Part I) | |
 | 15/10 (Tue) | Lecture (KB) | Semantic search (Part II) | |
-| 16/10 (Wed) | Practicum (TL) | *TBD* | |
+| 16/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | |
 | **Week 43** ||||
 | 21/10 (Mon) | Lecture (KB) | Semantic search (Part III) | |
 | 22/10 (Tue) | Lecture (KB) | Invited talk (*TBD*) | |
-| 23/10 (Wed) | Practicum (TL) | *TBD* | |
+| 23/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | |
 | **Week 44** ||||
 | 28/10 (Mon) | Lecture (KB) | *TBD* | |
 | 29/10 (Tue) | Lecture (KB) | *TBD* | |
