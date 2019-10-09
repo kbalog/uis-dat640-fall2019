@@ -39,7 +39,7 @@
 | **Week 41** ||||
 | 07/10 (Mon) | Practicum (SZ) | Assignment [2A](assignments/assignment-2a) | |
 | 08/10 (Tue) | Lecture (KB) | Information retrieval (Part V) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-v), [exercises](exercises/lecture_11/) |
-| 09/10 (Wed) | Lecture (KB) | Information retrieval (Part VI) | |
+| 09/10 (Wed) | Lecture (KB) | Information retrieval (Part VI) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-information-retrieval-part-vi), [exercises](exercises/lecture_12/) |
 | **Week 42** ||||
 | 14/10 (Mon) | Lecture (KB) | Semantic search (Part I) | |
 | 15/10 (Tue) | Lecture (KB) | Semantic search (Part II) | |
