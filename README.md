@@ -43,7 +43,7 @@
 | **Week 42** ||||
 | 14/10 (Mon) | Lecture (KB) | Semantic search (Part I) | |
 | 15/10 (Tue) | Lecture (KB) | Semantic search (Part II) | |
-| 16/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | |
+| 16/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-semantic-search-part-i), [exercises](exercises/lecture_13/) |
 | **Week 43** ||||
 | 21/10 (Mon) | Lecture (KB) | Semantic search (Part III) | |
 | 22/10 (Tue) | Lecture (KB) | Invited talk (*TBD*) | |
@@ -51,15 +51,15 @@
 | **Week 44** ||||
 | 28/10 (Mon) | Lecture (KB) | *TBD* | |
 | 29/10 (Tue) | Lecture (KB) | *TBD* | |
-| 30/10 (Wed) | Practicum (TL) | *TBD* | |
+| 30/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b)/3 | |
 | **Week 45** ||||
 | 04/11 (Mon) | Lecture (KB) | *TBD* | |
 | 05/11 (Tue) | Lecture (KB) | *TBD* | |
-| 06/11 (Wed) | Practicum (TL) | *TBD* | |
+| 06/11 (Wed) | Practicum (TL) | Assignment 3 | |
 | **Week 46** ||||
 | 11/11 (Mon) | Trial exam Part I | | |
 | 12/11 (Tue) | Trial exam Part II | | |
-| 13/11 (Wed) | Practicum (TL) | *TBD* | |
+| 13/11 (Wed) | Practicum (TL) | Assignment 3 | |
 
 ## Contact and getting help
 
