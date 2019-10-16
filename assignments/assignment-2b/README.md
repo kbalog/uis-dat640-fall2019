@@ -18,6 +18,7 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
   * Implement a learning-to-rank method with the following minimum requirements:
     - Consider document-query matching in minimum 3 fields (title, content and anchors) and at least two different retrieval models (e.g., BM25 and LM). That is, 6 document-query features minimum.
     - Note that the anchor text index covers the entire ClueWeb collection, not just the Category B subset. I.e., you need to ignore documents that are not present in the regular index.
+  * Select one learning-to-rank algorithm to use throughout the assignment. 
   * Test your model using 5-fold cross-validation on the given training data (queries and relevance judgments, i.e., `data/queries.txt` and `data/qrels.csv`).
 
 ## Part 2 (week 43)
@@ -35,8 +36,10 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
 
 ## Part 3 (week 44)
 
-  * Select a subset of features, from the complete feature set, that give you the best overall performance.
+  * Select a subset consisting of the five features, from the complete feature set, that give you the best overall performance.
     - You will need to describe in your report how you decided on these particular features.
+  * If you think you found a better subset of features than you tried before, you may make a new Kaggle submission.
+  * You may do this repeatedly as part of your search for the best five features. 
 
 
 ## Deliverable
