@@ -1,5 +1,13 @@
 # Assignment 2B
 
+**IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
+
+**UPDATES**
+  * *Due to an issue with the data center, the index is currently not available. This should be resolved soon. Check back for updates.*
+  * *The starter files are currently being extended with additional information; they will be pushed out to the private repositories soon.*
+
+----
+
 The task is to implement a learning-to-rank approach for web search and evaluate it using a standard test collection.
 
 You are provided with a set of queries and with an initial ranking of top-100 results for each query (based on BM25). Your task is to re-rank these documents using a learning-to-rank approach. Specifically, you need to use a pointwise learning-to-rank approach, i.e., any standard regression algorithm that is available in scikit-learn.
@@ -11,14 +19,13 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
   * *2_Ranking*
   * *3_Evaluation*
 
-*This assignment description will be updated over the course of the coming weeks. Make sure to always look at the most recent version of the respective parts.*
 
 ## Part 1 (week 42)
 
   * Implement a learning-to-rank method with the following minimum requirements:
     - Consider document-query matching in minimum 3 fields (title, content and anchors) and at least two different retrieval models (e.g., BM25 and LM). That is, 6 document-query features minimum.
     - Note that the anchor text index covers the entire ClueWeb collection, not just the Category B subset. I.e., you need to ignore documents that are not present in the regular index.
-  * Select one learning-to-rank algorithm to use throughout the assignment. 
+  * Select one learning-to-rank algorithm to use throughout the assignment.
   * Test your model using 5-fold cross-validation on the given training data (queries and relevance judgments, i.e., `data/queries.txt` and `data/qrels.csv`).
 
 ## Part 2 (week 43)
@@ -39,7 +46,7 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
   * Select a subset consisting of the five features, from the complete feature set, that give you the best overall performance.
     - You will need to describe in your report how you decided on these particular features.
   * If you think you found a better subset of features than you tried before, you may make a new Kaggle submission.
-  * You may do this repeatedly as part of your search for the best five features. 
+  * You may do this repeatedly as part of your search for the best five features.
 
 
 ## Deliverable
