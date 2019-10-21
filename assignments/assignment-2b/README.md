@@ -2,9 +2,17 @@
 
 **IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
 
-**UPDATES**
-  * *Due to an issue with the data center, the index is currently not available. This should be resolved soon. Check back for updates.*
-  * *The starter files are currently being extended with additional information; they will be pushed out to the private repositories soon.*
+**UPDATES (21/10 12:00)**
+  * Indexing is not yet complete, but the main index can already be used. See the table below for the current status.
+  * Additional explanation for working with the Search API has been posted [below](#search-api) along with an [notebook on example usage](API_usage.ipynb).
+  * Starter files have been pushed out to the private repositories. The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) will be pushed out as soon as the main index is complete. You may use the code in the [API usage](API_usage.ipynb) notebook to generate a temporary ranking to get you going.   
+
+**INDEX STATUS** (last updated: 21/10 12:00)
+
+| Index name | Status |
+| -- | -- |
+| `clueweb12` (main index) | available, ~55% complete |
+| `clueweb12_anchors` (anchors index) | not yet available |
 
 ----
 
@@ -128,13 +136,20 @@ QueryId,DocumentId
 
 ## Search API
 
-A distributed index of the ClueWeb12B collection is built using the Amazon Elasticsearch Service (using Elasticsearch version 7.1).
+A distributed index of the ClueWeb12B collection is built using Elasticsearch and is hosted on the cloud (specifically, the Amazon Elasticsearch Service, using Elasticsearch version 7.1).
 
-There is a simple API that is made for requesting data from this index (this is essentially to make the index *read-only*, preventing anyone to accidentally make any unwanted modifications).
-The API is available at `http://gustav1.ux.uis.no:5002`.
-The index is called `clueweb12b`, with fields `url`, `title`, and `content`.
+There is a simple Search API that is made for requesting data from this index (this is essentially to make the index *read-only*, preventing anyone to accidentally make any unwanted modifications).
+
+![Search API](search_api.png)
+
+The API is available at `http://gustav1.ux.uis.no:5002`. Note that it is only available within UiS premises.
+
+  * The main index is called `clueweb12b`, with fields `url`, `title`, and `content`.
+  * *The anchors index is currently being built.*
 
 The API source code is [available here](api.py). Note that you don't need to run it, this is only provided for transparency (so that you can see what exactly is happening in there).
+
+See the [API usage](API_usage.ipynb) notebook for example usage.
 
 Currently, the following functionality is supported.
 
@@ -158,11 +173,10 @@ Currently, the following functionality is supported.
     - E.g. `http://gustav1.ux.uis.no:5002/clueweb12b/clueweb12-1700tw-22-12689/_exists`
   * **Analyze**: `/<indexname>/_analyze`
     - Returns the analyzed version of the input text using [es.indices.analyze()](https://elasticsearch-py.readthedocs.io/en/master/api.html#elasticsearch.client.IndicesClient.analyze)
-    - This endpoint is needed when using another retrieval method for scoring the query (e.g., LM). Instead of just splitting by spaces, use this request for tokenizing the query text.
+    - This endpoint is needed when using another retrieval method for scoring the query (e.g., LM). Instead of just splitting on spaces, use this request for tokenizing the query text.
     - Parameters:
         - `text` (mandatory): text to be analyzed
     - E.g. `http://gustav1.ux.uis.no:5002/clueweb12b/_analyze?text=World%27s+biggest+dog`
-
 
 The API may be extended over time with additional functionality, should the need arise.  If you have specific requests, do let us know.
 
