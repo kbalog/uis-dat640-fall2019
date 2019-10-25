@@ -7,11 +7,11 @@
   * Additional explanation for working with the Search API has been posted [below](#search-api) along with an [notebook on example usage](API_usage.ipynb).
   * Starter files have been pushed out to the private repositories. The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) will be pushed out as soon as the main index is complete. You may use the code in the [API usage](API_usage.ipynb) notebook to generate a temporary ranking to get you going.   
 
-**INDEX STATUS** (last updated: 23/10 11:00)
+**INDEX STATUS** (last updated: 25/10 17:00)
 
 | Index name | Status |
 | -- | -- |
-| `clueweb12` (main index) | available, ~80% complete |
+| `clueweb12` (main index) | available, ~95% complete |
 | `clueweb12_anchors` (anchors index) | not yet available |
 
 ----
