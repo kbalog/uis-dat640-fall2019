@@ -49,8 +49,8 @@
 | 22/10 (Tue) | Lecture (invited, SZ) | Table search, generation and completion | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-table-search-generation-and-completion) |
 | 23/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | |
 | **Week 44** ||||
-| 28/10 (Mon) | Lecture (KB) | Semantic search (Part IV) | |
-| 29/10 (Tue) | Lecture (KB) | *TBD* | |
+| 28/10 (Mon) | Practicum (KB) | Assignment [2B](assignments/assignment-2b) | |
+| 29/10 (Tue) | Lecture (KB) | Semantic search (Part IV) | |
 | 30/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b)/3 | |
 | **Week 45** ||||
 | 04/11 (Mon) | Lecture (TL) | Neural IR | |
