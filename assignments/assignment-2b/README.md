@@ -2,6 +2,9 @@
 
 **IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
 
+**API STATUS (28/10 17:00)** The API is currently down due to the changing of document IDs. It's expected to be back online tomorrow morning.
+
+
 **UPDATES (28/10 09:00)**
   * Both the main and anchor indices are now complete. There are issues with document IDs, which are being resolved at the moment. An update will be posted here soon.
 
