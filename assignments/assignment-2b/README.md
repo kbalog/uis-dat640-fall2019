@@ -2,17 +2,15 @@
 
 **IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
 
-**UPDATES (21/10 12:00)**
-  * Indexing is not yet complete, but the main index can already be used. See the table below for the current status.
-  * Additional explanation for working with the Search API has been posted [below](#search-api) along with an [notebook on example usage](API_usage.ipynb).
-  * Starter files have been pushed out to the private repositories. The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) will be pushed out as soon as the main index is complete. You may use the code in the [API usage](API_usage.ipynb) notebook to generate a temporary ranking to get you going.   
+**UPDATES (28/10 09:00)**
+  * Both the main and anchor indices are now complete. There are issues with document IDs, which are being resolved at the moment. An update will be posted here soon.
 
-**INDEX STATUS** (last updated: 25/10 17:00)
+**INDEX STATUS** (last updated: 28/10 09:00)
 
-| Index name | Status |
-| -- | -- |
-| `clueweb12` (main index) | available, ~95% complete |
-| `clueweb12_anchors` (anchors index) | not yet available |
+| Index name | Size | Status |
+| -- | -- | -- |
+| `clueweb12b` (main index) | 52M docs | 100% complete, *issues with document IDs* |
+| `clueweb12b_anchors` (anchors index) | 501M docs | 100% complete, OK |
 
 ----
 
@@ -187,3 +185,6 @@ The API may be extended over time with additional functionality, should the need
   * **Do we need to use the PageRank scores from that link?** No. It's up to you. If you want, you can use them. What matters is that you implement at least 2 document features.
   * **How to check if a given document that we retrieve from the anchors text index exists in ClueWeb Category B?** A separate `exists` request has been introduced for that. Do not use `termvectors`, as that is too slow. Only use `termvectors` when computing the retrieval scores for a given document.
   * **Running the experiments takes a lot of time.** If you request all the data from the API each time you make a change or try to add a new feature, then yes, it'll take a very long time. You should compute individual features only once and store these somewhere (e.g., text or json files).
+  * **Few document IDs retrieved from the API match those in the `qrels.txt` and/or `pagerank.docNameOrder.bz2`. Is this an error?** Yes, it’s an (indexing) error. It’s being fixed right now.
+  * **The API is unavailable/not responding.** We’ll try to make sure it’s available. Mail to dat640help@gmail.com if it’s unavailable and we’ll try to bring it back ASAP.
+  * **How should we calculate the BM25 scores?** If you want to use it as a feature, then calculate it yourself. Note that the BM25 first-pass ranking is given (without scores), and it’s not required to report on BM25.
