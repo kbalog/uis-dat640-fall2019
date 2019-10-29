@@ -50,11 +50,11 @@
 | 23/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | |
 | **Week 44** ||||
 | 28/10 (Mon) | Practicum (KB) | Assignment [2B](assignments/assignment-2b) | |
-| 29/10 (Tue) | Lecture (KB) | Semantic search (Part IV) | |
-| 30/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b)/3 | |
+| 29/10 (Tue) | Lecture (KB) | Semantic search (Part IV) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-semantic-search-part-iv) |
+| 30/10 (Wed) | Practicum (TL) | Assignment [2B](assignments/assignment-2b) | |
 | **Week 45** ||||
 | 04/11 (Mon) | Lecture (TL) | Neural IR | |
-| 05/11 (Tue) | Lecture (KB) | Review | |
+| 05/11 (Tue) | Lecture (KB) | Semantic search (Part V) + Review | |
 | 06/11 (Wed) | Practicum (TL) | Assignment 3 | |
 | **Week 46** ||||
 | 11/11 (Mon) | Trial exam Part I | | |
