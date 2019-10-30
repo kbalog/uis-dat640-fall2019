@@ -7,6 +7,7 @@
   * The Kaggle competition has been set up ([here](https://www.kaggle.com/c/uis-dat6402019-2b)). You're allowed 3 submissions per day until the deadline.
   * The API is currently unavailable (due to an ongoing index update).
   * The deadline has been extended by 48 hours to **06/11 17:00**.
+  * The pre-precomputed statistics (discussed on Monday) are being computed and will be made available soon.
 
 ----
 
