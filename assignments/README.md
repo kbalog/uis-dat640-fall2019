@@ -7,7 +7,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | [1A) Spam classification](assignment-1a/) | 20/08 | 02/09 17:00 | 15 |
 | [1B) Advanced spam classification](assignment-1b/) | 27/08 | 16/09 17:00 | 20 |
 | [2A) Retrieval](assignment-2a/) | 17/09 | 09/10 17:00 | 20 |
-| [2B) Advanced retrieval](assignment-2b/) | 15/10 | 04/11 17:00 | 20 |
+| [2B) Advanced retrieval](assignment-2b/) | 15/10 | 06/11 17:00 | 20 |
 | 3) *TBD* | | | 25 |
 | **Total** | | | **100** |
 

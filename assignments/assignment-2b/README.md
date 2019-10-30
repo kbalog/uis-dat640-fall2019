@@ -2,18 +2,11 @@
 
 **IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
 
-**API STATUS (28/10 17:00)** The API is currently down due to the changing of document IDs. It's expected to be back online tomorrow morning.
-
-
-**UPDATES (28/10 09:00)**
-  * Both the main and anchor indices are now complete. There are issues with document IDs, which are being resolved at the moment. An update will be posted here soon.
-
-**INDEX STATUS** (last updated: 28/10 09:00)
-
-| Index name | Size | Status |
-| -- | -- | -- |
-| `clueweb12b` (main index) | 52M docs | 100% complete, *issues with document IDs* |
-| `clueweb12b_anchors` (anchors index) | 501M docs | 100% complete, OK |
+**UPDATES (30/10 12:00)**
+  *  The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) have been pushed out to the private repositories. These are the documents you need to re-rank for each query set.
+  * The Kaggle competition has been set up ((here)[https://www.kaggle.com/c/uis-dat6402019-2b]). You're allowed 3 submissions per day until the deadline.
+  * The API is currently unavailable (due to an ongoing index update).
+  * The deadline has been extended by 48 hours to **06/11 17:00**.
 
 ----
 
@@ -46,7 +39,7 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
   * For inspiration on additional features, you can check the lecture slides or these papers:
     - [LETOR: Learning to Rank for Information Retrieval](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/). Specifically, check the feature list [in this paper](https://arxiv.org/ftp/arxiv/papers/1306/1306.2597.pdf)
     - [Macdonald et al. 2012. On the Usefulness of Query Features for Learning to Rank](https://pdfs.semanticscholar.org/dbb5/a414a1168fe2142d9bea2ed561a4a43610bf.pdf)
-  * Generate rankings for the "unseen" test queries (`data/queries2.txt`) and submit them on Kaggle: *Kaggle link to be added*.
+  * Generate rankings for the "unseen" test queries (`data/queries2.txt`) and submit them on Kaggle: (link)[https://www.kaggle.com/c/uis-dat6402019-2b].
     - Mind that you can use the entire training set for learning the model when generating rankings for the test queries.
 
 
@@ -73,7 +66,7 @@ The specific criteria for scoring the assignment is as follows:
 
 ### Submission deadline
 
-The deadline for submitting the report and code on GitHub is **04/11 17:00**.
+The deadline for submitting the report and code on GitHub is **06/11 17:00**.
 
 
 ## Data
