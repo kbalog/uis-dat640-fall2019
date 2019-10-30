@@ -4,7 +4,7 @@
 
 **UPDATES (30/10 12:00)**
   *  The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) have been pushed out to the private repositories. These are the documents you need to re-rank for each query set.
-  * The Kaggle competition has been set up ((here)[https://www.kaggle.com/c/uis-dat6402019-2b]). You're allowed 3 submissions per day until the deadline.
+  * The Kaggle competition has been set up ([here](https://www.kaggle.com/c/uis-dat6402019-2b)). You're allowed 3 submissions per day until the deadline.
   * The API is currently unavailable (due to an ongoing index update).
   * The deadline has been extended by 48 hours to **06/11 17:00**.
 
@@ -39,7 +39,7 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
   * For inspiration on additional features, you can check the lecture slides or these papers:
     - [LETOR: Learning to Rank for Information Retrieval](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/). Specifically, check the feature list [in this paper](https://arxiv.org/ftp/arxiv/papers/1306/1306.2597.pdf)
     - [Macdonald et al. 2012. On the Usefulness of Query Features for Learning to Rank](https://pdfs.semanticscholar.org/dbb5/a414a1168fe2142d9bea2ed561a4a43610bf.pdf)
-  * Generate rankings for the "unseen" test queries (`data/queries2.txt`) and submit them on Kaggle: (link)[https://www.kaggle.com/c/uis-dat6402019-2b].
+  * Generate rankings for the "unseen" test queries (`data/queries2.txt`) and submit them on Kaggle: [link](https://www.kaggle.com/c/uis-dat6402019-2b).
     - Mind that you can use the entire training set for learning the model when generating rankings for the test queries.
 
 
