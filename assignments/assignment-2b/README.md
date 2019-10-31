@@ -2,12 +2,12 @@
 
 **IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
 
-**UPDATES (30/10 12:20)**
-  *  The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) have been pushed out to the private repositories. These are the documents you need to re-rank for each query set.
-  * The Kaggle competition has been set up ([here](https://www.kaggle.com/c/uis-dat6402019-2b)). You're allowed 3 submissions per day until the deadline.
-  * The API is currently unavailable (due to an ongoing index update).
-  * The deadline has been extended by 48 hours to **06/11 17:00**.
-  * The pre-precomputed statistics (discussed on Monday) are being computed; they are available under [data](data/) with along with a [description](data/Statistics.md).
+**UPDATES**
+  * [31/10 08:40] The pre-precomputed statistics (discussed on Monday) are now complete and available under [data](data/) with along with a [description](data/Statistics.md). (These files will not be pushed to the private repositories, download them from [here](data/).)
+  *  [30/10 12:20] The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) have been pushed out to the private repositories. These are the documents you need to re-rank for each query set.
+  * [30/10 12:20] The Kaggle competition has been set up ([here](https://www.kaggle.com/c/uis-dat6402019-2b)). You're allowed 3 submissions per day until the deadline.
+  * [30/10 12:20] The API is currently unavailable (due to an ongoing index update).
+  * [30/10 12:20] The deadline has been extended by 48 hours to **06/11 17:00**.
 
 ----
 
