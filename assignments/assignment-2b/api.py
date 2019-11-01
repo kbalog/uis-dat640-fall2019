@@ -90,6 +90,12 @@ def exists(indexname, docid):
     return jsonify({"exists": es.exists(index=indexname, doc_type=DOC_TYPE, id=docid)})
 
 
+@app.route("/<indexname>/<docid>/_get")
+def get(indexname, docid):
+    data = es.get(index=indexname, id=docid)
+    return jsonify(data)
+
+
 @app.route("/<indexname>/_analyze")
 def analyze(indexname):
     text = request.args.get('text')

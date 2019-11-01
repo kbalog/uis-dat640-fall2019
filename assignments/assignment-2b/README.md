@@ -1,12 +1,11 @@
 # Assignment 2B
 
-**IMPORTANT** *This assignment description will be updated over the course of the coming days. Make sure to always look at the most recent version of the respective parts.*
-
 **UPDATES**
+  * [11/01 11:30] The API is up and running (and should be stable from now on).  It has also been extended with a **get** endpoint to fetch document content and URL directly from the index.
+  * [11/01 11:30] The report may be expanded with an additional challenges section (see [below](#Deliverable)).
   * [31/10 08:40] The pre-precomputed statistics (discussed on Monday) are now complete and available under [data](data/) with along with a [description](data/Statistics.md). (These files will not be pushed to the private repositories, download them from [here](data/).)
   *  [30/10 12:20] The first-pass ranking data files (`data/ranking_bm25.csv` and `data/ranking2_bm25.csv`) have been pushed out to the private repositories. These are the documents you need to re-rank for each query set.
   * [30/10 12:20] The Kaggle competition has been set up ([here](https://www.kaggle.com/c/uis-dat6402019-2b)). You're allowed 3 submissions per day until the deadline.
-  * [30/10 12:20] The API is currently unavailable (due to an ongoing index update).
   * [30/10 12:20] The deadline has been extended by 48 hours to **06/11 17:00**.
 
 ----
@@ -55,6 +54,7 @@ The following Jupyter notebooks are provided for your convenience. You don't nee
 ## Deliverable
 
   - You need to complete the [REPORT.md](REPORT.md) file in your private repository.
+    * Because of the infrastructure problems during the assignment, we recognize that all teams have experienced challenges. To let us award additional points to those who have dealt with these challenges proactively, you may add an additional section to your report, just above the References heading, where you in maximum 300 words describe your efforts specifically to deal with and work around these challenges. The heading should be "Challenges", and you should describe objectively the challenges (and not subjective experience) and how you dealt with them.
   - All code files that were used to produce the report must be included in the GitHub repository. Do not store large data files on GitHub!
 
 
@@ -166,6 +166,9 @@ Currently, the following functionality is supported.
   * **Exists**: `/<indexname>/<docid>/_exists`
     - Returns whether the given document ID exists in that index using [es.exists()](https://elasticsearch-py.readthedocs.io/en/master/api.html#elasticsearch.Elasticsearch.exists)
     - E.g. `http://gustav1.ux.uis.no:5002/clueweb12b/clueweb12-1700tw-22-12689/_exists`
+  * **Get**: `/<indexname>/<docid>/_exists`
+    - Returns a given document from the index using [es.get()](https://elasticsearch-py.readthedocs.io/en/master/api.html#elasticsearch.Elasticsearch.get)
+      - E.g. `http://gustav1.ux.uis.no:5002/clueweb12b/clueweb12-1700tw-22-12689/_get`
   * **Analyze**: `/<indexname>/_analyze`
     - Returns the analyzed version of the input text using [es.indices.analyze()](https://elasticsearch-py.readthedocs.io/en/master/api.html#elasticsearch.client.IndicesClient.analyze)
     - This endpoint is needed when using another retrieval method for scoring the query (e.g., LM). Instead of just splitting on spaces, use this request for tokenizing the query text.
