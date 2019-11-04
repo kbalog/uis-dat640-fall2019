@@ -188,3 +188,5 @@ The API may be extended over time with additional functionality, should the need
   * **Few document IDs retrieved from the API match those in the `qrels.txt` and/or `pagerank.docNameOrder.bz2`. Is this an error?** Yes, it’s an (indexing) error. It’s being fixed right now.
   * **The API is unavailable/not responding.** We’ll try to make sure it’s available. Mail to dat640help@gmail.com if it’s unavailable and we’ll try to bring it back ASAP.
   * **How should we calculate the BM25 scores?** If you want to use it as a feature, then calculate it yourself. Note that the BM25 first-pass ranking is given (without scores), and it’s not required to report on BM25.
+  * **Many documents listed in the qrels file are missing from the index. Is that an error?** The qrels contain all documents in the ClueWeb12 collection, while we are working with the Category B subset. Hence, there are indeed thousands of documents in `qrels.txt` that you won't find in the main index. You may simply ignore those.
+  
