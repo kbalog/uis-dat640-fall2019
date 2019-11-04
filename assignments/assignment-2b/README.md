@@ -1,6 +1,8 @@
 # Assignment 2B
 
 **UPDATES**
+  * [04/11 14:15] The maximum number of daily Kaggle submissions has been double (is 6 now).
+  * [04/11 14:15] The FAQ section has been extended.
   * [11/01 11:30] The API is up and running (and should be stable from now on).  It has also been extended with a **get** endpoint to fetch document content and URL directly from the index.
   * [11/01 11:30] The report may be expanded with an additional challenges section (see [below](#Deliverable)).
   * [31/10 08:40] The pre-precomputed statistics (discussed on Monday) are now complete and available under [data](data/) with along with a [description](data/Statistics.md). (These files will not be pushed to the private repositories, download them from [here](data/).)
@@ -189,4 +191,4 @@ The API may be extended over time with additional functionality, should the need
   * **The API is unavailable/not responding.** We’ll try to make sure it’s available. Mail to dat640help@gmail.com if it’s unavailable and we’ll try to bring it back ASAP.
   * **How should we calculate the BM25 scores?** If you want to use it as a feature, then calculate it yourself. Note that the BM25 first-pass ranking is given (without scores), and it’s not required to report on BM25.
   * **Many documents listed in the qrels file are missing from the index. Is that an error?** The qrels contain all documents in the ClueWeb12 collection, while we are working with the Category B subset. Hence, there are indeed thousands of documents in `qrels.txt` that you won't find in the main index. You may simply ignore those.
-  
+  * **The second table in the report template has columns to report NDCG@10 and NDCG@20, but I can’t evaluate my predictions to arbitrary NDCG@n without the corresponding qrels file. What should I do?** Change the table to report only NDCG@100 for each of the two rows (all features, best 5 features), which is the value of your corresponding Kaggle submission score.
