@@ -10,11 +10,11 @@ You need to implement three models and report evaluation results on those. All m
 
   1. **MLM**: The mixture of language models approach with two fields, title and content, with weights 0.2 and 0.8, respectively. Content should be the "catch-all" field. Use Dirichlet smoothing with the smoothing parameter set to 2000.
   1. **SDM+ELR**: Sequential dependence model with the ELR extension.
-    - This is a single-field variant of SDM, so you need to use the "catch-all" field for scoring.
-    - Use standard weights, that is, 0.85 for unigram matches, 0.1 for ordered bigram matches, and 0.05 for unordered bigram matches.
-    - Use Dirichlet smoothing with the smoothing parameter set to 2000.
-    - Note: you'll need to build a positional index.
-    - The entity annotations for queries are provided as part of the input.
+      - This is a single-field variant of SDM, so you need to use the "catch-all" field for scoring.
+      - Use standard weights, that is, 0.85 for unigram matches, 0.1 for ordered bigram matches, and 0.05 for unordered bigram matches.
+      - Use Dirichlet smoothing with the smoothing parameter set to 2000.
+      - Note: you'll need to build a positional index.
+      - The entity annotations for queries are provided as part of the input.
   1. **Your model**: This may be any known extension/variant of existing models or your own invention. You may use any technique or combination of techniques introduced in the lectures, e.g., multiple fields, query expansion, word embeddings, etc. A standard option is FSDM+ELR, which should give you 10% relative improvement over SDM+ELR.
 
 ## Deliverable
