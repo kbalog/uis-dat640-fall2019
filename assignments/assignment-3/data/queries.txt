@@ -1,0 +1,234 @@
+INEX_LD-2009022	Szechwan dish food cuisine
+INEX_LD-2009053	finland car industry manufacturer saab sisu
+INEX_LD-2009062	social network group selection
+INEX_LD-2009074	web ranking scoring algorithm
+INEX_LD-2009111	europe solar power facility
+INEX_LD-2010004	Indian food
+INEX_LD-2010019	gallo roman architecture in paris
+INEX_LD-2010037	social network API
+INEX_LD-2010057	Einstein Relativity theory
+INEX_LD-2010100	house concrete wood
+INEX_LD-20120111	vietnam war movie
+INEX_LD-20120121	vietnam food recipes
+INEX_LD-20120131	vietnam travel national park
+INEX_LD-20120211	guitar chord tuning
+INEX_LD-20120221	guitar classical flamenco
+INEX_LD-20120231	guitar origin Russia
+INEX_LD-20120311	tango culture movies
+INEX_LD-20120321	tango music  composers
+INEX_LD-20120331	tango dance styles
+INEX_LD-20120411	bicycle sport races
+INEX_LD-20120421	bicycle holiday towns
+INEX_LD-20120431	bicycle benefits health
+INEX_LD-20120511	female rock singers
+INEX_LD-20120521	electronic music genres
+INEX_LD-20120531	music conferences
+INEX_LD-2012301	Niagara falls origin lake
+INEX_LD-2012305	North Dakota lowest river of another colour
+INEX_LD-2012309	residents small island city state  Malay Peninsula Chinese
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull
+INEX_LD-2012327	Beloved author African American Nobel Prize Literature
+INEX_LD-2012331	Seoul Korea river name ethnic group China
+INEX_LD-2012335	US president authorise nuclear weapons against Japan
+INEX_LD-2012337	Texas city Baylor University tornado 1953
+INEX_LD-2012341	1997  Houston airport president
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks
+INEX_LD-2012353	country German language
+INEX_LD-2012355	England football player highest paid
+INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti gun movement
+INEX_LD-2012363	American twins famous  American professional tennis double players
+INEX_LD-2012367	invented telescope
+INEX_LD-2012371	most beautiful railway stations world cities located
+INEX_LD-2012373	birds cannot fly
+INEX_LD-2012377	allegedly caused World War I
+INEX_LD-2012383	famous computer scientists disappeared at sea
+INEX_LD-2012387	famous river confluence dam constructed
+INEX_LD-2012390	baseball player most homeruns national league
+INEX_XER-106	Noble english person from the Hundred Years War
+INEX_XER-109	National capitals situated on islands
+INEX_XER-113	Formula 1 drivers that won the Monaco Grand Prix
+INEX_XER-115	Formula One World Constructors Champions
+INEX_XER-117	Musicians appeared in the Blues Brothers movies
+INEX_XER-119	Swiss cantons they speak German
+INEX_XER-122	Movies with eight or more Academy Awards
+INEX_XER-124	Novels that won the Booker Prize
+INEX_XER-126	toy train manufacturers that are still in business
+INEX_XER-128	Bond girls
+INEX_XER-130	Star Trek Captains
+INEX_XER-133	EU countries
+INEX_XER-135	professional baseball team in Japan
+INEX_XER-138	National Parks East Coast Canada US
+INEX_XER-140	Airports in Germany
+INEX_XER-143	Hanseatic league in Germany in the Netherlands Circle
+INEX_XER-147	Chemical elements that are named after people
+INEX_XER-62	Neil Gaiman novels
+INEX_XER-64	Alan Moore graphic novels adapted to film
+INEX_XER-67	Ferris and observation wheels
+INEX_XER-73	magazines about indie music
+INEX_XER-79	Works by Charles Rennie Mackintosh
+INEX_XER-86	List of countries in World War Two
+INEX_XER-88	Nordic authors are known for children literature
+INEX_XER-94	Hybrid cars sold in Europe
+INEX_XER-96	Pure object oriented programing languages
+INEX_XER-98	Makers of lawn tennis rackets
+QALD2_te-1	German cities have more than 250000 inhabitants
+QALD2_te-11	is the Formula 1 race driver with the most races
+QALD2_te-13	is the youngest player in the Premier League
+QALD2_te-15	is the longest river
+QALD2_te-19	all people that were born in Vienna and died in Berlin
+QALD2_te-21	is the capital of Canada
+QALD2_te-24	was the father of Queen Elizabeth II
+QALD2_te-27	Sean Parnell is the governor of US state
+QALD2_te-29	all actors starring in movies directed by and starring William Shatner
+QALD2_te-31	all current Methodist national leaders
+QALD2_te-34	In military conflicts did Lawrence of Arabia participate
+QALD2_te-39	all companies in Munich
+QALD2_te-41	founded Intel
+QALD2_te-43	all breeds of the German Shepherd dog
+QALD2_te-45	countries are connected by the Rhine
+QALD2_te-48	In UK city are the headquarters of the MI6
+QALD2_te-5	is the second highest mountain on Earth
+QALD2_te-53	is the ruling party in Lisbon
+QALD2_te-57	the Apollo 14 astronauts
+QALD2_te-59	US states are in the same timezone as Utah
+QALD2_te-60	a list of all lakes in Denmark
+QALD2_te-64	all launch pads operated by NASA
+QALD2_te-66	ships were called after Benjamin Franklin
+QALD2_te-72	In US state is Area 51 located?
+QALD2_te-76	List the children of Margaret Thatcher
+QALD2_te-8	To countries does the Himalayan mountain system extend
+QALD2_te-81	books by Kerouac were published by Viking Press
+QALD2_te-84	created the comic Captain America
+QALD2_te-87	composed the music for Harold and Maude
+QALD2_te-89	In city was the former Dutch queen Juliana buried
+QALD2_te-90	is the residence of the prime minister of Spain
+QALD2_te-92	all songs from Bruce Springsteen released between 1980 and 1990
+QALD2_te-95	wrote the lyrics for the Polish national anthem
+QALD2_te-98	country does the creator of Miffy come from
+QALD2_tr-1	all female Russian astronauts
+QALD2_tr-11	countries have places with more than two caves
+QALD2_tr-15	created Goofy
+QALD2_tr-17	all cities in New Jersey with more than 100000 inhabitants
+QALD2_tr-21	states border Illinois
+QALD2_tr-23	television shows were created by Walt Disney
+QALD2_tr-25	In films directed by Garry Marshall was Julia Roberts starring
+QALD2_tr-28	European countries have a constitutional monarchy
+QALD2_tr-3	is the daughter of Bill Clinton married to
+QALD2_tr-31	is the currency of the Czech Republic
+QALD2_tr-34	countries have more than two official languages
+QALD2_tr-36	Through countries does the Yenisei river flow
+QALD2_tr-4	river does the Brooklyn Bridge cross
+QALD2_tr-41	all soccer clubs in Spain
+QALD2_tr-43	is the mayor of New York City
+QALD2_tr-45	telecommunications organizations are located in Belgium
+QALD2_tr-49	all companies in the advertising industry
+QALD2_tr-51	all school types
+QALD2_tr-53	all presidents of the United States
+QALD2_tr-55	developed the video game World of Warcraft
+QALD2_tr-58	produced the most films
+QALD2_tr-6	did Abraham Lincoln die
+QALD2_tr-62	created Wikipedia
+QALD2_tr-64	software has been developed by organizations founded in California
+QALD2_tr-68	actors were born in Germany
+QALD2_tr-70	all films produced by Hal Roach
+QALD2_tr-72	languages are spoken in Estonia
+QALD2_tr-74	capitals in Europe were host cities of the summer olympic games
+QALD2_tr-77	music albums contain the song Last Christmas
+QALD2_tr-79	airports are located in California USA
+QALD2_tr-80	all Canadian Grunge record labels
+QALD2_tr-82	In programming language is GIMP written
+QALD2_tr-84	all movies with Tom Cruise
+QALD2_tr-86	all female German chancellors
+QALD2_tr-89	all soccer clubs in the Premier League
+QALD2_tr-91	organizations were founded in 1950
+SemSearch_ES-1	44 magnum hunting
+SemSearch_ES-100	YMCA Tampa
+SemSearch_ES-102	beach flowers
+SemSearch_ES-106	chase masterson
+SemSearch_ES-108	danielia cotton
+SemSearch_ES-11	austin powers
+SemSearch_ES-114	glenn frey
+SemSearch_ES-118	iowa energy
+SemSearch_ES-12	austin texas
+SemSearch_ES-123	michael zimmerman
+SemSearch_ES-125	nokia e73
+SemSearch_ES-128	philadelphia neufchatel cheese
+SemSearch_ES-13	banana paper making
+SemSearch_ES-131	scpa san diego
+SemSearch_ES-135	spring shoes canada
+SemSearch_ES-137	steak express
+SemSearch_ES-14	ben franklin
+SemSearch_ES-15	bradley center
+SemSearch_ES-17	butte montana
+SemSearch_ES-19	carl lewis
+SemSearch_ES-20	carolina
+SemSearch_ES-22	city of charlotte
+SemSearch_ES-24	coastal carolina
+SemSearch_ES-26	disney orlando
+SemSearch_ES-29	ellis college
+SemSearch_ES-30	eloan line of credit
+SemSearch_ES-32	fitzgerald auto mall chambersburg pa
+SemSearch_ES-34	harry potter movie
+SemSearch_ES-37	jack johnson
+SemSearch_ES-39	james caldwell high school
+SemSearch_ES-40	james clayton md
+SemSearch_ES-42	john maxwell
+SemSearch_ES-47	king arthur
+SemSearch_ES-5	Scott County
+SemSearch_ES-52	lincoln park
+SemSearch_ES-54	marc anthony
+SemSearch_ES-57	martin luther king
+SemSearch_ES-59	mercy hospital in des moines ia
+SemSearch_ES-60	michael douglas
+SemSearch_ES-63	old winchester shotguns
+SemSearch_ES-66	overeaters anonymous
+SemSearch_ES-68	pierce county washington
+SemSearch_ES-70	radio italia online
+SemSearch_ES-72	rock 103 memphis
+SemSearch_ES-74	sacred heart u
+SemSearch_ES-76	san antonio
+SemSearch_ES-78	sharp pc
+SemSearch_ES-80	sonny and cher
+SemSearch_ES-82	st lucia
+SemSearch_ES-84	the dish danielle fishel
+SemSearch_ES-86	the morning call lehigh valley pa
+SemSearch_ES-89	university of north dakota
+SemSearch_ES-90	university of phoenix
+SemSearch_ES-93	08 toyota tundra
+SemSearch_ES-95	MADRID
+SemSearch_ES-97	PINK PANTHER 2
+SemSearch_ES-99	University of York
+SemSearch_LS-10	did nicole kidman have any siblings
+SemSearch_LS-12	first targets of the atomic bomb
+SemSearch_LS-14	gods dwelt on Mount Olympus
+SemSearch_LS-17	houses of the Russian parliament
+SemSearch_LS-19	kenya captain in cricket
+SemSearch_LS-20	kublai khan siblings
+SemSearch_LS-22	major leagues in the united states
+SemSearch_LS-25	members of u2
+SemSearch_LS-29	nations Portuguese is an official language
+SemSearch_LS-30	orders or choirs of angels
+SemSearch_LS-32	presidents depicted on mount rushmore died of shooting
+SemSearch_LS-34	ratt albums
+SemSearch_LS-36	revolutionaries of 1959 in Cuba
+SemSearch_LS-38	states that border oklahoma
+SemSearch_LS-4	Axis powers of World War II
+SemSearch_LS-41	the four of the companions of the prophet
+SemSearch_LS-43	books did paul of tarsus write
+SemSearch_LS-46	the British monarch is also head of state
+SemSearch_LS-5	books of the Jewish canon
+SemSearch_LS-6	boroughs of New York City
+SemSearch_LS-8	continents in the world
+TREC_Entity-1	Carriers that Blackberry makes phones for
+TREC_Entity-11	Donors to the Home Depot Foundation
+TREC_Entity-14	Authors awarded an Anthony Award at Bouchercon in 2007
+TREC_Entity-16	Sponsors of the Mancuso quilt festivals
+TREC_Entity-18	Members of the band Jefferson Airplane
+TREC_Entity-2	Winners of the ACM Athena award
+TREC_Entity-4	Professional sports teams in Philadelphia
+TREC_Entity-6	Organizations that award Nobel prizes
+TREC_Entity-9	Members of The Beaux Arts Trio

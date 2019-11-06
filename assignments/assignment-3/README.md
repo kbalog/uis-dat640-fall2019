@@ -1,7 +1,5 @@
 # Assignment 3
 
-**IMPORTANT**: *Group work is mandatory for this assignment. You need to sign up for teams using [this form](https://forms.gle/h2GForn1dE2sTEJa7) by Wed 06/11 10.00.*
-
 Your task is to implement three entity retrieval models on top of Elasticsearch and evaluate them on a standard test collection.
 
 ## Models
@@ -10,7 +8,7 @@ You need to implement three models and report evaluation results on those. All m
 
   1. **MLM**: The mixture of language models approach with two fields, title and content, with weights 0.2 and 0.8, respectively. Content should be the "catch-all" field. Use Dirichlet smoothing with the smoothing parameter set to 2000.
   1. **SDM+ELR**: Sequential dependence model with the ELR extension.
-      - This is a single-field variant of SDM, so you need to use the "catch-all" field for scoring.
+      - This is a single-field variant of SDM, so you need to use the "catch-all" field for term-based scoring.
       - Use standard weights, that is, 0.8 for unigram matches, 0.05 for ordered bigram matches, 0.05 for unordered bigram matches, and 0.1 for entity matches.
       - Use Dirichlet smoothing with the smoothing parameter set to 2000.
       - Note: you'll need to build a positional index.
@@ -39,6 +37,7 @@ The specific criteria for scoring the assignment is as follows:
   * Implementation of Your model (*TBD* points)
   * Performance of Your model (5 points)
     - Points are based on the relative improvement made in percentage points (using rules of rounding) compared to the SDM+ELR model in terms of NDCG@10 score:
+
     | Improvement | Points |
     | -- | -- |
     | <2% | 0 |
@@ -47,6 +46,7 @@ The specific criteria for scoring the assignment is as follows:
     | >=6 and <8% | 3 |
     | >=8 and <10% | 4 |
     | >=10% | 5 |
+
   * Report (*TBD* points)
   * Code readability and hygiene (*TBD* points)
 
@@ -91,13 +91,58 @@ A couple of things to keep in mind:
   * For subject-predicate-object (SPO) triples where the object is an entity, you want to make it searchable both as text (by performing URI resolution, i.e., replacing the URI with the canonical name of the entity) and as an entity. That is, you'll need to have two different types of fields, text and entity, and SPO triples with entity objects contribute to both types of fields.
   * For the SDM+ELR model, you'll need a "catch-all entities" field as well.
   * Remember that indexing may take some time, so make sure you leave enough time for it.
+  * Use a single shard to make sure you're getting the right term statistics.
 
 
-### Entity annotations
+### Queries
+
+The [queries.txt](data/queries.txt) file contains 234 queries in total.  Each line starts with a queryID, followed by the query string (separated by a tab).  E.g.,
+
+```
+INEX_LD-2009022	Szechwan dish food cuisine
+INEX_LD-2009053	finland car industry manufacturer saab sisu
+INEX_LD-2009062	social network group selection
+...
+```
+
+You are provided with the relevance judgments for these queries (see below).
+
+The [queries2.txt](data/queries2.txt) file contains additional 233 queries. These are "unseen" queries, for which you'll have to generate entity rankings, but you don't get to see the corresponding relevance judgments.
+
+
+### Query entity annotations
 
 Entity annotations for the queries are provided in the *TO BE ADDED* file.
 
 
-### Queries and relevance assessments
+### Relevance judgments
 
-You are provided with a training and a test query set (`queries.txt` and `queries2.txt`).  For the training set, graded relevance assessments are made available (`qrels.txt`).  These files are available under [data](data/) and are also pushed to the private repositories.
+The [qrels.csv](data/qrels.csv) file contains the relevance judgments for the queries in `data/queries.txt`. Each line contains the relevance label for a query-entity pair.  Relevance ranges from 0 to 2, where 0 is non-relevant, 1 is somewhat relevant, and 2 is highly relevant.
+
+```
+QueryId,EntityId,Relevance
+INEX_LD-2009022,<dbpedia:Afghan_cuisine>,0
+INEX_LD-2009022,<dbpedia:Akan_cuisine>,0
+INEX_LD-2009022,<dbpedia:Ambuyat>,0
+INEX_LD-2009022,<dbpedia:American_Chinese_cuisine>,1
+...
+```
+
+
+### Output file format
+
+The output file should contain two columns: QueryId and EntityId. For each query, up to 100 entities may be returned, in decreasing order of relevance (i.e., more relevant first).
+
+The file should contain a header and have the following format:
+
+```
+QueryId,EntityId
+INEX_LD-2009022,<dbpedia:American_Chinese_cuisine>
+INEX_LD-2009022,<dbpedia:Chinese_cuisine>
+INEX_LD-2009022,<dbpedia:Hot_and_sour_soup>
+...
+INEX_LD-2009053,<dbpedia:Sisu_A-45>
+INEX_LD-2009053,<dbpedia:Sisu_A2045>
+INEX_LD-2009053,<dbpedia:Sisu_Auto>
+...
+```
