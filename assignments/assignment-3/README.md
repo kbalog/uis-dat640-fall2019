@@ -117,14 +117,16 @@ Entity annotations for the queries are provided in the *TO BE ADDED* file.
 
 ### Relevance judgments
 
-The [qrels.csv](data/qrels.csv) file contains the relevance judgments for the queries in `data/queries.txt`. Each line contains the relevance label for a query-entity pair.  Relevance ranges from 0 to 2, where 0 is non-relevant, 1 is somewhat relevant, and 2 is highly relevant.
+The [qrels.csv](data/qrels.csv) file contains the relevance judgments for the queries in `data/queries.txt`. Each line contains the relevance label for a query-entity pair.  Relevance ranges from 0 to 2, where 0 is non-relevant, 1 is (somewhat) relevant, and 2 is highly relevant.
+
+Since EntityId-s may contain commas, they are enclosed in double quotes.
 
 ```
 QueryId,EntityId,Relevance
-INEX_LD-2009022,<dbpedia:Afghan_cuisine>,0
-INEX_LD-2009022,<dbpedia:Akan_cuisine>,0
-INEX_LD-2009022,<dbpedia:Ambuyat>,0
-INEX_LD-2009022,<dbpedia:American_Chinese_cuisine>,1
+INEX_LD-2009022,"<dbpedia:Afghan_cuisine>",0
+INEX_LD-2009022,"<dbpedia:Akan_cuisine>",0
+INEX_LD-2009022,"<dbpedia:Ambuyat>",0
+INEX_LD-2009022,"<dbpedia:American_Chinese_cuisine>",1
 ...
 ```
 
@@ -133,16 +135,18 @@ INEX_LD-2009022,<dbpedia:American_Chinese_cuisine>,1
 
 The output file should contain two columns: QueryId and EntityId. For each query, up to 100 entities may be returned, in decreasing order of relevance (i.e., more relevant first).
 
+Since EntityId-s may contain commas, they need to be enclosed in double quotes.
+
 The file should contain a header and have the following format:
 
 ```
 QueryId,EntityId
-INEX_LD-2009022,<dbpedia:American_Chinese_cuisine>
-INEX_LD-2009022,<dbpedia:Chinese_cuisine>
-INEX_LD-2009022,<dbpedia:Hot_and_sour_soup>
+INEX_LD-2009022,"<dbpedia:American_Chinese_cuisine>"
+INEX_LD-2009022,"<dbpedia:Chinese_cuisine>"
+INEX_LD-2009022,"<dbpedia:Hot_and_sour_soup>"
 ...
-INEX_LD-2009053,<dbpedia:Sisu_A-45>
-INEX_LD-2009053,<dbpedia:Sisu_A2045>
-INEX_LD-2009053,<dbpedia:Sisu_Auto>
+INEX_LD-2009053,"<dbpedia:Sisu_A-45>"
+INEX_LD-2009053,"<dbpedia:Sisu_A2045>"
+INEX_LD-2009053,"<dbpedia:Sisu_Auto>"
 ...
 ```
