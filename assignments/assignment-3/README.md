@@ -62,34 +62,41 @@ The **deadline** for submitting your code on GitHub as well as your final rankin
 
 The knowledge base we use as our dataset is DBpedia, specifically [version 2015-10](http://wiki.dbpedia.org/Downloads2015-10). You need to download and index this collection using Elasticsearch on your local machine.  Keep only entities that have both title and abstract (i.e., `rdfs:label` and `rdfs:comment` predicates).
 
-DBpedia is distributed as a set of sub-collections. The following sub-collections are to be used:
+DBpedia is distributed as a set of sub-collections. The following files are to be used:
 
-| File name | Predicates | Reverse* |
-| -- | -- | -- |
-| core-i18n/en/article_categories_en.ttl.bz2 | `<dcterms:subject>` | |
-| core-i18n/en/category_labels_en.ttl.bz2 | `<rdfs:label>` | |
-| core-i18n/en/disambiguations_en.ttl.bz2 | `<dbo:wikiPageDisambiguates>` | Yes |
-| core-i18n/en/infobox_properties_en.ttl.bz2 | Too many to list here | |
-| *Table is to be populated* |||
+  * `anchor_text_en.ttl`
+  * `article_categories_en.ttl`
+  * `disambiguations_en.ttl`*
+  * `infobox_properties_en.ttl`
+  * `instance_types_transitive_en.ttl`
+  * `labels_en.ttl`
+  * `long_abstracts_en.ttl`
+  * `mappingbased_literals_en.ttl`
+  * `mappingbased_objects_en.ttl`
+  * `page_links_en.ttl`
+  * `persondata_en.ttl`
+  * `short_abstracts_en.ttl`
+  * `transitive_redirects_en.ttl`*
 
-  * "Reverse" means that in the subject-predicate-object triple the entity stands as object. Thus, it's the subject component of the triple that needs to be indexed (i.e., "reverse" the direction of the triple).
+The files marked with * contain reverse relations, meaning that in the subject-predicate-object triple the entity stands as object. Thus, it's the subject component of the triple that needs to be indexed (i.e., "reverse" the direction of the triple).
 
+### Indexing
 
-### Fields
+  * The choice of fields and preprocessing applied is up to you. In previous work, the following fields have been used successfully for text-based retrieval:
 
-The choice of fields and preprocessing applied is up to you. In previous work, the following fields have been used successfully:
-  * Names (canonical name(s) of the entity)
-  * Aliases (name variants)
-  * Categories
-  * Attributes
-  * Related entity names
+  | Field | Description | Predicates | Notes |
+  | --- | --- | --- | --- |
+  | Names | Names of the entity | `<foaf:name>`, `<dbp:name>`, `<foaf:givenName>`, `<foaf:surname>`, `<dbp:officialName>`, `<dbp:fullname>`, `<dbp:nativeName>`, `<dbp:birthName>`, `<dbo:birthName>`, `<dbp:nickname>`, `<dbp:showName>`, `<dbp:shipName>`, `<dbp:clubname>`, `<dbp:unitName>`, `<dbp:otherName>`, `<dbo:formerName>`, `<dbp:birthname>`, `<dbp:alternativeNames>`, `<dbp:otherNames>`, `<dbp:names>`, `<rdfs:label>` | |
+  | Categories | Entity types | `<dcterms:subject>` | |
+  | Similar entity names | Entity  name variants | `!<dbo:wikiPageRedirects>`, `!<dbo:wikiPageDisambiguates>`, `<dbo:wikiPageWikiLinkText>` | `!` denotes reverse direction (i.e. `<o, p, s>`) |
+  | Attributes | Literal attributes of entity | All `<s, p, o>`, where *"o"* is a literal and *"p"* is not in *Names*, *Categories* or *Similar entity names*. For each `<s, p, o>` triple, if `p matches <dbp:.*>` both *p* and *o* are stored (i.e. *"p o"* is indexed). | |
+  | Related entity names | URI relations of entity|  Similar to *Attributes* field, but *"o"* should be a URI. | |  
 
-
-A couple of things to keep in mind:
-
-  * You'll need a "catch-all" field.
-  * For subject-predicate-object (SPO) triples where the object is an entity, you want to make it searchable both as text (by performing URI resolution, i.e., replacing the URI with the canonical name of the entity) and as an entity. That is, you'll need to have two different types of fields, text and entity, and SPO triples with entity objects contribute to both types of fields.
-  * For the SDM+ELR model, you'll need a "catch-all entities" field as well.
+  * You'll also need a "catch-all" field (to be used as the "content" field for MLM and as the single field for SDM).
+  * For entity-based retrieval, the ELR model assumes that each predicate is indexed as a separate field.  In practice, it is reasonable to consider only the top-1000 most frequent predicates as fields, and ignore predicates outside this set. You may mix the term-based and entity-based representations in a single index (using different field types) or create a separate entity-based index.
+  * For subject-predicate-object (SPO) triples where the object is an entity, you want to make the object value searchable both as text (by performing URI resolution, i.e., replacing the URI with the canonical name of the entity) and as an entity. That is, you’ll need to have two different types of fields, text and entity. Then all relevant SPO triples with entity objects must contribute to both types of fields.
+    - Category URIs may be resolved using `category_labels_en.ttl` file.
+    - Predicate URIs may resolved using `infobox_property_definitions_en.ttl` file, should you decide that you also want to include the name of the attribute in the index in the Attributes field.
   * Remember that indexing may take some time, so make sure you leave enough time for it.
   * Use a single shard to make sure you're getting the right term statistics.
 
