@@ -1,0 +1,5696 @@
+{
+    "INEX_LD-2009022": {
+        "Szechwan": {
+            "score": 0.26125,
+            "uri": "<dbpedia:Sichuan>"
+        },
+        "cuisine": {
+            "score": 0.34625,
+            "uri": "<dbpedia:Cuisine>"
+        },
+        "dish": {
+            "score": 0.33659,
+            "uri": "<dbpedia:Dish_(food)>"
+        },
+        "food": {
+            "score": 0.29232,
+            "uri": "<dbpedia:Food>"
+        }
+    },
+    "INEX_LD-2009039": {
+        "roman architecture": {
+            "score": 0.2883,
+            "uri": "<dbpedia:Ancient_Roman_architecture>"
+        }
+    },
+    "INEX_LD-2009053": {
+        "car industry": {
+            "score": 0.26087,
+            "uri": "<dbpedia:Automotive_industry>"
+        },
+        "finland": {
+            "score": 0.41602,
+            "uri": "<dbpedia:Finland>"
+        },
+        "manufacturer": {
+            "score": 0.2603,
+            "uri": "<dbpedia:Automotive_industry>"
+        },
+        "saab": {
+            "score": 0.33259,
+            "uri": "<dbpedia:Saab_Automobile>"
+        },
+        "sisu": {
+            "score": 0.26811,
+            "uri": "<dbpedia:Sisu_Auto>"
+        }
+    },
+    "INEX_LD-2009061": {
+        "france": {
+            "score": 0.41335,
+            "uri": "<dbpedia:France>"
+        },
+        "normandy": {
+            "score": 0.43209,
+            "uri": "<dbpedia:Normandy>"
+        },
+        "second world war": {
+            "score": 0.45798,
+            "uri": "<dbpedia:World_War_II>"
+        }
+    },
+    "INEX_LD-2009062": {
+        "group selection": {
+            "score": 0.58312,
+            "uri": "<dbpedia:Group_selection>"
+        },
+        "social network": {
+            "score": 0.49635,
+            "uri": "<dbpedia:Social_network>"
+        }
+    },
+    "INEX_LD-2009063": {
+        "D-Day": {
+            "score": 0.80457,
+            "uri": "<dbpedia:Normandy_landings>"
+        },
+        "normandy invasion": {
+            "score": 0.78711,
+            "uri": "<dbpedia:Normandy_landings>"
+        }
+    },
+    "INEX_LD-2009074": {
+        "scoring algorithm": {
+            "score": 0.16667,
+            "uri": "<dbpedia:Scoring_algorithm>"
+        },
+        "web ranking": {
+            "score": 0.16667,
+            "uri": "<dbpedia:PageRank>"
+        }
+    },
+    "INEX_LD-2009096": {
+        "Eiffel": {
+            "score": 0.05447,
+            "uri": "<dbpedia:Eiffel_(programming_language)>"
+        }
+    },
+    "INEX_LD-2009111": {
+        "europe": {
+            "score": 0.19981,
+            "uri": "<dbpedia:Europe>"
+        },
+        "solar power": {
+            "score": 0.29512,
+            "uri": "<dbpedia:Solar_power>"
+        }
+    },
+    "INEX_LD-2009115": {
+        "virtual museums": {
+            "score": 0.14286,
+            "uri": "<dbpedia:Virtual_museum>"
+        }
+    },
+    "INEX_LD-2010004": {
+        "Indian food": {
+            "score": 0.07784,
+            "uri": "<dbpedia:Indian_cuisine>"
+        }
+    },
+    "INEX_LD-2010014": {
+        "composer": {
+            "score": 0.11338,
+            "uri": "<dbpedia:Composer>"
+        },
+        "museum": {
+            "score": 0.02136,
+            "uri": "<dbpedia:Museum>"
+        }
+    },
+    "INEX_LD-2010019": {
+        "gallo roman": {
+            "score": 0.51488,
+            "uri": "<dbpedia:Gallo-Roman_culture>"
+        },
+        "paris": {
+            "score": 0.32344,
+            "uri": "<dbpedia:Paris>"
+        },
+        "roman architecture": {
+            "score": 0.4432,
+            "uri": "<dbpedia:Ancient_Roman_architecture>"
+        }
+    },
+    "INEX_LD-2010020": {
+        "France": {
+            "score": 0.2859,
+            "uri": "<dbpedia:France>"
+        },
+        "electricity": {
+            "score": 0.1844,
+            "uri": "<dbpedia:Electricity>"
+        },
+        "source": {
+            "score": 0.11386,
+            "uri": "<dbpedia:Field-effect_transistor>"
+        }
+    },
+    "INEX_LD-2010037": {
+        "API": {
+            "score": 0.42028,
+            "uri": "<dbpedia:Application_programming_interface>"
+        },
+        "social network": {
+            "score": 0.4983,
+            "uri": "<dbpedia:Social_network>"
+        }
+    },
+    "INEX_LD-2010043": {
+        "category": {
+            "score": 0.09581,
+            "uri": "<dbpedia:Category_of_being>"
+        },
+        "films": {
+            "score": 0.09003,
+            "uri": "<dbpedia:Film>"
+        },
+        "surrealist": {
+            "score": 0.40361,
+            "uri": "<dbpedia:Surrealism>"
+        }
+    },
+    "INEX_LD-2010057": {
+        "Einstein": {
+            "score": 0.44129,
+            "uri": "<dbpedia:Albert_Einstein>"
+        },
+        "Relativity theory": {
+            "score": 0.51947,
+            "uri": "<dbpedia:Theory_of_relativity>"
+        }
+    },
+    "INEX_LD-2010069": {
+        "flowers": {
+            "score": 0.20659,
+            "uri": "<dbpedia:Flower>"
+        },
+        "summer": {
+            "score": 0.1985,
+            "uri": "<dbpedia:Summer>"
+        }
+    },
+    "INEX_LD-2010100": {
+        "concrete": {
+            "score": 0.26929,
+            "uri": "<dbpedia:Concrete>"
+        },
+        "house": {
+            "score": 0.2067,
+            "uri": "<dbpedia:House>"
+        },
+        "wood": {
+            "score": 0.27219,
+            "uri": "<dbpedia:Wood>"
+        }
+    },
+    "INEX_LD-2010106": {
+        "organic food": {
+            "score": 0.27094,
+            "uri": "<dbpedia:Organic_food>"
+        }
+    },
+    "INEX_LD-20120111": {
+        "vietnam war": {
+            "score": 0.66839,
+            "uri": "<dbpedia:Vietnam_War>"
+        },
+        "war movie": {
+            "score": 0.22886,
+            "uri": "<dbpedia:War_film>"
+        }
+    },
+    "INEX_LD-20120112": {
+        "facts": {
+            "score": 0.00079,
+            "uri": "<dbpedia:Fakty_TVN>"
+        },
+        "vietnam war": {
+            "score": 0.48014,
+            "uri": "<dbpedia:Vietnam_War>"
+        }
+    },
+    "INEX_LD-20120121": {
+        "food": {
+            "score": 0.1858,
+            "uri": "<dbpedia:Food>"
+        },
+        "recipes": {
+            "score": 0.18562,
+            "uri": "<dbpedia:Recipe>"
+        },
+        "vietnam": {
+            "score": 0.3376,
+            "uri": "<dbpedia:Vietnam>"
+        }
+    },
+    "INEX_LD-20120122": {
+        "blog": {
+            "score": 0.09681,
+            "uri": "<dbpedia:Blog>"
+        },
+        "vietnamese": {
+            "score": 0.36426,
+            "uri": "<dbpedia:Vietnamese_cuisine>"
+        },
+        "vietnamese food": {
+            "score": 0.36364,
+            "uri": "<dbpedia:Vietnamese_cuisine>"
+        }
+    },
+    "INEX_LD-20120131": {
+        "national park": {
+            "score": 0.18295,
+            "uri": "<dbpedia:National_park>"
+        },
+        "travel": {
+            "score": 0.14411,
+            "uri": "<dbpedia:Tourism>"
+        },
+        "vietnam": {
+            "score": 0.3317,
+            "uri": "<dbpedia:Vietnam>"
+        }
+    },
+    "INEX_LD-20120132": {
+        "airports": {
+            "score": 0.09436,
+            "uri": "<dbpedia:Airport>"
+        },
+        "travel": {
+            "score": 0.11863,
+            "uri": "<dbpedia:Travel>"
+        },
+        "vietnam": {
+            "score": 0.30425,
+            "uri": "<dbpedia:Vietnam>"
+        }
+    },
+    "INEX_LD-20120211": {
+        "guitar chord": {
+            "score": 0.5691,
+            "uri": "<dbpedia:Guitar_chord>"
+        },
+        "tuning": {
+            "score": 0.33165,
+            "uri": "<dbpedia:Musical_tuning>"
+        }
+    },
+    "INEX_LD-20120212": {
+        "guitar chord": {
+            "score": 0.58675,
+            "uri": "<dbpedia:Guitar_chord>"
+        },
+        "minor": {
+            "score": 0.33393,
+            "uri": "<dbpedia:Minor_chord>"
+        }
+    },
+    "INEX_LD-20120221": {
+        "classical": {
+            "score": 0.32357,
+            "uri": "<dbpedia:Classical_guitar>"
+        },
+        "flamenco": {
+            "score": 0.54868,
+            "uri": "<dbpedia:Flamenco>"
+        },
+        "guitar": {
+            "score": 0.38087,
+            "uri": "<dbpedia:Guitar>"
+        }
+    },
+    "INEX_LD-20120222": {
+        "bach": {
+            "score": 0.32545,
+            "uri": "<dbpedia:Johann_Sebastian_Bach>"
+        },
+        "classical": {
+            "score": 0.2628,
+            "uri": "<dbpedia:Classical_music>"
+        },
+        "guitar": {
+            "score": 0.31617,
+            "uri": "<dbpedia:Guitar>"
+        }
+    },
+    "INEX_LD-20120231": {
+        "Russia": {
+            "score": 0.41759,
+            "uri": "<dbpedia:Russia>"
+        },
+        "guitar": {
+            "score": 0.23379,
+            "uri": "<dbpedia:Guitar>"
+        },
+        "origin": {
+            "score": 0.07316,
+            "uri": "<dbpedia:Origin_(band)>"
+        }
+    },
+    "INEX_LD-20120232": {
+        "blues": {
+            "score": 0.27941,
+            "uri": "<dbpedia:Blues>"
+        },
+        "guitar": {
+            "score": 0.36517,
+            "uri": "<dbpedia:Guitar>"
+        },
+        "origin": {
+            "score": 0.13689,
+            "uri": "<dbpedia:Origin_(band)>"
+        }
+    },
+    "INEX_LD-20120311": {
+        "culture": {
+            "score": 0.15322,
+            "uri": "<dbpedia:Culture>"
+        },
+        "movies": {
+            "score": 0.12579,
+            "uri": "<dbpedia:Film>"
+        },
+        "tango": {
+            "score": 0.25075,
+            "uri": "<dbpedia:Tango_(music)>"
+        }
+    },
+    "INEX_LD-20120312": {
+        "countries": {
+            "score": 0.12029,
+            "uri": "<dbpedia:Sovereign_state>"
+        },
+        "culture": {
+            "score": 0.16107,
+            "uri": "<dbpedia:Culture>"
+        },
+        "tango": {
+            "score": 0.2439,
+            "uri": "<dbpedia:Tango_(music)>"
+        }
+    },
+    "INEX_LD-20120321": {
+        "music  composers": {
+            "score": 0.00229,
+            "uri": "<dbpedia:Music_of_Bengal>"
+        },
+        "tango music": {
+            "score": 0.25714,
+            "uri": "<dbpedia:Tango_(music)>"
+        }
+    },
+    "INEX_LD-20120322": {
+        "instruments": {
+            "score": 0.17668,
+            "uri": "<dbpedia:Musical_instrument>"
+        },
+        "tango music": {
+            "score": 0.42774,
+            "uri": "<dbpedia:Tango_(music)>"
+        }
+    },
+    "INEX_LD-20120331": {
+        "styles": {
+            "score": 0.10371,
+            "uri": "<dbpedia:Fashion>"
+        },
+        "tango": {
+            "score": 0.4341,
+            "uri": "<dbpedia:Tango>"
+        },
+        "tango dance": {
+            "score": 0.41,
+            "uri": "<dbpedia:Tango>"
+        }
+    },
+    "INEX_LD-20120332": {
+        "dance history": {
+            "score": 0.48149,
+            "uri": "<dbpedia:History_of_dance>"
+        },
+        "tango": {
+            "score": 0.6096,
+            "uri": "<dbpedia:Tango>"
+        },
+        "tango dance": {
+            "score": 0.5855,
+            "uri": "<dbpedia:Tango>"
+        }
+    },
+    "INEX_LD-20120411": {
+        "bicycle": {
+            "score": 0.25655,
+            "uri": "<dbpedia:Bicycle>"
+        },
+        "races": {
+            "score": 0.23083,
+            "uri": "<dbpedia:Racing>"
+        },
+        "sport": {
+            "score": 0.23319,
+            "uri": "<dbpedia:Sport>"
+        }
+    },
+    "INEX_LD-20120412": {
+        "bicycle": {
+            "score": 0.3046,
+            "uri": "<dbpedia:Bicycle_racing>"
+        },
+        "disciplines": {
+            "score": 0.26826,
+            "uri": "<dbpedia:Olympic_sports>"
+        },
+        "sport": {
+            "score": 0.23124,
+            "uri": "<dbpedia:Sport>"
+        }
+    },
+    "INEX_LD-20120421": {
+        "bicycle": {
+            "score": 0.1703,
+            "uri": "<dbpedia:Bicycle>"
+        },
+        "holiday": {
+            "score": 0.09574,
+            "uri": "<dbpedia:Holiday>"
+        },
+        "towns": {
+            "score": 0.03187,
+            "uri": "<dbpedia:New_England_town>"
+        }
+    },
+    "INEX_LD-20120422": {
+        "bicycle": {
+            "score": 0.21345,
+            "uri": "<dbpedia:Bicycle>"
+        },
+        "holiday": {
+            "score": 0.18397,
+            "uri": "<dbpedia:Holiday>"
+        },
+        "nature": {
+            "score": 0.17261,
+            "uri": "<dbpedia:Nature>"
+        }
+    },
+    "INEX_LD-20120431": {
+        "benefits": {
+            "score": 0.1701,
+            "uri": "<dbpedia:Welfare>"
+        },
+        "bicycle": {
+            "score": 0.15657,
+            "uri": "<dbpedia:Bicycle>"
+        },
+        "health": {
+            "score": 0.21104,
+            "uri": "<dbpedia:Health_care>"
+        }
+    },
+    "INEX_LD-20120432": {
+        "benefits": {
+            "score": 0.1397,
+            "uri": "<dbpedia:Welfare>"
+        },
+        "bicycle": {
+            "score": 0.1644,
+            "uri": "<dbpedia:Bicycle>"
+        },
+        "environment": {
+            "score": 0.192,
+            "uri": "<dbpedia:Natural_environment>"
+        }
+    },
+    "INEX_LD-20120511": {
+        "female": {
+            "score": 0.00394,
+            "uri": "<dbpedia:Female>"
+        },
+        "rock": {
+            "score": 0.19465,
+            "uri": "<dbpedia:Rock_music>"
+        },
+        "singers": {
+            "score": 0.14898,
+            "uri": "<dbpedia:Singing>"
+        }
+    },
+    "INEX_LD-20120512": {
+        "girl groups": {
+            "score": 0.29585,
+            "uri": "<dbpedia:Girl_group>"
+        },
+        "south korean": {
+            "score": 0.299,
+            "uri": "<dbpedia:Koreans>"
+        }
+    },
+    "INEX_LD-20120521": {
+        "electronic music": {
+            "score": 0.47179,
+            "uri": "<dbpedia:Electronic_music>"
+        },
+        "music genres": {
+            "score": 0.22037,
+            "uri": "<dbpedia:Music_genre>"
+        }
+    },
+    "INEX_LD-20120522": {
+        "digital music": {
+            "score": 0.3621,
+            "uri": "<dbpedia:Digital_audio>"
+        },
+        "formats": {
+            "score": 0.26061,
+            "uri": "<dbpedia:File_format>"
+        },
+        "music notation": {
+            "score": 0.44981,
+            "uri": "<dbpedia:Scorewriter>"
+        }
+    },
+    "INEX_LD-20120531": {
+        "conferences": {
+            "score": 0.19296,
+            "uri": "<dbpedia:Athletic_conference>"
+        },
+        "music": {
+            "score": 0.19874,
+            "uri": "<dbpedia:Music>"
+        }
+    },
+    "INEX_LD-20120532": {
+        "intellectual property": {
+            "score": 0.52305,
+            "uri": "<dbpedia:Intellectual_property>"
+        },
+        "intellectual property rights": {
+            "score": 0.42672,
+            "uri": "<dbpedia:Intellectual_property>"
+        },
+        "lobby": {
+            "score": 0.23408,
+            "uri": "<dbpedia:Lobbying>"
+        }
+    },
+    "INEX_LD-2012301": {
+        "Niagara falls": {
+            "score": 0.38769,
+            "uri": "<dbpedia:Niagara_Falls>"
+        },
+        "lake": {
+            "score": 0.12823,
+            "uri": "<dbpedia:Lake>"
+        },
+        "origin": {
+            "score": 0.05551,
+            "uri": "<dbpedia:Abiogenesis>"
+        }
+    },
+    "INEX_LD-2012303": {
+        "San Joaquin": {
+            "score": 0.24727,
+            "uri": "<dbpedia:San_Joaquin_Valley>"
+        },
+        "Valley fever": {
+            "score": 0.45673,
+            "uri": "<dbpedia:Coccidioidomycosis>"
+        },
+        "fungal infection": {
+            "score": 0.44434,
+            "uri": "<dbpedia:Mycosis>"
+        }
+    },
+    "INEX_LD-2012305": {
+        "North Dakota": {
+            "score": 0.34521,
+            "uri": "<dbpedia:North_Dakota>"
+        },
+        "colour": {
+            "score": 0.05448,
+            "uri": "<dbpedia:Human_skin_color>"
+        },
+        "river": {
+            "score": 0.03173,
+            "uri": "<dbpedia:River>"
+        }
+    },
+    "INEX_LD-2012307": {
+        "Millard Fillmore": {
+            "score": 0.79347,
+            "uri": "<dbpedia:Millard_Fillmore>"
+        },
+        "day": {
+            "score": 0.18724,
+            "uri": "<dbpedia:William_R._Day>"
+        },
+        "president": {
+            "score": 0.27413,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        },
+        "sworn": {
+            "score": 0.16275,
+            "uri": "<dbpedia:Oath_of_office>"
+        }
+    },
+    "INEX_LD-2012309": {
+        "Chinese": {
+            "score": 0.24853,
+            "uri": "<dbpedia:Chinese_people>"
+        },
+        "Malay Peninsula": {
+            "score": 0.59027,
+            "uri": "<dbpedia:Malay_Peninsula>"
+        },
+        "city-state": {
+            "score": 0.27868,
+            "uri": "<dbpedia:City-state>"
+        },
+        "island": {
+            "score": 0.11372,
+            "uri": "<dbpedia:Island>"
+        },
+        "residents": {
+            "score": 0.15719,
+            "uri": "<dbpedia:Resident_(title)>"
+        },
+        "small island": {
+            "score": 0.00795,
+            "uri": "<dbpedia:Small_Island>"
+        }
+    },
+    "INEX_LD-2012311": {
+        "John Lennon": {
+            "score": 0.78235,
+            "uri": "<dbpedia:John_Lennon>"
+        },
+        "Starting Over": {
+            "score": 0.24462,
+            "uri": "<dbpedia:Starting_Over_(Raspberries_album)>"
+        },
+        "Yoko Ono": {
+            "score": 0.7085,
+            "uri": "<dbpedia:Yoko_Ono>"
+        },
+        "album": {
+            "score": 0.17511,
+            "uri": "<dbpedia:LP_record>"
+        }
+    },
+    "INEX_LD-2012313": {
+        "Coen Brothers": {
+            "score": 0.75783,
+            "uri": "<dbpedia:Coen_brothers>"
+        },
+        "John Turturro": {
+            "score": 0.75783,
+            "uri": "<dbpedia:John_Turturro>"
+        },
+        "film": {
+            "score": 0.19587,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "INEX_LD-2012315": {
+        "Baguio": {
+            "score": 0.4212,
+            "uri": "<dbpedia:Baguio>"
+        },
+        "Manila": {
+            "score": 0.51822,
+            "uri": "<dbpedia:Manila>"
+        },
+        "Quezon City": {
+            "score": 0.69495,
+            "uri": "<dbpedia:Quezon_City>"
+        },
+        "independence": {
+            "score": 0.18542,
+            "uri": "<dbpedia:Independence>"
+        },
+        "official": {
+            "score": 0.16516,
+            "uri": "<dbpedia:Official_language>"
+        }
+    },
+    "INEX_LD-2012317": {
+        "Sons and Lovers": {
+            "score": 0.5464,
+            "uri": "<dbpedia:Sons_and_Lovers>"
+        },
+        "dagger": {
+            "score": 0.12735,
+            "uri": "<dbpedia:Crime_Writers'_Association>"
+        },
+        "inclined": {
+            "score": 0.00589,
+            "uri": "<dbpedia:Orbital_inclination>"
+        },
+        "novel": {
+            "score": 0.15379,
+            "uri": "<dbpedia:Novel>"
+        }
+    },
+    "INEX_LD-2012318": {
+        "Bela": {
+            "score": 0.01832,
+            "uri": "<dbpedia:Bela_Talbot>"
+        },
+        "Bride": {
+            "score": 0.01446,
+            "uri": "<dbpedia:False_hero>"
+        },
+        "Directed": {
+            "score": 0.08251,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "Glen Glenda": {
+            "score": 0.68314,
+            "uri": "<dbpedia:Glen_or_Glenda>"
+        },
+        "Monster": {
+            "score": 0.12163,
+            "uri": "<dbpedia:Monster_(2003_film)>"
+        },
+        "Plan 9 Outer Space": {
+            "score": 0.6153,
+            "uri": "<dbpedia:Plan_9_from_Outer_Space>"
+        }
+    },
+    "INEX_LD-2012319": {
+        "Alice Munro": {
+            "score": 0.5817,
+            "uri": "<dbpedia:Alice_Munro>"
+        },
+        "Open": {
+            "score": 0.03666,
+            "uri": "<dbpedia:OPEN_(Indian_magazine)>"
+        },
+        "collection": {
+            "score": 0.11284,
+            "uri": "<dbpedia:Anthology>"
+        },
+        "short story": {
+            "score": 0.30992,
+            "uri": "<dbpedia:Short_story>"
+        }
+    },
+    "INEX_LD-2012321": {
+        "Asian": {
+            "score": 0.36608,
+            "uri": "<dbpedia:Asian_people>"
+        },
+        "Sir Stamford Raffles": {
+            "score": 0.57425,
+            "uri": "<dbpedia:Stamford_Raffles>"
+        },
+        "Stamford Raffles": {
+            "score": 0.58142,
+            "uri": "<dbpedia:Stamford_Raffles>"
+        },
+        "port": {
+            "score": 0.17706,
+            "uri": "<dbpedia:Port>"
+        }
+    },
+    "INEX_LD-2012323": {
+        "Hofsjokull": {
+            "score": 0.7946,
+            "uri": "<dbpedia:Hofsj%C3%B6kull>"
+        },
+        "Langjokull": {
+            "score": 0.79265,
+            "uri": "<dbpedia:Langj%C3%B6kull>"
+        },
+        "Vatnajokull": {
+            "score": 0.85785,
+            "uri": "<dbpedia:Vatnaj%C3%B6kull>"
+        },
+        "glaciers": {
+            "score": 0.27374,
+            "uri": "<dbpedia:Glacier>"
+        },
+        "island nation": {
+            "score": 0.21116,
+            "uri": "<dbpedia:Island_country>"
+        }
+    },
+    "INEX_LD-2012325": {
+        "James G. Blaine": {
+            "score": 0.68628,
+            "uri": "<dbpedia:James_G._Blaine>"
+        },
+        "law": {
+            "score": 0.19373,
+            "uri": "<dbpedia:Law>"
+        },
+        "successor": {
+            "score": 0.17298,
+            "uri": "<dbpedia:Order_of_succession>"
+        }
+    },
+    "INEX_LD-2012327": {
+        "African-American": {
+            "score": 0.18384,
+            "uri": "<dbpedia:African_American>"
+        },
+        "Beloved": {
+            "score": 0.20681,
+            "uri": "<dbpedia:Beloved_(novel)>"
+        },
+        "Nobel Prize Literature": {
+            "score": 0.68365,
+            "uri": "<dbpedia:Nobel_Prize_in_Literature>"
+        },
+        "author": {
+            "score": 0.17678,
+            "uri": "<dbpedia:Author>"
+        }
+    },
+    "INEX_LD-2012329": {
+        "Iceland": {
+            "score": 0.67018,
+            "uri": "<dbpedia:Iceland>"
+        },
+        "Sweden": {
+            "score": 0.48846,
+            "uri": "<dbpedia:Sweden>"
+        },
+        "currency": {
+            "score": 0.16599,
+            "uri": "<dbpedia:Currency>"
+        }
+    },
+    "INEX_LD-2012331": {
+        "China": {
+            "score": 0.35715,
+            "uri": "<dbpedia:China>"
+        },
+        "Korea": {
+            "score": 0.31747,
+            "uri": "<dbpedia:Korea>"
+        },
+        "Seoul": {
+            "score": 0.49296,
+            "uri": "<dbpedia:Seoul>"
+        },
+        "Seoul Korea": {
+            "score": 0.23812,
+            "uri": "<dbpedia:Seoul>"
+        },
+        "ethnic group": {
+            "score": 0.16195,
+            "uri": "<dbpedia:Ethnic_group>"
+        },
+        "river": {
+            "score": 0.05983,
+            "uri": "<dbpedia:River>"
+        },
+        "river name": {
+            "score": 0.09456,
+            "uri": "<dbpedia:Hydronym>"
+        }
+    },
+    "INEX_LD-2012333": {
+        "Canada": {
+            "score": 0.35292,
+            "uri": "<dbpedia:Canada>"
+        },
+        "Laurier": {
+            "score": 0.18925,
+            "uri": "<dbpedia:Wilfrid_Laurier>"
+        },
+        "Prime minister": {
+            "score": 0.34236,
+            "uri": "<dbpedia:Prime_Minister_of_Canada>"
+        },
+        "Prime minister Canada": {
+            "score": 0.3066,
+            "uri": "<dbpedia:Prime_Minister_of_Canada>"
+        },
+        "nicknamed": {
+            "score": 0.02964,
+            "uri": "<dbpedia:Nickname>"
+        },
+        "term": {
+            "score": 0.05571,
+            "uri": "<dbpedia:Term_of_office>"
+        },
+        "unbroken": {
+            "score": 0.02859,
+            "uri": "<dbpedia:Unbroken_(Demi_Lovato_album)>"
+        }
+    },
+    "INEX_LD-2012335": {
+        "Japan": {
+            "score": 0.48495,
+            "uri": "<dbpedia:Empire_of_Japan>"
+        },
+        "U.S. president": {
+            "score": 0.3031,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        },
+        "authorise": {
+            "score": 0.02114,
+            "uri": "<dbpedia:Authorization>"
+        },
+        "nuclear weapons against Japan": {
+            "score": 0.32875,
+            "uri": "<dbpedia:Atomic_bombings_of_Hiroshima_and_Nagasaki>"
+        }
+    },
+    "INEX_LD-2012336": {
+        "Australian": {
+            "score": 0.17009,
+            "uri": "<dbpedia:The_Australian>"
+        },
+        "Papua island": {
+            "score": 0.5,
+            "uri": "<dbpedia:Papua_Island>"
+        },
+        "territory": {
+            "score": 0.13963,
+            "uri": "<dbpedia:Northern_Territory>"
+        }
+    },
+    "INEX_LD-2012337": {
+        "Baylor University": {
+            "score": 0.67335,
+            "uri": "<dbpedia:Baylor_University>"
+        },
+        "Texas": {
+            "score": 0.38514,
+            "uri": "<dbpedia:Texas>"
+        },
+        "Texas city": {
+            "score": 0.39009,
+            "uri": "<dbpedia:Texas_City,_Texas>"
+        },
+        "tornado": {
+            "score": 0.35463,
+            "uri": "<dbpedia:Tornado>"
+        }
+    },
+    "INEX_LD-2012339": {
+        "John Dube": {
+            "score": 0.67089,
+            "uri": "<dbpedia:John_Langalibalele_Dube>"
+        },
+        "Nelson Mandela": {
+            "score": 0.79294,
+            "uri": "<dbpedia:Nelson_Mandela>"
+        }
+    },
+    "INEX_LD-2012341": {
+        "Houston": {
+            "score": 0.2169,
+            "uri": "<dbpedia:Houston>"
+        },
+        "Houston airport": {
+            "score": 0.09662,
+            "uri": "<dbpedia:Houston_Aerodrome>"
+        },
+        "airport": {
+            "score": 0.15809,
+            "uri": "<dbpedia:Airport>"
+        },
+        "president": {
+            "score": 0.10485,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        }
+    },
+    "INEX_LD-2012343": {
+        "Heart of a Woman": {
+            "score": 0.45256,
+            "uri": "<dbpedia:The_Heart_of_a_Woman>"
+        },
+        "autobiography": {
+            "score": 0.28363,
+            "uri": "<dbpedia:Autobiography>"
+        },
+        "poet": {
+            "score": 0.28048,
+            "uri": "<dbpedia:Poetry>"
+        }
+    },
+    "INEX_LD-2012345": {
+        "Kennedy assassination": {
+            "score": 0.38624,
+            "uri": "<dbpedia:Assassination_of_John_F._Kennedy>"
+        },
+        "governor of Texas": {
+            "score": 0.53107,
+            "uri": "<dbpedia:Governor_of_Texas>"
+        }
+    },
+    "INEX_LD-2012347": {
+        "Dade": {
+            "score": 0.19803,
+            "uri": "<dbpedia:Miami-Dade_County,_Florida>"
+        },
+        "Florida": {
+            "score": 0.36477,
+            "uri": "<dbpedia:Florida>"
+        },
+        "country": {
+            "score": 0.09042,
+            "uri": "<dbpedia:Venezuela>"
+        },
+        "seat": {
+            "score": 0.09656,
+            "uri": "<dbpedia:County_seat>"
+        }
+    },
+    "INEX_LD-2012349": {
+        "Alexander Nevsky Cathedral": {
+            "score": 0.51748,
+            "uri": "<dbpedia:Alexander_Nevsky_Cathedral,_Sofia>"
+        },
+        "Bulgarian": {
+            "score": 0.32196,
+            "uri": "<dbpedia:Bulgarians>"
+        },
+        "Turks": {
+            "score": 0.29283,
+            "uri": "<dbpedia:Ottoman_Empire>"
+        },
+        "city": {
+            "score": 0.00696,
+            "uri": "<dbpedia:City_of_London>"
+        },
+        "liberation": {
+            "score": 0.24712,
+            "uri": "<dbpedia:Liberation_of_Bulgaria>"
+        }
+    },
+    "INEX_LD-2012351": {
+        "Indian Cuisine": {
+            "score": 0.67471,
+            "uri": "<dbpedia:Indian_cuisine>"
+        },
+        "dhal": {
+            "score": 0.45152,
+            "uri": "<dbpedia:Dal>"
+        },
+        "dish": {
+            "score": 0.35491,
+            "uri": "<dbpedia:Dish_(food)>"
+        },
+        "papad": {
+            "score": 0.56515,
+            "uri": "<dbpedia:Papadum>"
+        },
+        "rice": {
+            "score": 0.40887,
+            "uri": "<dbpedia:Rice>"
+        },
+        "roti": {
+            "score": 0.6082,
+            "uri": "<dbpedia:Roti>"
+        },
+        "vegetables": {
+            "score": 0.35228,
+            "uri": "<dbpedia:Vegetable>"
+        }
+    },
+    "INEX_LD-2012353": {
+        "German language": {
+            "score": 0.29015,
+            "uri": "<dbpedia:German_language>"
+        },
+        "country": {
+            "score": 0.13552,
+            "uri": "<dbpedia:Nation_state>"
+        }
+    },
+    "INEX_LD-2012354": {
+        "greatest": {
+            "score": 0.1093,
+            "uri": "<dbpedia:The_Greatest_(TV_series)>"
+        },
+        "guitarist": {
+            "score": 0.17295,
+            "uri": "<dbpedia:Guitar>"
+        }
+    },
+    "INEX_LD-2012355": {
+        "England": {
+            "score": 0.43567,
+            "uri": "<dbpedia:England_national_football_team>"
+        },
+        "football": {
+            "score": 0.53653,
+            "uri": "<dbpedia:Association_football>"
+        },
+        "player": {
+            "score": 0.3647,
+            "uri": "<dbpedia:Association_football>"
+        }
+    },
+    "INEX_LD-2012357": {
+        "Bolshoi Theatre": {
+            "score": 0.81375,
+            "uri": "<dbpedia:Bolshoi_Theatre>"
+        },
+        "prima ballerina": {
+            "score": 0.53162,
+            "uri": "<dbpedia:Ballet_dancer>"
+        }
+    },
+    "INEX_LD-2012359": {
+        "Bob Ricker": {
+            "score": 0.5,
+            "uri": "<dbpedia:Bob_Ricker>"
+        },
+        "Executive Director": {
+            "score": 0.08059,
+            "uri": "<dbpedia:Executive_director>"
+        },
+        "anti-gun movement": {
+            "score": 0.62615,
+            "uri": "<dbpedia:Gun_politics_in_the_United_States>"
+        },
+        "front group": {
+            "score": 0.18951,
+            "uri": "<dbpedia:Front_organization>"
+        }
+    },
+    "INEX_LD-2012361": {
+        "actor": {
+            "score": 0.20665,
+            "uri": "<dbpedia:Actor>"
+        },
+        "award": {
+            "score": 0.20457,
+            "uri": "<dbpedia:Award>"
+        },
+        "award winning": {
+            "score": 0.20394,
+            "uri": "<dbpedia:Award>"
+        },
+        "singer": {
+            "score": 0.15318,
+            "uri": "<dbpedia:Singing>"
+        }
+    },
+    "INEX_LD-2012363": {
+        "American": {
+            "score": 0.13747,
+            "uri": "<dbpedia:United_States>"
+        },
+        "double": {
+            "score": 0.13311,
+            "uri": "<dbpedia:Minor_league_baseball>"
+        },
+        "players": {
+            "score": 0.0879,
+            "uri": "<dbpedia:Association_football>"
+        },
+        "professional": {
+            "score": 0.10444,
+            "uri": "<dbpedia:Professional>"
+        },
+        "tennis": {
+            "score": 0.31892,
+            "uri": "<dbpedia:Tennis>"
+        },
+        "twins": {
+            "score": 0.15087,
+            "uri": "<dbpedia:Minnesota_Twins>"
+        }
+    },
+    "INEX_LD-2012365": {
+        "Faculty": {
+            "score": 0.14673,
+            "uri": "<dbpedia:Faculty_(academic_staff)>"
+        },
+        "Fellows": {
+            "score": 0.15078,
+            "uri": "<dbpedia:Fellow>"
+        },
+        "MIT": {
+            "score": 0.31719,
+            "uri": "<dbpedia:Massachusetts_Institute_of_Technology>"
+        },
+        "MacVicar": {
+            "score": 0.24736,
+            "uri": "<dbpedia:Margaret_MacVicar>"
+        },
+        "computer scientist": {
+            "score": 0.40555,
+            "uri": "<dbpedia:Computer_scientist>"
+        },
+        "inaugural": {
+            "score": 0.0701,
+            "uri": "<dbpedia:Inauguration>"
+        },
+        "mathematician": {
+            "score": 0.36466,
+            "uri": "<dbpedia:Mathematician>"
+        },
+        "six": {
+            "score": 0.0462,
+            "uri": "<dbpedia:6_(number)>"
+        }
+    },
+    "INEX_LD-2012367": {
+        "invented": {
+            "score": 0.18533,
+            "uri": "<dbpedia:Invention>"
+        },
+        "telescope": {
+            "score": 0.29392,
+            "uri": "<dbpedia:Telescope>"
+        }
+    },
+    "INEX_LD-2012369": {
+        "airports": {
+            "score": 0.00808,
+            "uri": "<dbpedia:Airport>"
+        }
+    },
+    "INEX_LD-2012371": {
+        "beautiful": {
+            "score": 0.04649,
+            "uri": "<dbpedia:Beauty>"
+        },
+        "cities": {
+            "score": 0.08216,
+            "uri": "<dbpedia:City_status_in_the_United_Kingdom>"
+        },
+        "most beautiful": {
+            "score": 0.00165,
+            "uri": "<dbpedia:The_Most_Beautiful>"
+        },
+        "railway": {
+            "score": 0.13236,
+            "uri": "<dbpedia:Rail_transport>"
+        },
+        "railway stations": {
+            "score": 0.10185,
+            "uri": "<dbpedia:Train_station>"
+        },
+        "world": {
+            "score": 0.05313,
+            "uri": "<dbpedia:World>"
+        }
+    },
+    "INEX_LD-2012372": {
+        "battlefields": {
+            "score": 0.01416,
+            "uri": "<dbpedia:Battlefields>"
+        },
+        "historical": {
+            "score": 0.0029,
+            "uri": "<dbpedia:History>"
+        }
+    },
+    "INEX_LD-2012373": {
+        "birds": {
+            "score": 0.15675,
+            "uri": "<dbpedia:Bird>"
+        },
+        "fly": {
+            "score": 0.16019,
+            "uri": "<dbpedia:Fly>"
+        }
+    },
+    "INEX_LD-2012375": {
+        "animals": {
+            "score": 0.19329,
+            "uri": "<dbpedia:Animal>"
+        },
+        "eggs": {
+            "score": 0.27288,
+            "uri": "<dbpedia:Egg_(biology)>"
+        },
+        "lay": {
+            "score": 0.11479,
+            "uri": "<dbpedia:George_Tradescant_Lay>"
+        },
+        "mammals": {
+            "score": 0.20223,
+            "uri": "<dbpedia:Mammal>"
+        }
+    },
+    "INEX_LD-2012377": {
+        "World War I": {
+            "score": 0.41968,
+            "uri": "<dbpedia:World_War_I>"
+        }
+    },
+    "INEX_LD-2012381": {
+        "block buster": {
+            "score": 0.11682,
+            "uri": "<dbpedia:Block_Buster!>"
+        },
+        "directed": {
+            "score": 0.25525,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "movie directors": {
+            "score": 0.28165,
+            "uri": "<dbpedia:Film_director>"
+        }
+    },
+    "INEX_LD-2012383": {
+        "computer scientists": {
+            "score": 0.09026,
+            "uri": "<dbpedia:Computer_science>"
+        },
+        "disappeared": {
+            "score": 0.00633,
+            "uri": "<dbpedia:Forced_disappearance>"
+        },
+        "sea": {
+            "score": 0.04706,
+            "uri": "<dbpedia:Ship_transport>"
+        }
+    },
+    "INEX_LD-2012385": {
+        "politicians": {
+            "score": 0.1558,
+            "uri": "<dbpedia:Politics>"
+        },
+        "vegetarians": {
+            "score": 0.18524,
+            "uri": "<dbpedia:Vegetarianism>"
+        }
+    },
+    "INEX_LD-2012387": {
+        "confluence": {
+            "score": 0.312,
+            "uri": "<dbpedia:Confluence>"
+        },
+        "dam": {
+            "score": 0.30365,
+            "uri": "<dbpedia:Dam>"
+        },
+        "river": {
+            "score": 0.25623,
+            "uri": "<dbpedia:River>"
+        }
+    },
+    "INEX_LD-2012389": {
+        "Indian Ocean": {
+            "score": 0.6007,
+            "uri": "<dbpedia:Indian_Ocean>"
+        },
+        "gulf": {
+            "score": 0.26156,
+            "uri": "<dbpedia:Gulf_of_Mexico>"
+        },
+        "sharks": {
+            "score": 0.27589,
+            "uri": "<dbpedia:Shark>"
+        }
+    },
+    "INEX_LD-2012390": {
+        "baseball": {
+            "score": 0.50698,
+            "uri": "<dbpedia:Baseball>"
+        },
+        "homeruns": {
+            "score": 0.34047,
+            "uri": "<dbpedia:Home_run>"
+        },
+        "national league": {
+            "score": 0.64336,
+            "uri": "<dbpedia:National_League>"
+        },
+        "player": {
+            "score": 0.38529,
+            "uri": "<dbpedia:Baseball>"
+        }
+    },
+    "INEX_XER-100": {
+        "Operating systems": {
+            "score": 0.26992,
+            "uri": "<dbpedia:Operating_system>"
+        },
+        "Steve Jobs": {
+            "score": 0.73135,
+            "uri": "<dbpedia:Steve_Jobs>"
+        }
+    },
+    "INEX_XER-106": {
+        "Hundred Years' War": {
+            "score": 0.66537,
+            "uri": "<dbpedia:Hundred_Years'_War>"
+        },
+        "Noble": {
+            "score": 0.15656,
+            "uri": "<dbpedia:Aristocracy>"
+        },
+        "english": {
+            "score": 0.36748,
+            "uri": "<dbpedia:English_people>"
+        },
+        "english person": {
+            "score": 0.28664,
+            "uri": "<dbpedia:English_people>"
+        }
+    },
+    "INEX_XER-108": {
+        "United States of America": {
+            "score": 0.30035,
+            "uri": "<dbpedia:United_States>"
+        },
+        "capitals": {
+            "score": 0.09523,
+            "uri": "<dbpedia:Washington_Capitals>"
+        }
+    },
+    "INEX_XER-109": {
+        "National": {
+            "score": 0.00139,
+            "uri": "<dbpedia:National_Register_of_Historic_Places>"
+        },
+        "capitals": {
+            "score": 0.06191,
+            "uri": "<dbpedia:Capital_city>"
+        },
+        "islands": {
+            "score": 0.03528,
+            "uri": "<dbpedia:Malta>"
+        }
+    },
+    "INEX_XER-110": {
+        "Nobel Prize in Literature": {
+            "score": 0.71665,
+            "uri": "<dbpedia:Nobel_Prize_in_Literature>"
+        },
+        "poets": {
+            "score": 0.15779,
+            "uri": "<dbpedia:Irish_poetry>"
+        },
+        "winners": {
+            "score": 0.06654,
+            "uri": "<dbpedia:Academy_Award_for_Best_Original_Song>"
+        }
+    },
+    "INEX_XER-113": {
+        "Formula 1": {
+            "score": 0.39365,
+            "uri": "<dbpedia:Formula_One>"
+        },
+        "Monaco Grand Prix": {
+            "score": 0.50692,
+            "uri": "<dbpedia:Monaco_Grand_Prix>"
+        },
+        "drivers": {
+            "score": 0.21827,
+            "uri": "<dbpedia:Auto_racing>"
+        },
+        "won": {
+            "score": 0.03419,
+            "uri": "<dbpedia:South_Korean_won>"
+        }
+    },
+    "INEX_XER-114": {
+        "Europe": {
+            "score": 0.21746,
+            "uri": "<dbpedia:Europe>"
+        },
+        "Formula one": {
+            "score": 0.74902,
+            "uri": "<dbpedia:Formula_One>"
+        },
+        "races": {
+            "score": 0.24163,
+            "uri": "<dbpedia:Auto_racing>"
+        }
+    },
+    "INEX_XER-115": {
+        "Champions": {
+            "score": 0.16579,
+            "uri": "<dbpedia:Champion>"
+        },
+        "Constructors": {
+            "score": 0.25474,
+            "uri": "<dbpedia:Formula_One>"
+        },
+        "Formula One": {
+            "score": 0.74772,
+            "uri": "<dbpedia:Formula_One>"
+        },
+        "One World": {
+            "score": 0.01847,
+            "uri": "<dbpedia:One_World_(TV_series)>"
+        }
+    },
+    "INEX_XER-116": {
+        "Italian": {
+            "score": 0.26704,
+            "uri": "<dbpedia:Italians>"
+        },
+        "nobel prize": {
+            "score": 0.38386,
+            "uri": "<dbpedia:Nobel_Prize>"
+        },
+        "prize winners": {
+            "score": 0.00163,
+            "uri": "<dbpedia:Prize_Winners>"
+        },
+        "winners": {
+            "score": 0.06394,
+            "uri": "<dbpedia:Academy_Award_for_Best_Original_Song>"
+        }
+    },
+    "INEX_XER-117": {
+        "Blues Brothers": {
+            "score": 0.62647,
+            "uri": "<dbpedia:The_Blues_Brothers>"
+        },
+        "Musicians": {
+            "score": 0.16129,
+            "uri": "<dbpedia:Musician>"
+        },
+        "movies": {
+            "score": 0.15226,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "INEX_XER-118": {
+        "1960's": {
+            "score": 0.0491,
+            "uri": "<dbpedia:1960s>"
+        },
+        "French": {
+            "score": 0.19205,
+            "uri": "<dbpedia:French_people>"
+        },
+        "car": {
+            "score": 0.1531,
+            "uri": "<dbpedia:Automobile>"
+        },
+        "car models": {
+            "score": 0.12805,
+            "uri": "<dbpedia:Car_model>"
+        },
+        "models": {
+            "score": 0.12827,
+            "uri": "<dbpedia:Scale_model>"
+        }
+    },
+    "INEX_XER-119": {
+        "German": {
+            "score": 0.26171,
+            "uri": "<dbpedia:Germany>"
+        },
+        "Swiss": {
+            "score": 0.29258,
+            "uri": "<dbpedia:Switzerland>"
+        },
+        "cantons": {
+            "score": 0.19564,
+            "uri": "<dbpedia:Canton_(country_subdivision)>"
+        },
+        "speak": {
+            "score": 0.02517,
+            "uri": "<dbpedia:Speak_(Lindsay_Lohan_album)>"
+        }
+    },
+    "INEX_XER-121": {
+        "US presidents": {
+            "score": 0.06236,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        }
+    },
+    "INEX_XER-122": {
+        "Academy Awards": {
+            "score": 0.38535,
+            "uri": "<dbpedia:Academy_Award>"
+        },
+        "Movies": {
+            "score": 0.12384,
+            "uri": "<dbpedia:Film>"
+        },
+        "eight": {
+            "score": 0.10092,
+            "uri": "<dbpedia:Eight_(1998_film)>"
+        }
+    },
+    "INEX_XER-123": {
+        "FIFA world cup": {
+            "score": 0.35095,
+            "uri": "<dbpedia:FIFA_World_Cup>"
+        },
+        "national team": {
+            "score": 0.19588,
+            "uri": "<dbpedia:Portugal_national_football_team>"
+        },
+        "winners": {
+            "score": 0.08321,
+            "uri": "<dbpedia:UK_Championship_(snooker)>"
+        }
+    },
+    "INEX_XER-124": {
+        "Booker Prize": {
+            "score": 0.43763,
+            "uri": "<dbpedia:Man_Booker_Prize>"
+        },
+        "Novels": {
+            "score": 0.12857,
+            "uri": "<dbpedia:Novel>"
+        },
+        "won": {
+            "score": 0.00085,
+            "uri": "<dbpedia:South_Korean_won>"
+        }
+    },
+    "INEX_XER-125": {
+        "FIFA world cup": {
+            "score": 0.32055,
+            "uri": "<dbpedia:FIFA_World_Cup>"
+        },
+        "countries": {
+            "score": 0.08304,
+            "uri": "<dbpedia:Sovereign_state>"
+        },
+        "won": {
+            "score": 0.14203,
+            "uri": "<dbpedia:Football_at_the_1996_Summer_Olympics_%E2%80%93_Men's_tournament>"
+        }
+    },
+    "INEX_XER-126": {
+        "business": {
+            "score": 0.13871,
+            "uri": "<dbpedia:Business>"
+        },
+        "manufacturers": {
+            "score": 0.179,
+            "uri": "<dbpedia:Manufacturing>"
+        },
+        "still": {
+            "score": 0.09007,
+            "uri": "<dbpedia:Photography>"
+        },
+        "toy train": {
+            "score": 0.24315,
+            "uri": "<dbpedia:Toy_train>"
+        }
+    },
+    "INEX_XER-127": {
+        "female politicians": {
+            "score": 0.06567,
+            "uri": "<dbpedia:Women_in_government>"
+        },
+        "german": {
+            "score": 0.19829,
+            "uri": "<dbpedia:Germany>"
+        }
+    },
+    "INEX_XER-128": {
+        "Bond": {
+            "score": 0.0269,
+            "uri": "<dbpedia:James_Bond>"
+        },
+        "girls": {
+            "score": 0.00239,
+            "uri": "<dbpedia:Single-sex_education>"
+        }
+    },
+    "INEX_XER-129": {
+        "Science fiction": {
+            "score": 0.41676,
+            "uri": "<dbpedia:Science_fiction>"
+        },
+        "book": {
+            "score": 0.20913,
+            "uri": "<dbpedia:Book>"
+        },
+        "written": {
+            "score": 0.19242,
+            "uri": "<dbpedia:Writing>"
+        }
+    },
+    "INEX_XER-130": {
+        "Captains": {
+            "score": 0.42632,
+            "uri": "<dbpedia:The_Captains_(film)>"
+        },
+        "Star Trek": {
+            "score": 0.84348,
+            "uri": "<dbpedia:Star_Trek>"
+        }
+    },
+    "INEX_XER-132": {
+        "classical": {
+            "score": 0.19678,
+            "uri": "<dbpedia:Classical_music>"
+        },
+        "composers": {
+            "score": 0.1073,
+            "uri": "<dbpedia:Composer>"
+        },
+        "living": {
+            "score": 0.07272,
+            "uri": "<dbpedia:Sky_Living>"
+        },
+        "nordic": {
+            "score": 0.12369,
+            "uri": "<dbpedia:Nordic_countries>"
+        }
+    },
+    "INEX_XER-133": {
+        "EU": {
+            "score": 0.37659,
+            "uri": "<dbpedia:European_Union>"
+        },
+        "countries": {
+            "score": 0.27909,
+            "uri": "<dbpedia:Sovereign_state>"
+        }
+    },
+    "INEX_XER-134": {
+        "100-meter": {
+            "score": 0.22743,
+            "uri": "<dbpedia:100_metres>"
+        },
+        "male": {
+            "score": 0.04034,
+            "uri": "<dbpedia:Male>"
+        },
+        "record-breaking": {
+            "score": 0.09947,
+            "uri": "<dbpedia:Guinness_World_Records>"
+        },
+        "sprinters": {
+            "score": 0.28757,
+            "uri": "<dbpedia:Sprint_(running)>"
+        },
+        "sprints": {
+            "score": 0.28922,
+            "uri": "<dbpedia:Sprint_(running)>"
+        }
+    },
+    "INEX_XER-135": {
+        "Japan": {
+            "score": 0.34508,
+            "uri": "<dbpedia:Japan>"
+        },
+        "baseball": {
+            "score": 0.31023,
+            "uri": "<dbpedia:Baseball>"
+        },
+        "professional baseball": {
+            "score": 0.23093,
+            "uri": "<dbpedia:Professional_baseball>"
+        },
+        "team": {
+            "score": 0.14246,
+            "uri": "<dbpedia:Team>"
+        }
+    },
+    "INEX_XER-136": {
+        "Japanese": {
+            "score": 0.12305,
+            "uri": "<dbpedia:Japanese_American>"
+        },
+        "Major League Baseball": {
+            "score": 0.63816,
+            "uri": "<dbpedia:Major_League_Baseball>"
+        },
+        "players": {
+            "score": 0.12025,
+            "uri": "<dbpedia:Baseball_positions>"
+        }
+    },
+    "INEX_XER-138": {
+        "Canada": {
+            "score": 0.40782,
+            "uri": "<dbpedia:Canada>"
+        },
+        "East Coast": {
+            "score": 0.24608,
+            "uri": "<dbpedia:Atlantic_Canada>"
+        },
+        "National Parks": {
+            "score": 0.22776,
+            "uri": "<dbpedia:National_parks_of_Canada>"
+        },
+        "US": {
+            "score": 0.08736,
+            "uri": "<dbpedia:United_States>"
+        }
+    },
+    "INEX_XER-139": {
+        "Akira Kurosawa": {
+            "score": 0.7098,
+            "uri": "<dbpedia:Akira_Kurosawa>"
+        },
+        "Films": {
+            "score": 0.22336,
+            "uri": "<dbpedia:Film>"
+        },
+        "directed": {
+            "score": 0.24347,
+            "uri": "<dbpedia:Film_director>"
+        }
+    },
+    "INEX_XER-140": {
+        "Airports": {
+            "score": 0.00808,
+            "uri": "<dbpedia:Airport>"
+        },
+        "Germany": {
+            "score": 0.24962,
+            "uri": "<dbpedia:Germany>"
+        }
+    },
+    "INEX_XER-141": {
+        "Catalunya": {
+            "score": 0.18466,
+            "uri": "<dbpedia:Catalonia>"
+        },
+        "Universities": {
+            "score": 0.16574,
+            "uri": "<dbpedia:Medieval_university>"
+        }
+    },
+    "INEX_XER-143": {
+        "Circle": {
+            "score": 0.12136,
+            "uri": "<dbpedia:Circle_(country_subdivision)>"
+        },
+        "Germany": {
+            "score": 0.40649,
+            "uri": "<dbpedia:Germany>"
+        },
+        "Hanseatic league": {
+            "score": 0.65163,
+            "uri": "<dbpedia:Hanseatic_League>"
+        },
+        "Netherlands": {
+            "score": 0.45435,
+            "uri": "<dbpedia:Netherlands>"
+        }
+    },
+    "INEX_XER-144": {
+        "chess": {
+            "score": 0.59555,
+            "uri": "<dbpedia:Chess>"
+        },
+        "world champions": {
+            "score": 0.39294,
+            "uri": "<dbpedia:World_Chess_Championship>"
+        }
+    },
+    "INEX_XER-147": {
+        "Chemical elements": {
+            "score": 0.25917,
+            "uri": "<dbpedia:Chemical_element>"
+        },
+        "people": {
+            "score": 0.20063,
+            "uri": "<dbpedia:Human>"
+        }
+    },
+    "INEX_XER-60": {
+        "dinghy sailing": {
+            "score": 0.50317,
+            "uri": "<dbpedia:Dinghy_sailing>"
+        },
+        "olympic classes": {
+            "score": 0.55082,
+            "uri": "<dbpedia:Sailing_at_the_Summer_Olympics>"
+        }
+    },
+    "INEX_XER-62": {
+        "Neil Gaiman": {
+            "score": 0.67255,
+            "uri": "<dbpedia:Neil_Gaiman>"
+        },
+        "novels": {
+            "score": 0.18052,
+            "uri": "<dbpedia:Novel>"
+        }
+    },
+    "INEX_XER-63": {
+        "Hugo": {
+            "score": 0.13432,
+            "uri": "<dbpedia:Hugo_Award>"
+        },
+        "best": {
+            "score": 0.05171,
+            "uri": "<dbpedia:Edna_Best>"
+        },
+        "novels": {
+            "score": 0.16972,
+            "uri": "<dbpedia:Novel>"
+        }
+    },
+    "INEX_XER-64": {
+        "Alan Moore": {
+            "score": 0.7281,
+            "uri": "<dbpedia:Alan_Moore>"
+        },
+        "adapted to film": {
+            "score": 0.22293,
+            "uri": "<dbpedia:Film_adaptation>"
+        },
+        "film": {
+            "score": 0.15864,
+            "uri": "<dbpedia:Film>"
+        },
+        "graphic novels": {
+            "score": 0.30723,
+            "uri": "<dbpedia:Graphic_novel>"
+        }
+    },
+    "INEX_XER-65": {
+        "Australia": {
+            "score": 0.4197,
+            "uri": "<dbpedia:Australia>"
+        },
+        "Pacific": {
+            "score": 0.19314,
+            "uri": "<dbpedia:Pacific_Ocean>"
+        },
+        "explorers": {
+            "score": 0.21417,
+            "uri": "<dbpedia:European_exploration_of_Australia>"
+        },
+        "navigators": {
+            "score": 0.21636,
+            "uri": "<dbpedia:Navigator>"
+        }
+    },
+    "INEX_XER-67": {
+        "Ferris": {
+            "score": 0.02674,
+            "uri": "<dbpedia:Ferris,_Texas>"
+        },
+        "observation": {
+            "score": 0.14669,
+            "uri": "<dbpedia:Reconnaissance>"
+        },
+        "wheels": {
+            "score": 0.148,
+            "uri": "<dbpedia:Undercarriage>"
+        }
+    },
+    "INEX_XER-72": {
+        "Venice": {
+            "score": 0.424,
+            "uri": "<dbpedia:Venice_Film_Festival>"
+        },
+        "films": {
+            "score": 0.19788,
+            "uri": "<dbpedia:Photographic_film>"
+        },
+        "shot": {
+            "score": 0.26077,
+            "uri": "<dbpedia:Cinematography>"
+        }
+    },
+    "INEX_XER-73": {
+        "magazines": {
+            "score": 0.00836,
+            "uri": "<dbpedia:Magazine>"
+        }
+    },
+    "INEX_XER-74": {
+        "circus": {
+            "score": 0.16817,
+            "uri": "<dbpedia:Circus>"
+        },
+        "mammals": {
+            "score": 0.13625,
+            "uri": "<dbpedia:Mammal>"
+        }
+    },
+    "INEX_XER-79": {
+        "Charles Rennie Mackintosh": {
+            "score": 0.6294,
+            "uri": "<dbpedia:Charles_Rennie_Mackintosh>"
+        },
+        "Works": {
+            "score": 0.13006,
+            "uri": "<dbpedia:Literature>"
+        }
+    },
+    "INEX_XER-81": {
+        "English": {
+            "score": 0.22435,
+            "uri": "<dbpedia:English_language>"
+        },
+        "Movies": {
+            "score": 0.11991,
+            "uri": "<dbpedia:Film>"
+        },
+        "hooligans": {
+            "score": 0.12448,
+            "uri": "<dbpedia:Hooliganism>"
+        }
+    },
+    "INEX_XER-86": {
+        "List": {
+            "score": 0.05797,
+            "uri": "<dbpedia:Angle_of_list>"
+        },
+        "World War Two": {
+            "score": 0.1501,
+            "uri": "<dbpedia:World_War_II>"
+        },
+        "countries": {
+            "score": 0.04774,
+            "uri": "<dbpedia:Countries_of_the_United_Kingdom>"
+        }
+    },
+    "INEX_XER-87": {
+        "Axis powers of World War II": {
+            "score": 0.44737,
+            "uri": "<dbpedia:Axis_powers>"
+        }
+    },
+    "INEX_XER-88": {
+        "Nordic": {
+            "score": 0.12925,
+            "uri": "<dbpedia:Norse_mythology>"
+        },
+        "authors": {
+            "score": 0.1553,
+            "uri": "<dbpedia:Author>"
+        },
+        "children's literature": {
+            "score": 0.36598,
+            "uri": "<dbpedia:Children's_literature>"
+        }
+    },
+    "INEX_XER-91": {
+        "Paul Auster": {
+            "score": 0.6745,
+            "uri": "<dbpedia:Paul_Auster>"
+        },
+        "novels": {
+            "score": 0.18247,
+            "uri": "<dbpedia:Novel>"
+        }
+    },
+    "INEX_XER-94": {
+        "Europe": {
+            "score": 0.21941,
+            "uri": "<dbpedia:Europe>"
+        },
+        "Hybrid cars": {
+            "score": 0.21622,
+            "uri": "<dbpedia:Hybrid_vehicle>"
+        }
+    },
+    "INEX_XER-95": {
+        "Tom Hanks": {
+            "score": 0.61568,
+            "uri": "<dbpedia:Tom_Hanks>"
+        },
+        "leading role": {
+            "score": 0.10189,
+            "uri": "<dbpedia:Leading_actor>"
+        },
+        "movies": {
+            "score": 0.19934,
+            "uri": "<dbpedia:Film>"
+        },
+        "plays": {
+            "score": 0.17505,
+            "uri": "<dbpedia:Drama>"
+        }
+    },
+    "INEX_XER-96": {
+        "Pure": {
+            "score": 0.23782,
+            "uri": "<dbpedia:Pure_function>"
+        },
+        "languages": {
+            "score": 0.28913,
+            "uri": "<dbpedia:Programming_language>"
+        },
+        "object-oriented": {
+            "score": 0.44524,
+            "uri": "<dbpedia:Object-oriented_programming>"
+        },
+        "programing": {
+            "score": 0.31066,
+            "uri": "<dbpedia:Computer_programming>"
+        }
+    },
+    "INEX_XER-97": {
+        "Compilers": {
+            "score": 0.2628,
+            "uri": "<dbpedia:Compiler>"
+        },
+        "can": {
+            "score": 0.23996,
+            "uri": "<dbpedia:CAN_bus>"
+        }
+    },
+    "INEX_XER-98": {
+        "Makers of": {
+            "score": 0.09649,
+            "uri": "<dbpedia:From_the_Makers_of...>"
+        },
+        "lawn tennis": {
+            "score": 0.31848,
+            "uri": "<dbpedia:Tennis>"
+        },
+        "rackets": {
+            "score": 0.18504,
+            "uri": "<dbpedia:Rackets_(sport)>"
+        },
+        "tennis": {
+            "score": 0.41656,
+            "uri": "<dbpedia:Tennis>"
+        }
+    },
+    "INEX_XER-99": {
+        "Computer": {
+            "score": 0.31076,
+            "uri": "<dbpedia:Computer>"
+        },
+        "Computer systems": {
+            "score": 0.2995,
+            "uri": "<dbpedia:Computer>"
+        },
+        "name": {
+            "score": 0.11307,
+            "uri": "<dbpedia:Identifier>"
+        },
+        "recursive acronym": {
+            "score": 0.63203,
+            "uri": "<dbpedia:Recursive_acronym>"
+        }
+    },
+    "QALD2_te-1": {
+        "German": {
+            "score": 0.31694,
+            "uri": "<dbpedia:Germans>"
+        },
+        "cities": {
+            "score": 0.14845,
+            "uri": "<dbpedia:City>"
+        },
+        "inhabitants": {
+            "score": 0.12326,
+            "uri": "<dbpedia:Residency_(domicile)>"
+        }
+    },
+    "QALD2_te-100": {
+        "Orangina": {
+            "score": 0.4375,
+            "uri": "<dbpedia:Orangina>"
+        }
+    },
+    "QALD2_te-11": {
+        "Formula 1": {
+            "score": 0.48515,
+            "uri": "<dbpedia:Formula_One>"
+        },
+        "Formula 1 race": {
+            "score": 0.3025,
+            "uri": "<dbpedia:2012_Bahrain_Grand_Prix>"
+        },
+        "race driver": {
+            "score": 0.40989,
+            "uri": "<dbpedia:Auto_racing>"
+        },
+        "races": {
+            "score": 0.38737,
+            "uri": "<dbpedia:Auto_racing>"
+        }
+    },
+    "QALD2_te-12": {
+        "all world": {
+            "score": 0.01399,
+            "uri": "<dbpedia:All-World>"
+        },
+        "designated": {
+            "score": 0.05764,
+            "uri": "<dbpedia:Cultural_Properties_of_Japan>"
+        },
+        "five": {
+            "score": 0.01826,
+            "uri": "<dbpedia:Channel_5_(UK)>"
+        },
+        "past": {
+            "score": 0.02951,
+            "uri": "<dbpedia:History>"
+        },
+        "world heritage sites": {
+            "score": 0.2119,
+            "uri": "<dbpedia:World_Heritage_Site>"
+        }
+    },
+    "QALD2_te-13": {
+        "Premier League": {
+            "score": 0.22018,
+            "uri": "<dbpedia:Premier_League>"
+        },
+        "player": {
+            "score": 0.11567,
+            "uri": "<dbpedia:Promiscuity>"
+        },
+        "youngest": {
+            "score": 0.11365,
+            "uri": "<dbpedia:Youngest_son>"
+        }
+    },
+    "QALD2_te-14": {
+        "Prodigy": {
+            "score": 0.45672,
+            "uri": "<dbpedia:The_Prodigy>"
+        },
+        "members": {
+            "score": 0.25542,
+            "uri": "<dbpedia:The_Members>"
+        }
+    },
+    "QALD2_te-15": {
+        "river": {
+            "score": 0.01996,
+            "uri": "<dbpedia:River>"
+        }
+    },
+    "QALD2_te-17": {
+        "Germany": {
+            "score": 0.2565,
+            "uri": "<dbpedia:Germany>"
+        },
+        "cars": {
+            "score": 0.05981,
+            "uri": "<dbpedia:Cars_(film)>"
+        },
+        "produced": {
+            "score": 0.03809,
+            "uri": "<dbpedia:Record_producer>"
+        }
+    },
+    "QALD2_te-19": {
+        "Berlin": {
+            "score": 0.37678,
+            "uri": "<dbpedia:Berlin>"
+        },
+        "Vienna": {
+            "score": 0.49125,
+            "uri": "<dbpedia:Vienna>"
+        },
+        "people": {
+            "score": 0.07513,
+            "uri": "<dbpedia:Nation>"
+        }
+    },
+    "QALD2_te-2": {
+        "John F. Kennedy": {
+            "score": 0.46645,
+            "uri": "<dbpedia:John_F._Kennedy>"
+        },
+        "successor": {
+            "score": 0.1053,
+            "uri": "<dbpedia:Succession_of_states>"
+        }
+    },
+    "QALD2_te-21": {
+        "Canada": {
+            "score": 0.24442,
+            "uri": "<dbpedia:Canada>"
+        }
+    },
+    "QALD2_te-22": {
+        "governor of Texas": {
+            "score": 0.25462,
+            "uri": "<dbpedia:Governor_of_Texas>"
+        }
+    },
+    "QALD2_te-24": {
+        "Queen Elizabeth II": {
+            "score": 0.50823,
+            "uri": "<dbpedia:Elizabeth_II>"
+        },
+        "father": {
+            "score": 0.15906,
+            "uri": "<dbpedia:Father_of_the_Nation>"
+        }
+    },
+    "QALD2_te-25": {
+        "U.S. state": {
+            "score": 0.47931,
+            "uri": "<dbpedia:U.S._state>"
+        },
+        "admitted": {
+            "score": 0.10057,
+            "uri": "<dbpedia:Admission_to_the_bar_in_the_United_States>"
+        }
+    },
+    "QALD2_te-27": {
+        "Sean Parnell": {
+            "score": 0.75292,
+            "uri": "<dbpedia:Sean_Parnell>"
+        },
+        "U.S. state": {
+            "score": 0.52538,
+            "uri": "<dbpedia:U.S._state>"
+        },
+        "governor": {
+            "score": 0.29141,
+            "uri": "<dbpedia:Governor_of_California>"
+        }
+    },
+    "QALD2_te-28": {
+        "Francis Ford Coppola": {
+            "score": 0.70098,
+            "uri": "<dbpedia:Francis_Ford_Coppola>"
+        },
+        "directed": {
+            "score": 0.2425,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "movies": {
+            "score": 0.21991,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "QALD2_te-29": {
+        "William Shatner": {
+            "score": 0.63595,
+            "uri": "<dbpedia:William_Shatner>"
+        },
+        "actors": {
+            "score": 0.23293,
+            "uri": "<dbpedia:Actor>"
+        },
+        "directed": {
+            "score": 0.21832,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "movies": {
+            "score": 0.23789,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "QALD2_te-3": {
+        "Berlin": {
+            "score": 0.42678,
+            "uri": "<dbpedia:Berlin>"
+        },
+        "mayor of Berlin": {
+            "score": 0.30764,
+            "uri": "<dbpedia:Governing_Mayor_of_Berlin>"
+        }
+    },
+    "QALD2_te-31": {
+        "Methodist": {
+            "score": 0.22882,
+            "uri": "<dbpedia:Methodism>"
+        },
+        "current": {
+            "score": 0.00204,
+            "uri": "<dbpedia:The_Current_(radio_program)>"
+        },
+        "leaders": {
+            "score": 0.11301,
+            "uri": "<dbpedia:Leadership>"
+        },
+        "national": {
+            "score": 0.12164,
+            "uri": "<dbpedia:Nation>"
+        }
+    },
+    "QALD2_te-33": {
+        "all Australian": {
+            "score": 0.15304,
+            "uri": "<dbpedia:All-Australian_team>"
+        },
+        "nonprofit": {
+            "score": 0.31109,
+            "uri": "<dbpedia:Nonprofit_organization>"
+        },
+        "nonprofit organizations": {
+            "score": 0.2821,
+            "uri": "<dbpedia:Nonprofit_organization>"
+        }
+    },
+    "QALD2_te-34": {
+        "Lawrence of Arabia": {
+            "score": 0.62834,
+            "uri": "<dbpedia:T._E._Lawrence>"
+        },
+        "conflicts": {
+            "score": 0.23111,
+            "uri": "<dbpedia:War>"
+        },
+        "military": {
+            "score": 0.20462,
+            "uri": "<dbpedia:Military>"
+        }
+    },
+    "QALD2_te-35": {
+        "Skype": {
+            "score": 0.66451,
+            "uri": "<dbpedia:Skype>"
+        },
+        "developed": {
+            "score": 0.23245,
+            "uri": "<dbpedia:Software_development>"
+        }
+    },
+    "QALD2_te-39": {
+        "Munich": {
+            "score": 0.29782,
+            "uri": "<dbpedia:Munich>"
+        },
+        "companies": {
+            "score": 0.02805,
+            "uri": "<dbpedia:Company>"
+        }
+    },
+    "QALD2_te-40": {
+        "GMT": {
+            "score": 0.23381,
+            "uri": "<dbpedia:Greenwich_Mean_Time>"
+        },
+        "List": {
+            "score": 0.06092,
+            "uri": "<dbpedia:Angle_of_list>"
+        },
+        "boardgames": {
+            "score": 0.05319,
+            "uri": "<dbpedia:Board_game>"
+        }
+    },
+    "QALD2_te-41": {
+        "Intel": {
+            "score": 0.26702,
+            "uri": "<dbpedia:Intel>"
+        }
+    },
+    "QALD2_te-42": {
+        "Amanda Palmer": {
+            "score": 0.5,
+            "uri": "<dbpedia:Amanda_Palmer>"
+        },
+        "husband": {
+            "score": 0.00104,
+            "uri": "<dbpedia:Husband>"
+        }
+    },
+    "QALD2_te-43": {
+        "German Shepherd dog": {
+            "score": 0.90195,
+            "uri": "<dbpedia:German_Shepherd>"
+        },
+        "breeds": {
+            "score": 0.40751,
+            "uri": "<dbpedia:Dog_breed>"
+        }
+    },
+    "QALD2_te-44": {
+        "Weser": {
+            "score": 0.28478,
+            "uri": "<dbpedia:Weser>"
+        },
+        "cities": {
+            "score": 0.0053,
+            "uri": "<dbpedia:Southern_Border_Region_(California)>"
+        },
+        "flow": {
+            "score": 0.05743,
+            "uri": "<dbpedia:Tropical_cyclone>"
+        }
+    },
+    "QALD2_te-45": {
+        "Rhine": {
+            "score": 0.22789,
+            "uri": "<dbpedia:Rhine>"
+        },
+        "connected": {
+            "score": 0.00303,
+            "uri": "<dbpedia:Connected_space>"
+        },
+        "countries": {
+            "score": 0.05657,
+            "uri": "<dbpedia:Sovereign_state>"
+        }
+    },
+    "QALD2_te-46": {
+        "Philippines": {
+            "score": 0.51853,
+            "uri": "<dbpedia:Philippines>"
+        },
+        "professional": {
+            "score": 0.17994,
+            "uri": "<dbpedia:Professional_boxing>"
+        },
+        "surfers": {
+            "score": 0.14264,
+            "uri": "<dbpedia:Surfing>"
+        }
+    },
+    "QALD2_te-48": {
+        "MI6": {
+            "score": 0.53127,
+            "uri": "<dbpedia:Secret_Intelligence_Service>"
+        },
+        "UK": {
+            "score": 0.19639,
+            "uri": "<dbpedia:United_Kingdom>"
+        },
+        "city": {
+            "score": 0.14241,
+            "uri": "<dbpedia:City_of_London>"
+        },
+        "headquarters": {
+            "score": 0.11895,
+            "uri": "<dbpedia:Headquarters>"
+        }
+    },
+    "QALD2_te-49": {
+        "Uzi": {
+            "score": 0.44478,
+            "uri": "<dbpedia:Uzi>"
+        },
+        "designer": {
+            "score": 0.14871,
+            "uri": "<dbpedia:Game_design>"
+        },
+        "develop": {
+            "score": 0.1829,
+            "uri": "<dbpedia:Research_and_development>"
+        },
+        "weapons": {
+            "score": 0.20785,
+            "uri": "<dbpedia:Weapon>"
+        }
+    },
+    "QALD2_te-5": {
+        "Earth": {
+            "score": 0.246,
+            "uri": "<dbpedia:Earth>"
+        },
+        "mountain": {
+            "score": 0.11239,
+            "uri": "<dbpedia:Mountain>"
+        },
+        "second": {
+            "score": 0.11034,
+            "uri": "<dbpedia:Second>"
+        }
+    },
+    "QALD2_te-51": {
+        "Frisian islands": {
+            "score": 0.29687,
+            "uri": "<dbpedia:Frisian_Islands>"
+        },
+        "Netherlands": {
+            "score": 0.37134,
+            "uri": "<dbpedia:Netherlands>"
+        },
+        "belong": {
+            "score": 0.00554,
+            "uri": "<dbpedia:Out_of_Time_(album)>"
+        }
+    },
+    "QALD2_te-53": {
+        "Lisbon": {
+            "score": 0.37174,
+            "uri": "<dbpedia:Lisbon>"
+        },
+        "ruling party": {
+            "score": 0.01311,
+            "uri": "<dbpedia:Ruling_party>"
+        }
+    },
+    "QALD2_te-55": {
+        "Greek": {
+            "score": 0.59091,
+            "uri": "<dbpedia:Greek_mythology>"
+        },
+        "Greek goddesses": {
+            "score": 0.45765,
+            "uri": "<dbpedia:Greek_mythology>"
+        },
+        "Mount Olympus": {
+            "score": 0.76382,
+            "uri": "<dbpedia:Mount_Olympus>"
+        }
+    },
+    "QALD2_te-57": {
+        "Apollo 14": {
+            "score": 0.8196,
+            "uri": "<dbpedia:Apollo_14>"
+        },
+        "astronauts": {
+            "score": 0.36326,
+            "uri": "<dbpedia:Astronaut>"
+        }
+    },
+    "QALD2_te-58": {
+        "Salt Lake City": {
+            "score": 0.30075,
+            "uri": "<dbpedia:Salt_Lake_City>"
+        },
+        "time zone": {
+            "score": 0.24392,
+            "uri": "<dbpedia:Time_zone>"
+        }
+    },
+    "QALD2_te-59": {
+        "U.S. states": {
+            "score": 0.23383,
+            "uri": "<dbpedia:U.S._state>"
+        },
+        "Utah": {
+            "score": 0.34522,
+            "uri": "<dbpedia:Utah>"
+        },
+        "timezone": {
+            "score": 0.09967,
+            "uri": "<dbpedia:Time_zone>"
+        }
+    },
+    "QALD2_te-6": {
+        "Sweden": {
+            "score": 0.38551,
+            "uri": "<dbpedia:Sweden_men's_national_ice_hockey_team>"
+        },
+        "professional": {
+            "score": 0.17111,
+            "uri": "<dbpedia:Professional>"
+        },
+        "skateboarders": {
+            "score": 0.15326,
+            "uri": "<dbpedia:Skateboarding>"
+        }
+    },
+    "QALD2_te-60": {
+        "Denmark": {
+            "score": 0.28858,
+            "uri": "<dbpedia:Denmark_national_cricket_team>"
+        },
+        "a list": {
+            "score": 0.00238,
+            "uri": "<dbpedia:The_A_List_(album)>"
+        },
+        "lakes": {
+            "score": 0.00672,
+            "uri": "<dbpedia:The_Lakes,_Copenhagen>"
+        },
+        "list": {
+            "score": 0.00404,
+            "uri": "<dbpedia:A-list>"
+        }
+    },
+    "QALD2_te-63": {
+        "Argentine": {
+            "score": 0.74175,
+            "uri": "<dbpedia:Cinema_of_Argentina>"
+        },
+        "Argentine films": {
+            "score": 0.56977,
+            "uri": "<dbpedia:Cinema_of_Argentina>"
+        }
+    },
+    "QALD2_te-64": {
+        "NASA": {
+            "score": 0.64051,
+            "uri": "<dbpedia:NASA>"
+        },
+        "launch": {
+            "score": 0.11718,
+            "uri": "<dbpedia:Rocket_launch>"
+        },
+        "pads": {
+            "score": 0.06569,
+            "uri": "<dbpedia:Sanitary_napkin>"
+        }
+    },
+    "QALD2_te-65": {
+        "John Lennon": {
+            "score": 0.65587,
+            "uri": "<dbpedia:John_Lennon>"
+        },
+        "instruments": {
+            "score": 0.12568,
+            "uri": "<dbpedia:Musical_instrument>"
+        },
+        "play": {
+            "score": 0.13509,
+            "uri": "<dbpedia:Word_play>"
+        }
+    },
+    "QALD2_te-66": {
+        "Benjamin Franklin": {
+            "score": 0.51267,
+            "uri": "<dbpedia:Benjamin_Franklin>"
+        },
+        "ships": {
+            "score": 0.15188,
+            "uri": "<dbpedia:Warship>"
+        }
+    },
+    "QALD2_te-67": {
+        "Juan Carlos I": {
+            "score": 0.30065,
+            "uri": "<dbpedia:Juan_Carlos_I_of_Spain>"
+        },
+        "parents": {
+            "score": 0.19429,
+            "uri": "<dbpedia:Parent>"
+        },
+        "wife": {
+            "score": 0.1942,
+            "uri": "<dbpedia:Wife>"
+        }
+    },
+    "QALD2_te-72": {
+        "Area 51": {
+            "score": 0.11872,
+            "uri": "<dbpedia:Area_51_(2005_video_game)>"
+        },
+        "In U.S": {
+            "score": 0.5902,
+            "uri": "<dbpedia:.us>"
+        },
+        "U.S. state": {
+            "score": 0.46951,
+            "uri": "<dbpedia:U.S._state>"
+        }
+    },
+    "QALD2_te-75": {
+        "British": {
+            "score": 0.18155,
+            "uri": "<dbpedia:British_people>"
+        },
+        "daughters": {
+            "score": 0.03164,
+            "uri": "<dbpedia:Daughter>"
+        },
+        "earls": {
+            "score": 0.06701,
+            "uri": "<dbpedia:Earl>"
+        },
+        "same place": {
+            "score": 0.00158,
+            "uri": "<dbpedia:Same_Place>"
+        }
+    },
+    "QALD2_te-76": {
+        "List": {
+            "score": 0.10699,
+            "uri": "<dbpedia:A-List_(Conservative)>"
+        },
+        "Margaret Thatcher": {
+            "score": 0.69607,
+            "uri": "<dbpedia:Margaret_Thatcher>"
+        },
+        "children": {
+            "score": 0.09568,
+            "uri": "<dbpedia:Angelina_Jolie>"
+        }
+    },
+    "QALD2_te-77": {
+        "Scarface": {
+            "score": 0.48292,
+            "uri": "<dbpedia:Scarface_(1983_film)>"
+        }
+    },
+    "QALD2_te-8": {
+        "Himalayan": {
+            "score": 0.30896,
+            "uri": "<dbpedia:Himalayas>"
+        },
+        "Himalayan mountain": {
+            "score": 0.27218,
+            "uri": "<dbpedia:Himalayas>"
+        },
+        "countries": {
+            "score": 0.03745,
+            "uri": "<dbpedia:Country>"
+        },
+        "mountain": {
+            "score": 0.2516,
+            "uri": "<dbpedia:Mountain>"
+        },
+        "mountain system": {
+            "score": 0.22286,
+            "uri": "<dbpedia:Mountain_range>"
+        }
+    },
+    "QALD2_te-80": {
+        "300": {
+            "score": 0.00092,
+            "uri": "<dbpedia:Airbus_A300>"
+        },
+        "William Goldman": {
+            "score": 0.55687,
+            "uri": "<dbpedia:William_Goldman>"
+        },
+        "books": {
+            "score": 0.12021,
+            "uri": "<dbpedia:Book>"
+        },
+        "pages": {
+            "score": 0.06315,
+            "uri": "<dbpedia:Web_page>"
+        }
+    },
+    "QALD2_te-81": {
+        "Kerouac": {
+            "score": 0.20847,
+            "uri": "<dbpedia:Jack_Kerouac>"
+        },
+        "Viking Press": {
+            "score": 0.44997,
+            "uri": "<dbpedia:Viking_Press>"
+        },
+        "books": {
+            "score": 0.22739,
+            "uri": "<dbpedia:Book>"
+        },
+        "published": {
+            "score": 0.21213,
+            "uri": "<dbpedia:Publishing>"
+        }
+    },
+    "QALD2_te-82": {
+        "a list": {
+            "score": 0.00238,
+            "uri": "<dbpedia:Film_festival>"
+        },
+        "all American": {
+            "score": 0.13298,
+            "uri": "<dbpedia:College_Football_All-America_Team>"
+        },
+        "inventions": {
+            "score": 0.0056,
+            "uri": "<dbpedia:Archimedes>"
+        },
+        "list": {
+            "score": 0.00404,
+            "uri": "<dbpedia:A-list>"
+        }
+    },
+    "QALD2_te-84": {
+        "Captain America": {
+            "score": 0.8412,
+            "uri": "<dbpedia:Captain_America>"
+        },
+        "comic": {
+            "score": 0.35346,
+            "uri": "<dbpedia:Comic_book>"
+        }
+    },
+    "QALD2_te-86": {
+        "Australia": {
+            "score": 0.406,
+            "uri": "<dbpedia:Australia>"
+        },
+        "city": {
+            "score": 0.11238,
+            "uri": "<dbpedia:Town_Hall_railway_station>"
+        }
+    },
+    "QALD2_te-87": {
+        "Harold and Maude": {
+            "score": 0.6098,
+            "uri": "<dbpedia:Harold_and_Maude>"
+        },
+        "composed": {
+            "score": 0.17183,
+            "uri": "<dbpedia:Composition_(visual_arts)>"
+        },
+        "music": {
+            "score": 0.07326,
+            "uri": "<dbpedia:Music>"
+        }
+    },
+    "QALD2_te-88": {
+        "Clint Eastwood": {
+            "score": 0.69608,
+            "uri": "<dbpedia:Clint_Eastwood>"
+        },
+        "direct": {
+            "score": 0.22347,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "films": {
+            "score": 0.22531,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "QALD2_te-89": {
+        "Dutch": {
+            "score": 0.34418,
+            "uri": "<dbpedia:Dutch_language>"
+        },
+        "Dutch queen": {
+            "score": 0.27371,
+            "uri": "<dbpedia:Monarchy_of_the_Netherlands>"
+        },
+        "buried": {
+            "score": 0.12954,
+            "uri": "<dbpedia:Funeral>"
+        },
+        "city": {
+            "score": 0.05305,
+            "uri": "<dbpedia:City_of_London>"
+        },
+        "queen Juliana": {
+            "score": 0.4567,
+            "uri": "<dbpedia:Juliana_of_the_Netherlands>"
+        }
+    },
+    "QALD2_te-9": {
+        "a list": {
+            "score": 0.14552,
+            "uri": "<dbpedia:A-list>"
+        },
+        "bandleaders": {
+            "score": 0.14664,
+            "uri": "<dbpedia:Bandleader>"
+        },
+        "list": {
+            "score": 0.14718,
+            "uri": "<dbpedia:A-list>"
+        },
+        "players": {
+            "score": 0.15604,
+            "uri": "<dbpedia:Musician>"
+        },
+        "trumpet": {
+            "score": 0.34636,
+            "uri": "<dbpedia:Trumpet>"
+        }
+    },
+    "QALD2_te-90": {
+        "prime minister of Spain": {
+            "score": 0.76275,
+            "uri": "<dbpedia:Prime_Minister_of_Spain>"
+        },
+        "residence": {
+            "score": 0.2644,
+            "uri": "<dbpedia:Spanish_royal_sites>"
+        }
+    },
+    "QALD2_te-91": {
+        "MN": {
+            "score": 0.14142,
+            "uri": "<dbpedia:Minnesota>"
+        },
+        "U.S. State": {
+            "score": 0.47441,
+            "uri": "<dbpedia:U.S._state>"
+        },
+        "abbreviation": {
+            "score": 0.0559,
+            "uri": "<dbpedia:Abbreviation>"
+        }
+    },
+    "QALD2_te-92": {
+        "Bruce Springsteen": {
+            "score": 0.70785,
+            "uri": "<dbpedia:Bruce_Springsteen>"
+        },
+        "songs": {
+            "score": 0.2092,
+            "uri": "<dbpedia:Song>"
+        }
+    },
+    "QALD2_te-93": {
+        "Army of Darkness": {
+            "score": 0.62903,
+            "uri": "<dbpedia:Army_of_Darkness>"
+        },
+        "Sam Raimi": {
+            "score": 0.75817,
+            "uri": "<dbpedia:Sam_Raimi>"
+        },
+        "direct": {
+            "score": 0.19895,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "movies": {
+            "score": 0.19672,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "QALD2_te-95": {
+        "Polish national anthem": {
+            "score": 0.43696,
+            "uri": "<dbpedia:Poland_Is_Not_Yet_Lost>"
+        },
+        "lyrics": {
+            "score": 0.21152,
+            "uri": "<dbpedia:Lyrics>"
+        }
+    },
+    "QALD2_te-97": {
+        "Storm on the Sea of Galilee": {
+            "score": 0.62355,
+            "uri": "<dbpedia:The_Storm_on_the_Sea_of_Galilee>"
+        },
+        "painted": {
+            "score": 0.12436,
+            "uri": "<dbpedia:Painting>"
+        }
+    },
+    "QALD2_te-98": {
+        "Miffy": {
+            "score": 0.39535,
+            "uri": "<dbpedia:Miffy>"
+        },
+        "come": {
+            "score": 0.07788,
+            "uri": "<dbpedia:Come_On_In_(You_Did_the_Best_You_Could_Do)>"
+        },
+        "country": {
+            "score": 0.12438,
+            "uri": "<dbpedia:Country_music>"
+        },
+        "creator": {
+            "score": 0.04242,
+            "uri": "<dbpedia:Creator_(album)>"
+        }
+    },
+    "QALD2_te-99": {
+        "Elvis": {
+            "score": 0.20308,
+            "uri": "<dbpedia:Elvis_Presley>"
+        },
+        "album": {
+            "score": 0.32315,
+            "uri": "<dbpedia:Album>"
+        },
+        "first album": {
+            "score": 0.29947,
+            "uri": "<dbpedia:Album>"
+        },
+        "label": {
+            "score": 0.23558,
+            "uri": "<dbpedia:Record_label>"
+        },
+        "record": {
+            "score": 0.25142,
+            "uri": "<dbpedia:Gramophone_record>"
+        }
+    },
+    "QALD2_tr-1": {
+        "Russian": {
+            "score": 0.21946,
+            "uri": "<dbpedia:Russians>"
+        },
+        "all female": {
+            "score": 0.124,
+            "uri": "<dbpedia:Girl_group>"
+        },
+        "astronauts": {
+            "score": 0.17894,
+            "uri": "<dbpedia:Astronaut>"
+        }
+    },
+    "QALD2_tr-10": {
+        "In country": {
+            "score": 0.00893,
+            "uri": "<dbpedia:In_Country_(album)>"
+        },
+        "Nile": {
+            "score": 0.15058,
+            "uri": "<dbpedia:Nile>"
+        },
+        "country": {
+            "score": 0.01002,
+            "uri": "<dbpedia:In_Country>"
+        },
+        "start": {
+            "score": 0.0016,
+            "uri": "<dbpedia:Start,_Louisiana>"
+        }
+    },
+    "QALD2_tr-11": {
+        "caves": {
+            "score": 0.09632,
+            "uri": "<dbpedia:Cave>"
+        },
+        "countries": {
+            "score": 0.08694,
+            "uri": "<dbpedia:Country>"
+        }
+    },
+    "QALD2_tr-13": {
+        "Millepede": {
+            "score": 0.5,
+            "uri": "<dbpedia:Millipede>"
+        },
+        "belong": {
+            "score": 0.00064,
+            "uri": "<dbpedia:Belong_(album)>"
+        },
+        "classis": {
+            "score": 0.1201,
+            "uri": "<dbpedia:Presbyterian_polity>"
+        }
+    },
+    "QALD2_tr-15": {
+        "Goofy": {
+            "score": 0.16094,
+            "uri": "<dbpedia:Goofy>"
+        }
+    },
+    "QALD2_tr-16": {
+        "Africa": {
+            "score": 0.21435,
+            "uri": "<dbpedia:Africa>"
+        },
+        "capitals": {
+            "score": 0.09718,
+            "uri": "<dbpedia:Capital_city>"
+        },
+        "countries": {
+            "score": 0.15067,
+            "uri": "<dbpedia:Sovereign_state>"
+        }
+    },
+    "QALD2_tr-17": {
+        "New Jersey": {
+            "score": 0.30264,
+            "uri": "<dbpedia:New_Jersey>"
+        },
+        "cities": {
+            "score": 0.1455,
+            "uri": "<dbpedia:Administrative_divisions_of_New_York>"
+        },
+        "inhabitants": {
+            "score": 0.09581,
+            "uri": "<dbpedia:Residency_(domicile)>"
+        }
+    },
+    "QALD2_tr-18": {
+        "Munch": {
+            "score": 0.33623,
+            "uri": "<dbpedia:Edvard_Munch>"
+        },
+        "Scream": {
+            "score": 0.22778,
+            "uri": "<dbpedia:The_Scream>"
+        },
+        "exhibits": {
+            "score": 0.17601,
+            "uri": "<dbpedia:Collection_(artwork)>"
+        },
+        "museum": {
+            "score": 0.15144,
+            "uri": "<dbpedia:Museum>"
+        }
+    },
+    "QALD2_tr-21": {
+        "Illinois": {
+            "score": 0.3499,
+            "uri": "<dbpedia:Illinois>"
+        },
+        "border": {
+            "score": 0.13239,
+            "uri": "<dbpedia:Mexico%E2%80%93United_States_border>"
+        },
+        "states": {
+            "score": 0.18839,
+            "uri": "<dbpedia:U.S._state>"
+        }
+    },
+    "QALD2_tr-22": {
+        "In country": {
+            "score": 0.00893,
+            "uri": "<dbpedia:In_Country_(album)>"
+        },
+        "Limerick Lake": {
+            "score": 0.5,
+            "uri": "<dbpedia:Limerick_Lake>"
+        },
+        "country": {
+            "score": 0.01002,
+            "uri": "<dbpedia:In_Country>"
+        }
+    },
+    "QALD2_tr-23": {
+        "Walt Disney": {
+            "score": 0.33806,
+            "uri": "<dbpedia:Walt_Disney>"
+        },
+        "television": {
+            "score": 0.24,
+            "uri": "<dbpedia:Television_program>"
+        },
+        "television shows": {
+            "score": 0.20932,
+            "uri": "<dbpedia:Television>"
+        }
+    },
+    "QALD2_tr-24": {
+        "Annapurna": {
+            "score": 0.5212,
+            "uri": "<dbpedia:Annapurna>"
+        },
+        "mountain": {
+            "score": 0.25456,
+            "uri": "<dbpedia:Mountain>"
+        }
+    },
+    "QALD2_tr-25": {
+        "Garry Marshall": {
+            "score": 0.70915,
+            "uri": "<dbpedia:Garry_Marshall>"
+        },
+        "Julia Roberts": {
+            "score": 0.71372,
+            "uri": "<dbpedia:Julia_Roberts>"
+        },
+        "directed": {
+            "score": 0.18172,
+            "uri": "<dbpedia:Film_director>"
+        },
+        "films": {
+            "score": 0.191,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "QALD2_tr-26": {
+        "Manhattan Bridge": {
+            "score": 0.71275,
+            "uri": "<dbpedia:Manhattan_Bridge>"
+        },
+        "bridges": {
+            "score": 0.22044,
+            "uri": "<dbpedia:Brooklyn_Bridge>"
+        },
+        "type": {
+            "score": 0.00409,
+            "uri": "<dbpedia:Typecasting_(acting)>"
+        }
+    },
+    "QALD2_tr-28": {
+        "European": {
+            "score": 0.21899,
+            "uri": "<dbpedia:Ethnic_groups_in_Europe>"
+        },
+        "European countries": {
+            "score": 0.15334,
+            "uri": "<dbpedia:Europe>"
+        },
+        "constitutional monarchy": {
+            "score": 0.60987,
+            "uri": "<dbpedia:Constitutional_monarchy>"
+        },
+        "countries": {
+            "score": 0.19871,
+            "uri": "<dbpedia:Sovereign_state>"
+        }
+    },
+    "QALD2_tr-29": {
+        "WikiLeaks": {
+            "score": 0.50449,
+            "uri": "<dbpedia:WikiLeaks>"
+        },
+        "awards": {
+            "score": 0.00089,
+            "uri": "<dbpedia:Nippon_Professional_Baseball>"
+        },
+        "win": {
+            "score": 0.03934,
+            "uri": "<dbpedia:Microsoft_Windows>"
+        }
+    },
+    "QALD2_tr-3": {
+        "Bill Clinton": {
+            "score": 0.66373,
+            "uri": "<dbpedia:Bill_Clinton>"
+        },
+        "daughter": {
+            "score": 0.12755,
+            "uri": "<dbpedia:Daughter>"
+        },
+        "married": {
+            "score": 0.20286,
+            "uri": "<dbpedia:Same-sex_marriage>"
+        }
+    },
+    "QALD2_tr-30": {
+        "population density": {
+            "score": 0.44187,
+            "uri": "<dbpedia:Population_density>"
+        },
+        "state of the USA": {
+            "score": 0.375,
+            "uri": "<dbpedia:The_State_of_The_USA>"
+        }
+    },
+    "QALD2_tr-31": {
+        "Czech Republic": {
+            "score": 0.43723,
+            "uri": "<dbpedia:Czech_Republic>"
+        },
+        "currency": {
+            "score": 0.14542,
+            "uri": "<dbpedia:Currency>"
+        }
+    },
+    "QALD2_tr-32": {
+        "European Union": {
+            "score": 0.58476,
+            "uri": "<dbpedia:European_Union>"
+        },
+        "adopted": {
+            "score": 0.12978,
+            "uri": "<dbpedia:Loanword>"
+        },
+        "countries": {
+            "score": 0.20557,
+            "uri": "<dbpedia:Sovereign_state>"
+        }
+    },
+    "QALD2_tr-34": {
+        "countries": {
+            "score": 0.17519,
+            "uri": "<dbpedia:Sovereign_state>"
+        },
+        "official languages": {
+            "score": 0.28371,
+            "uri": "<dbpedia:Official_language>"
+        },
+        "two official languages": {
+            "score": 0.2193,
+            "uri": "<dbpedia:Official_bilingualism_in_Canada>"
+        }
+    },
+    "QALD2_tr-35": {
+        "Universal Studios": {
+            "score": 0.55496,
+            "uri": "<dbpedia:Universal_Parks_&_Resorts>"
+        },
+        "owner": {
+            "score": 0.19698,
+            "uri": "<dbpedia:Ownership>"
+        }
+    },
+    "QALD2_tr-36": {
+        "Yenisei river": {
+            "score": 0.57255,
+            "uri": "<dbpedia:Yenisei_River>"
+        },
+        "countries": {
+            "score": 0.04904,
+            "uri": "<dbpedia:Sovereign_state>"
+        },
+        "flow": {
+            "score": 0.06788,
+            "uri": "<dbpedia:Volumetric_flow_rate>"
+        },
+        "river flow": {
+            "score": 0.14641,
+            "uri": "<dbpedia:River>"
+        }
+    },
+    "QALD2_tr-38": {
+        "German": {
+            "score": 0.24081,
+            "uri": "<dbpedia:Germans>"
+        },
+        "United Kingdom": {
+            "score": 0.31666,
+            "uri": "<dbpedia:United_Kingdom>"
+        },
+        "married": {
+            "score": 0.10484,
+            "uri": "<dbpedia:Same-sex_marriage>"
+        },
+        "monarchs": {
+            "score": 0.10969,
+            "uri": "<dbpedia:Monarchy>"
+        }
+    },
+    "QALD2_tr-4": {
+        "Brooklyn Bridge": {
+            "score": 0.4584,
+            "uri": "<dbpedia:Brooklyn_Bridge>"
+        },
+        "cross": {
+            "score": 0.0228,
+            "uri": "<dbpedia:Crucifix>"
+        },
+        "river": {
+            "score": 0.05231,
+            "uri": "<dbpedia:River>"
+        }
+    },
+    "QALD2_tr-40": {
+        "Australia": {
+            "score": 0.3197,
+            "uri": "<dbpedia:Australia>"
+        },
+        "mountain": {
+            "score": 0.05061,
+            "uri": "<dbpedia:The_Mountain_(TV_series)>"
+        }
+    },
+    "QALD2_tr-41": {
+        "Spain": {
+            "score": 0.46334,
+            "uri": "<dbpedia:Spain_national_football_team>"
+        },
+        "clubs": {
+            "score": 0.17905,
+            "uri": "<dbpedia:Football_team>"
+        },
+        "soccer": {
+            "score": 0.33644,
+            "uri": "<dbpedia:Association_football>"
+        }
+    },
+    "QALD2_tr-42": {
+        "languages of the Philippines": {
+            "score": 0.72415,
+            "uri": "<dbpedia:Languages_of_the_Philippines>"
+        },
+        "official languages": {
+            "score": 0.34348,
+            "uri": "<dbpedia:Official_language>"
+        }
+    },
+    "QALD2_tr-43": {
+        "New York City": {
+            "score": 0.54213,
+            "uri": "<dbpedia:New_York_City>"
+        },
+        "mayor of New York City": {
+            "score": 0.50937,
+            "uri": "<dbpedia:Mayor_of_New_York_City>"
+        }
+    },
+    "QALD2_tr-44": {
+        "Brooklyn Bridge": {
+            "score": 0.44272,
+            "uri": "<dbpedia:Brooklyn_Bridge>"
+        }
+    },
+    "QALD2_tr-45": {
+        "Belgium": {
+            "score": 0.36075,
+            "uri": "<dbpedia:Belgium>"
+        },
+        "organizations": {
+            "score": 0.1123,
+            "uri": "<dbpedia:International_organization>"
+        },
+        "telecommunications": {
+            "score": 0.14663,
+            "uri": "<dbpedia:Telecommunication>"
+        }
+    },
+    "QALD2_tr-47": {
+        "Karakoram": {
+            "score": 0.37123,
+            "uri": "<dbpedia:Karakoram>"
+        }
+    },
+    "QALD2_tr-49": {
+        "advertising": {
+            "score": 0.23164,
+            "uri": "<dbpedia:Advertising>"
+        },
+        "companies": {
+            "score": 0.2202,
+            "uri": "<dbpedia:Company>"
+        },
+        "industry": {
+            "score": 0.23601,
+            "uri": "<dbpedia:Industry>"
+        }
+    },
+    "QALD2_tr-50": {
+        "Bruce Carver": {
+            "score": 0.5,
+            "uri": "<dbpedia:Bruce_Carver>"
+        },
+        "die": {
+            "score": 0.00667,
+            "uri": "<dbpedia:Die_(manufacturing)>"
+        }
+    },
+    "QALD2_tr-51": {
+        "school": {
+            "score": 0.00341,
+            "uri": "<dbpedia:Shoaling_and_schooling>"
+        },
+        "types": {
+            "score": 0.00265,
+            "uri": "<dbpedia:Reliability_(psychometrics)>"
+        }
+    },
+    "QALD2_tr-52": {
+        "presidents": {
+            "score": 0.00935,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        }
+    },
+    "QALD2_tr-53": {
+        "United States": {
+            "score": 0.34008,
+            "uri": "<dbpedia:United_States>"
+        },
+        "presidents of the United States": {
+            "score": 0.1962,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        }
+    },
+    "QALD2_tr-54": {
+        "U.S. president": {
+            "score": 0.43352,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        },
+        "president Lincoln": {
+            "score": 0.3869,
+            "uri": "<dbpedia:Abraham_Lincoln>"
+        },
+        "wife": {
+            "score": 0.27167,
+            "uri": "<dbpedia:Mary_Todd_Lincoln>"
+        }
+    },
+    "QALD2_tr-55": {
+        "World of Warcraft": {
+            "score": 0.71765,
+            "uri": "<dbpedia:World_of_Warcraft>"
+        },
+        "developed": {
+            "score": 0.25667,
+            "uri": "<dbpedia:Video_game_developer>"
+        },
+        "game World": {
+            "score": 0.21188,
+            "uri": "<dbpedia:Fictional_universe>"
+        },
+        "video game": {
+            "score": 0.45783,
+            "uri": "<dbpedia:Video_game>"
+        }
+    },
+    "QALD2_tr-57": {
+        "HBO": {
+            "score": 0.65367,
+            "uri": "<dbpedia:HBO>"
+        },
+        "List": {
+            "score": 0.11385,
+            "uri": "<dbpedia:The_List_(The_Office)>"
+        },
+        "Sopranos": {
+            "score": 0.66241,
+            "uri": "<dbpedia:The_Sopranos>"
+        },
+        "episodes": {
+            "score": 0.13719,
+            "uri": "<dbpedia:Episodes_(TV_series)>"
+        },
+        "first season": {
+            "score": 0.1305,
+            "uri": "<dbpedia:Millennium_(season_1)>"
+        },
+        "television series": {
+            "score": 0.29995,
+            "uri": "<dbpedia:Television_program>"
+        }
+    },
+    "QALD2_tr-58": {
+        "films": {
+            "score": 0.24003,
+            "uri": "<dbpedia:Cinema_of_India>"
+        },
+        "produced": {
+            "score": 0.23907,
+            "uri": "<dbpedia:Film_producer>"
+        }
+    },
+    "QALD2_tr-59": {
+        "Jimmy": {
+            "score": 0.13499,
+            "uri": "<dbpedia:Jimmy_Carter>"
+        },
+        "first name": {
+            "score": 0.15909,
+            "uri": "<dbpedia:Columbo>"
+        },
+        "people": {
+            "score": 0.16531,
+            "uri": "<dbpedia:People_(magazine)>"
+        }
+    },
+    "QALD2_tr-6": {
+        "Abraham Lincoln": {
+            "score": 0.6745,
+            "uri": "<dbpedia:Abraham_Lincoln>"
+        },
+        "die": {
+            "score": 0.18117,
+            "uri": "<dbpedia:Coining_(mint)>"
+        }
+    },
+    "QALD2_tr-61": {
+        "Nanga Parbat": {
+            "score": 0.61373,
+            "uri": "<dbpedia:Nanga_Parbat>"
+        },
+        "higher": {
+            "score": 0.00887,
+            "uri": "<dbpedia:Close_vowel>"
+        },
+        "mountains": {
+            "score": 0.1244,
+            "uri": "<dbpedia:Mountain>"
+        }
+    },
+    "QALD2_tr-62": {
+        "Wikipedia": {
+            "score": 0.06644,
+            "uri": "<dbpedia:Wikipedia>"
+        }
+    },
+    "QALD2_tr-63": {
+        "Batman Begins": {
+            "score": 0.7353,
+            "uri": "<dbpedia:Batman_Begins>"
+        },
+        "actors": {
+            "score": 0.23816,
+            "uri": "<dbpedia:Screen_Actors_Guild_Award>"
+        }
+    },
+    "QALD2_tr-64": {
+        "California": {
+            "score": 0.19933,
+            "uri": "<dbpedia:California>"
+        },
+        "developed": {
+            "score": 0.16515,
+            "uri": "<dbpedia:Software_development>"
+        },
+        "organizations": {
+            "score": 0.12568,
+            "uri": "<dbpedia:Organization>"
+        },
+        "software": {
+            "score": 0.18622,
+            "uri": "<dbpedia:Software>"
+        }
+    },
+    "QALD2_tr-65": {
+        "aerospace industry": {
+            "score": 0.2142,
+            "uri": "<dbpedia:Aerospace_engineering>"
+        },
+        "companies": {
+            "score": 0.07901,
+            "uri": "<dbpedia:Corporation>"
+        },
+        "nuclear reactor technology": {
+            "score": 0.61533,
+            "uri": "<dbpedia:Nuclear_reactor>"
+        },
+        "well": {
+            "score": 0.12164,
+            "uri": "<dbpedia:Oil_well>"
+        },
+        "work": {
+            "score": 0.11411,
+            "uri": "<dbpedia:Work_(physics)>"
+        }
+    },
+    "QALD2_tr-68": {
+        "Germany": {
+            "score": 0.31432,
+            "uri": "<dbpedia:Germany>"
+        },
+        "actors": {
+            "score": 0.06756,
+            "uri": "<dbpedia:Actor_(policy_debate)>"
+        }
+    },
+    "QALD2_tr-69": {
+        "caves": {
+            "score": 0.01202,
+            "uri": "<dbpedia:Cave>"
+        }
+    },
+    "QALD2_tr-70": {
+        "Hal Roach": {
+            "score": 0.62507,
+            "uri": "<dbpedia:Hal_Roach>"
+        },
+        "films": {
+            "score": 0.22531,
+            "uri": "<dbpedia:Feature_film>"
+        },
+        "produced": {
+            "score": 0.21162,
+            "uri": "<dbpedia:Film_producer>"
+        }
+    },
+    "QALD2_tr-71": {
+        "Mean Hamster Software": {
+            "score": 0.68332,
+            "uri": "<dbpedia:Mean_Hamster_Software>"
+        },
+        "published": {
+            "score": 0.29709,
+            "uri": "<dbpedia:Video_game_publisher>"
+        },
+        "video games": {
+            "score": 0.3483,
+            "uri": "<dbpedia:Video_game>"
+        }
+    },
+    "QALD2_tr-72": {
+        "Estonia": {
+            "score": 0.5098,
+            "uri": "<dbpedia:Estonia>"
+        },
+        "languages": {
+            "score": 0.16299,
+            "uri": "<dbpedia:Language>"
+        },
+        "spoken": {
+            "score": 0.15396,
+            "uri": "<dbpedia:Speech>"
+        }
+    },
+    "QALD2_tr-73": {
+        "Aldi": {
+            "score": 0.42453,
+            "uri": "<dbpedia:Aldi>"
+        }
+    },
+    "QALD2_tr-74": {
+        "Europe": {
+            "score": 0.19129,
+            "uri": "<dbpedia:Europe>"
+        },
+        "capitals": {
+            "score": 0.03315,
+            "uri": "<dbpedia:Washington_Capitals>"
+        },
+        "host cities": {
+            "score": 0.09803,
+            "uri": "<dbpedia:Gay_Games>"
+        },
+        "summer olympic games": {
+            "score": 0.31383,
+            "uri": "<dbpedia:Basketball_at_the_Summer_Olympics>"
+        }
+    },
+    "QALD2_tr-75": {
+        "5th": {
+            "score": 0.15866,
+            "uri": "<dbpedia:5th_United_States_Congress>"
+        },
+        "United States of America": {
+            "score": 0.31538,
+            "uri": "<dbpedia:United_States>"
+        },
+        "president of the United States": {
+            "score": 0.60029,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        },
+        "president of the United States of America": {
+            "score": 0.40109,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        }
+    },
+    "QALD2_tr-77": {
+        "Last Christmas": {
+            "score": 0.37042,
+            "uri": "<dbpedia:Last_Christmas>"
+        },
+        "music": {
+            "score": 0.19417,
+            "uri": "<dbpedia:Music>"
+        },
+        "music albums": {
+            "score": 0.20819,
+            "uri": "<dbpedia:Album>"
+        },
+        "song": {
+            "score": 0.21504,
+            "uri": "<dbpedia:Song>"
+        }
+    },
+    "QALD2_tr-78": {
+        "Danielle Steel": {
+            "score": 0.69117,
+            "uri": "<dbpedia:Danielle_Steel>"
+        },
+        "books": {
+            "score": 0.20091,
+            "uri": "<dbpedia:Harry_Potter>"
+        },
+        "written": {
+            "score": 0.15222,
+            "uri": "<dbpedia:Screenplay>"
+        }
+    },
+    "QALD2_tr-79": {
+        "California": {
+            "score": 0.27874,
+            "uri": "<dbpedia:California>"
+        },
+        "USA": {
+            "score": 0.25207,
+            "uri": "<dbpedia:United_States>"
+        },
+        "airports": {
+            "score": 0.09238,
+            "uri": "<dbpedia:Airport>"
+        }
+    },
+    "QALD2_tr-8": {
+        "Germany": {
+            "score": 0.38101,
+            "uri": "<dbpedia:Germany>"
+        },
+        "Social Democratic Party": {
+            "score": 0.45026,
+            "uri": "<dbpedia:Social_Democratic_Party_of_Germany>"
+        },
+        "governed": {
+            "score": 0.10798,
+            "uri": "<dbpedia:Government>"
+        },
+        "states": {
+            "score": 0.18478,
+            "uri": "<dbpedia:Member_state_of_the_European_Union>"
+        }
+    },
+    "QALD2_tr-80": {
+        "Canadian": {
+            "score": 0.24514,
+            "uri": "<dbpedia:Canadians>"
+        },
+        "Grunge": {
+            "score": 0.41672,
+            "uri": "<dbpedia:Grunge>"
+        },
+        "record labels": {
+            "score": 0.13133,
+            "uri": "<dbpedia:Record_label>"
+        }
+    },
+    "QALD2_tr-81": {
+        "country": {
+            "score": 0.26102,
+            "uri": "<dbpedia:Nation_state>"
+        },
+        "official languages": {
+            "score": 0.27293,
+            "uri": "<dbpedia:Official_language>"
+        }
+    },
+    "QALD2_tr-82": {
+        "GIMP": {
+            "score": 0.67997,
+            "uri": "<dbpedia:GIMP>"
+        },
+        "programming language": {
+            "score": 0.37353,
+            "uri": "<dbpedia:Programming_language>"
+        },
+        "written": {
+            "score": 0.14927,
+            "uri": "<dbpedia:Writing>"
+        }
+    },
+    "QALD2_tr-83": {
+        "Natalie Portman": {
+            "score": 0.65393,
+            "uri": "<dbpedia:Natalie_Portman>"
+        },
+        "films": {
+            "score": 0.19298,
+            "uri": "<dbpedia:Film>"
+        },
+        "produced": {
+            "score": 0.19494,
+            "uri": "<dbpedia:Film_producer>"
+        }
+    },
+    "QALD2_tr-84": {
+        "Tom Cruise": {
+            "score": 0.66865,
+            "uri": "<dbpedia:Tom_Cruise>"
+        },
+        "movies": {
+            "score": 0.17779,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "QALD2_tr-85": {
+        "Julia Roberts": {
+            "score": 0.66716,
+            "uri": "<dbpedia:Julia_Roberts>"
+        },
+        "Richard Gere": {
+            "score": 0.63579,
+            "uri": "<dbpedia:Richard_Gere>"
+        },
+        "films": {
+            "score": 0.17435,
+            "uri": "<dbpedia:Film>"
+        },
+        "play": {
+            "score": 0.08805,
+            "uri": "<dbpedia:Play_(theatre)>"
+        },
+        "well": {
+            "score": 0.03586,
+            "uri": "<dbpedia:The_Well_(1951_film)>"
+        }
+    },
+    "QALD2_tr-86": {
+        "German": {
+            "score": 0.22674,
+            "uri": "<dbpedia:Germans>"
+        },
+        "all female": {
+            "score": 0.1142,
+            "uri": "<dbpedia:Single-sex_education>"
+        },
+        "chancellors": {
+            "score": 0.16475,
+            "uri": "<dbpedia:Chancellor>"
+        }
+    },
+    "QALD2_tr-87": {
+        "book": {
+            "score": 0.13363,
+            "uri": "<dbpedia:Musical_theatre>"
+        },
+        "pillars of the Earth": {
+            "score": 0.6294,
+            "uri": "<dbpedia:The_Pillars_of_the_Earth_(miniseries)>"
+        }
+    },
+    "QALD2_tr-89": {
+        "Premier League": {
+            "score": 0.42508,
+            "uri": "<dbpedia:Premier_League>"
+        },
+        "clubs": {
+            "score": 0.19082,
+            "uri": "<dbpedia:Football_team>"
+        },
+        "soccer": {
+            "score": 0.35114,
+            "uri": "<dbpedia:Association_football>"
+        }
+    },
+    "QALD2_tr-9": {
+        "U.S. states": {
+            "score": 0.1296,
+            "uri": "<dbpedia:U.S._state>"
+        },
+        "gold": {
+            "score": 0.16,
+            "uri": "<dbpedia:Gold>"
+        },
+        "minerals": {
+            "score": 0.16975,
+            "uri": "<dbpedia:Mining>"
+        },
+        "possess": {
+            "score": 0.03148,
+            "uri": "<dbpedia:Drug_possession>"
+        }
+    },
+    "QALD2_tr-91": {
+        "organizations": {
+            "score": 0.0015,
+            "uri": "<dbpedia:Organization>"
+        }
+    },
+    "QALD2_tr-92": {
+        "mountain": {
+            "score": 0.03101,
+            "uri": "<dbpedia:Mountain>"
+        }
+    },
+    "SemSearch_ES-1": {
+        "44 magnum": {
+            "score": 0.7412,
+            "uri": "<dbpedia:.44_Magnum>"
+        },
+        "hunting": {
+            "score": 0.27771,
+            "uri": "<dbpedia:Hunting>"
+        }
+    },
+    "SemSearch_ES-10": {
+        "asheville north carolina": {
+            "score": 0.42347,
+            "uri": "<dbpedia:Asheville,_North_Carolina>"
+        }
+    },
+    "SemSearch_ES-100": {
+        "Tampa": {
+            "score": 0.1474,
+            "uri": "<dbpedia:Tampa,_Florida>"
+        },
+        "YMCA": {
+            "score": 0.36073,
+            "uri": "<dbpedia:YMCA>"
+        }
+    },
+    "SemSearch_ES-101": {
+        "ashley wagner": {
+            "score": 0.5,
+            "uri": "<dbpedia:Ashley_Wagner>"
+        }
+    },
+    "SemSearch_ES-102": {
+        "beach": {
+            "score": 0.14768,
+            "uri": "<dbpedia:Beach>"
+        },
+        "flowers": {
+            "score": 0.14184,
+            "uri": "<dbpedia:Flower>"
+        }
+    },
+    "SemSearch_ES-104": {
+        "bourbonnais il": {
+            "score": 0.5,
+            "uri": "<dbpedia:Bourbonnais,_Illinois>"
+        }
+    },
+    "SemSearch_ES-106": {
+        "chase masterson": {
+            "score": 0.5,
+            "uri": "<dbpedia:Chase_Masterson>"
+        }
+    },
+    "SemSearch_ES-107": {
+        "concord": {
+            "score": 0.26047,
+            "uri": "<dbpedia:AMC_Concord>"
+        },
+        "steel": {
+            "score": 0.18314,
+            "uri": "<dbpedia:Steel>"
+        }
+    },
+    "SemSearch_ES-108": {
+        "danielia cotton": {
+            "score": 0.5,
+            "uri": "<dbpedia:Danielia_Cotton>"
+        }
+    },
+    "SemSearch_ES-109": {
+        "david hewlett": {
+            "score": 0.5,
+            "uri": "<dbpedia:David_Hewlett>"
+        }
+    },
+    "SemSearch_ES-11": {
+        "austin powers": {
+            "score": 0.33101,
+            "uri": "<dbpedia:Austin_Powers_(film_series)>"
+        }
+    },
+    "SemSearch_ES-111": {
+        "eagle rock, ca": {
+            "score": 0.375,
+            "uri": "<dbpedia:Eagle_Rock,_Los_Angeles>"
+        }
+    },
+    "SemSearch_ES-114": {
+        "glenn frey": {
+            "score": 0.5,
+            "uri": "<dbpedia:Glenn_Frey>"
+        }
+    },
+    "SemSearch_ES-115": {
+        "goodwill": {
+            "score": 0.12961,
+            "uri": "<dbpedia:Goodwill_Industries>"
+        },
+        "michigan": {
+            "score": 0.26826,
+            "uri": "<dbpedia:Michigan>"
+        }
+    },
+    "SemSearch_ES-118": {
+        "iowa energy": {
+            "score": 0.5,
+            "uri": "<dbpedia:Iowa_Energy>"
+        }
+    },
+    "SemSearch_ES-119": {
+        "john elliott": {
+            "score": 0.24554,
+            "uri": "<dbpedia:John_Elliott_(businessman)>"
+        }
+    },
+    "SemSearch_ES-12": {
+        "austin texas": {
+            "score": 0.3429,
+            "uri": "<dbpedia:Austin,_Texas>"
+        }
+    },
+    "SemSearch_ES-120": {
+        "general hospital": {
+            "score": 0.31588,
+            "uri": "<dbpedia:Hospital>"
+        },
+        "lawrence": {
+            "score": 0.14399,
+            "uri": "<dbpedia:Lawrence_of_Rome>"
+        }
+    },
+    "SemSearch_ES-123": {
+        "michael zimmerman": {
+            "score": 0.5,
+            "uri": "<dbpedia:Michael_Zimmerman_(biologist)>"
+        }
+    },
+    "SemSearch_ES-124": {
+        "bluetooth": {
+            "score": 0.70984,
+            "uri": "<dbpedia:Bluetooth>"
+        },
+        "motorola": {
+            "score": 0.63098,
+            "uri": "<dbpedia:Motorola>"
+        }
+    },
+    "SemSearch_ES-125": {
+        "nokia e73": {
+            "score": 0.5,
+            "uri": "<dbpedia:Nokia_E72>"
+        }
+    },
+    "SemSearch_ES-127": {
+        "handheld": {
+            "score": 0.27065,
+            "uri": "<dbpedia:Handheld_game_console>"
+        },
+        "palm tungsten": {
+            "score": 0.87745,
+            "uri": "<dbpedia:Palm_Tungsten>"
+        },
+        "tungsten e2": {
+            "score": 0.87745,
+            "uri": "<dbpedia:Palm_Tungsten>"
+        }
+    },
+    "SemSearch_ES-128": {
+        "neufchatel cheese": {
+            "score": 0.57645,
+            "uri": "<dbpedia:Neufch%C3%A2tel_cheese>"
+        },
+        "philadelphia": {
+            "score": 0.2589,
+            "uri": "<dbpedia:Philadelphia>"
+        }
+    },
+    "SemSearch_ES-129": {
+        "detroit": {
+            "score": 0.39088,
+            "uri": "<dbpedia:Detroit>"
+        },
+        "detroit mi": {
+            "score": 0.36709,
+            "uri": "<dbpedia:Detroit>"
+        },
+        "pizza": {
+            "score": 0.11472,
+            "uri": "<dbpedia:Pizza>"
+        },
+        "populous": {
+            "score": 0.12095,
+            "uri": "<dbpedia:Populous_(company)>"
+        }
+    },
+    "SemSearch_ES-13": {
+        "banana paper": {
+            "score": 0.7549,
+            "uri": "<dbpedia:Banana_paper>"
+        },
+        "paper making": {
+            "score": 0.28285,
+            "uri": "<dbpedia:Paper_mill>"
+        }
+    },
+    "SemSearch_ES-130": {
+        "plymouth": {
+            "score": 0.33092,
+            "uri": "<dbpedia:Plymouth,_Montserrat>"
+        },
+        "police": {
+            "score": 0.34024,
+            "uri": "<dbpedia:Police>"
+        },
+        "police department": {
+            "score": 0.32949,
+            "uri": "<dbpedia:Police>"
+        }
+    },
+    "SemSearch_ES-131": {
+        "san diego": {
+            "score": 0.13754,
+            "uri": "<dbpedia:San_Diego>"
+        },
+        "scpa": {
+            "score": 0.02439,
+            "uri": "<dbpedia:School_for_Creative_and_Performing_Arts>"
+        }
+    },
+    "SemSearch_ES-132": {
+        "co": {
+            "score": 0.10472,
+            "uri": "<dbpedia:Prison_officer>"
+        },
+        "mattress": {
+            "score": 0.35243,
+            "uri": "<dbpedia:Mattress>"
+        },
+        "sealy": {
+            "score": 0.23404,
+            "uri": "<dbpedia:Sealy_Corporation>"
+        }
+    },
+    "SemSearch_ES-135": {
+        "canada": {
+            "score": 0.35617,
+            "uri": "<dbpedia:Canada>"
+        },
+        "spring shoes": {
+            "score": 0.36175,
+            "uri": "<dbpedia:Spring_(store)>"
+        }
+    },
+    "SemSearch_ES-136": {
+        "government gazette": {
+            "score": 0.0854,
+            "uri": "<dbpedia:Government_Gazette_of_South_Africa>"
+        },
+        "sri lanka": {
+            "score": 0.7101,
+            "uri": "<dbpedia:Sri_Lanka>"
+        },
+        "sri lanka government": {
+            "score": 0.35938,
+            "uri": "<dbpedia:Sri_Lanka>"
+        }
+    },
+    "SemSearch_ES-137": {
+        "express": {
+            "score": 0.00396,
+            "uri": "<dbpedia:Express_(clothing_retailer)>"
+        },
+        "steak": {
+            "score": 0.06415,
+            "uri": "<dbpedia:Steak>"
+        }
+    },
+    "SemSearch_ES-139": {
+        "big texan": {
+            "score": 0.71422,
+            "uri": "<dbpedia:The_Big_Texan_Steak_Ranch>"
+        },
+        "big texan steak": {
+            "score": 0.52255,
+            "uri": "<dbpedia:The_Big_Texan_Steak_Ranch>"
+        },
+        "steak house": {
+            "score": 0.36771,
+            "uri": "<dbpedia:Steakhouse>"
+        }
+    },
+    "SemSearch_ES-14": {
+        "ben franklin": {
+            "score": 0.17101,
+            "uri": "<dbpedia:Benjamin_Franklin>"
+        }
+    },
+    "SemSearch_ES-141": {
+        "county court": {
+            "score": 0.07153,
+            "uri": "<dbpedia:County_Court>"
+        },
+        "ventura county": {
+            "score": 0.25346,
+            "uri": "<dbpedia:Ventura_County,_California>"
+        }
+    },
+    "SemSearch_ES-15": {
+        "bradley center": {
+            "score": 0.5,
+            "uri": "<dbpedia:BMO_Harris_Bradley_Center>"
+        }
+    },
+    "SemSearch_ES-16": {
+        "brooklyn bridge": {
+            "score": 0.44272,
+            "uri": "<dbpedia:Brooklyn_Bridge>"
+        }
+    },
+    "SemSearch_ES-17": {
+        "butte montana": {
+            "score": 0.5,
+            "uri": "<dbpedia:Butte,_Montana>"
+        }
+    },
+    "SemSearch_ES-18": {
+        "canasta": {
+            "score": 0.5409,
+            "uri": "<dbpedia:Canasta>"
+        },
+        "cards": {
+            "score": 0.30906,
+            "uri": "<dbpedia:Playing_card>"
+        }
+    },
+    "SemSearch_ES-19": {
+        "carl lewis": {
+            "score": 0.5,
+            "uri": "<dbpedia:Carl_Lewis>"
+        }
+    },
+    "SemSearch_ES-2": {
+        "B. F. Skinner": {
+            "score": 0.5,
+            "uri": "<dbpedia:B._F._Skinner>"
+        }
+    },
+    "SemSearch_ES-20": {
+        "carolina": {
+            "score": 0.00423,
+            "uri": "<dbpedia:Carolina,_Puerto_Rico>"
+        }
+    },
+    "SemSearch_ES-21": {
+        "charles darwin": {
+            "score": 0.5,
+            "uri": "<dbpedia:Charles_Darwin>"
+        }
+    },
+    "SemSearch_ES-22": {
+        "charlotte": {
+            "score": 0.56425,
+            "uri": "<dbpedia:Charlotte,_North_Carolina>"
+        },
+        "city of charlotte": {
+            "score": 0.51449,
+            "uri": "<dbpedia:Charlotte,_North_Carolina>"
+        }
+    },
+    "SemSearch_ES-23": {
+        "city of virginia beach": {
+            "score": 0.59474,
+            "uri": "<dbpedia:Virginia_Beach,_Virginia>"
+        },
+        "virginia beach": {
+            "score": 0.7376,
+            "uri": "<dbpedia:Virginia_Beach,_Virginia>"
+        }
+    },
+    "SemSearch_ES-24": {
+        "coastal carolina": {
+            "score": 0.11672,
+            "uri": "<dbpedia:Coastal_Carolina_University>"
+        }
+    },
+    "SemSearch_ES-25": {
+        "david suchet": {
+            "score": 0.5,
+            "uri": "<dbpedia:David_Suchet>"
+        }
+    },
+    "SemSearch_ES-26": {
+        "disney orlando": {
+            "score": 0.25,
+            "uri": "<dbpedia:Walt_Disney_World>"
+        }
+    },
+    "SemSearch_ES-28": {
+        "el salvador": {
+            "score": 0.43983,
+            "uri": "<dbpedia:El_Salvador>"
+        }
+    },
+    "SemSearch_ES-29": {
+        "ellis college": {
+            "score": 0.35714,
+            "uri": "<dbpedia:New_York_Institute_of_Technology>"
+        }
+    },
+    "SemSearch_ES-3": {
+        "Bookwork": {
+            "score": 0.075,
+            "uri": "<dbpedia:Artist's_book>"
+        }
+    },
+    "SemSearch_ES-30": {
+        "eloan": {
+            "score": 0.5,
+            "uri": "<dbpedia:E-Loan>"
+        },
+        "line of credit": {
+            "score": 0.10606,
+            "uri": "<dbpedia:Line_of_credit>"
+        }
+    },
+    "SemSearch_ES-31": {
+        "emery": {
+            "score": 0.06711,
+            "uri": "<dbpedia:Emery_(band)>"
+        }
+    },
+    "SemSearch_ES-32": {
+        "auto": {
+            "score": 0.07643,
+            "uri": "<dbpedia:Automobile>"
+        },
+        "chambersburg": {
+            "score": 0.43851,
+            "uri": "<dbpedia:Chambersburg,_Pennsylvania>"
+        },
+        "chambersburg pa": {
+            "score": 0.34256,
+            "uri": "<dbpedia:Chambersburg,_Pennsylvania>"
+        },
+        "fitzgerald": {
+            "score": 0.16181,
+            "uri": "<dbpedia:Fitzgerald,_Georgia>"
+        },
+        "mall": {
+            "score": 0.10898,
+            "uri": "<dbpedia:Shopping_mall>"
+        }
+    },
+    "SemSearch_ES-33": {
+        "harry potter": {
+            "score": 0.36991,
+            "uri": "<dbpedia:Harry_Potter>"
+        }
+    },
+    "SemSearch_ES-34": {
+        "harry potter": {
+            "score": 0.86991,
+            "uri": "<dbpedia:Harry_Potter_(film_series)>"
+        },
+        "harry potter movie": {
+            "score": 0.625,
+            "uri": "<dbpedia:Harry_Potter_(film_series)>"
+        }
+    },
+    "SemSearch_ES-36": {
+        "batman returns": {
+            "score": 0.62355,
+            "uri": "<dbpedia:Batman_Returns>"
+        },
+        "imdb": {
+            "score": 0.41838,
+            "uri": "<dbpedia:Internet_Movie_Database>"
+        }
+    },
+    "SemSearch_ES-37": {
+        "jack johnson": {
+            "score": 0.49855,
+            "uri": "<dbpedia:Jack_Johnson_(musician)>"
+        }
+    },
+    "SemSearch_ES-38": {
+        "jack the ripper": {
+            "score": 0.5,
+            "uri": "<dbpedia:Jack_the_Ripper>"
+        }
+    },
+    "SemSearch_ES-39": {
+        "james caldwell high school": {
+            "score": 0.5,
+            "uri": "<dbpedia:James_Caldwell_High_School>"
+        }
+    },
+    "SemSearch_ES-4": {
+        "NAACP Image Awards": {
+            "score": 0.33212,
+            "uri": "<dbpedia:NAACP_Image_Award>"
+        }
+    },
+    "SemSearch_ES-40": {
+        "james clayton": {
+            "score": 0.25532,
+            "uri": "<dbpedia:James_Clayton_(engineer)>"
+        },
+        "md": {
+            "score": 0.06013,
+            "uri": "<dbpedia:Doctor_of_Medicine>"
+        }
+    },
+    "SemSearch_ES-41": {
+        "joan of arc": {
+            "score": 0.47912,
+            "uri": "<dbpedia:Joan_of_Arc>"
+        }
+    },
+    "SemSearch_ES-42": {
+        "john maxwell": {
+            "score": 0.14881,
+            "uri": "<dbpedia:John_Maxwell_(British_Army_officer)>"
+        }
+    },
+    "SemSearch_ES-45": {
+        "keith urban": {
+            "score": 0.5,
+            "uri": "<dbpedia:Keith_Urban>"
+        }
+    },
+    "SemSearch_ES-47": {
+        "king arthur": {
+            "score": 0.47609,
+            "uri": "<dbpedia:King_Arthur>"
+        }
+    },
+    "SemSearch_ES-49": {
+        "laura bush": {
+            "score": 0.5,
+            "uri": "<dbpedia:Laura_Bush>"
+        }
+    },
+    "SemSearch_ES-5": {
+        "Scott County": {
+            "score": 0.37807,
+            "uri": "<dbpedia:Scott_County,_Iowa>"
+        }
+    },
+    "SemSearch_ES-50": {
+        "bob and tom": {
+            "score": 0.12857,
+            "uri": "<dbpedia:The_Bob_&_Tom_Show>"
+        },
+        "laura": {
+            "score": 0.01199,
+            "uri": "<dbpedia:Laura_Ingalls_Wilder>"
+        },
+        "steele": {
+            "score": 0.0447,
+            "uri": "<dbpedia:Michael_Steele>"
+        }
+    },
+    "SemSearch_ES-52": {
+        "lincoln park": {
+            "score": 0.31569,
+            "uri": "<dbpedia:Lincoln_Park>"
+        }
+    },
+    "SemSearch_ES-53": {
+        "lynchburg virginia": {
+            "score": 0.44614,
+            "uri": "<dbpedia:Lynchburg,_Virginia>"
+        }
+    },
+    "SemSearch_ES-54": {
+        "marc anthony": {
+            "score": 0.5,
+            "uri": "<dbpedia:Marc_Anthony>"
+        }
+    },
+    "SemSearch_ES-56": {
+        "mario bros": {
+            "score": 0.09829,
+            "uri": "<dbpedia:Mario_Bros.>"
+        }
+    },
+    "SemSearch_ES-57": {
+        "martin luther": {
+            "score": 0.41361,
+            "uri": "<dbpedia:Martin_Luther>"
+        },
+        "martin luther king": {
+            "score": 0.30754,
+            "uri": "<dbpedia:Martin_Luther_King,_Jr.>"
+        }
+    },
+    "SemSearch_ES-58": {
+        "mason ohio": {
+            "score": 0.48673,
+            "uri": "<dbpedia:Mason,_Ohio>"
+        }
+    },
+    "SemSearch_ES-59": {
+        "des moines": {
+            "score": 0.50581,
+            "uri": "<dbpedia:Des_Moines,_Iowa>"
+        },
+        "des moines, ia": {
+            "score": 0.40404,
+            "uri": "<dbpedia:Des_Moines,_Iowa>"
+        },
+        "mercy hospital": {
+            "score": 0.35328,
+            "uri": "<dbpedia:Mercy_Hospital_(Iowa)>"
+        }
+    },
+    "SemSearch_ES-6": {
+        "air wisconsin": {
+            "score": 0.5,
+            "uri": "<dbpedia:Air_Wisconsin>"
+        }
+    },
+    "SemSearch_ES-60": {
+        "michael douglas": {
+            "score": 0.5,
+            "uri": "<dbpedia:Michael_Douglas>"
+        }
+    },
+    "SemSearch_ES-61": {
+        "fantasy island": {
+            "score": 0.62159,
+            "uri": "<dbpedia:Fantasy_Island>"
+        },
+        "mr": {
+            "score": 0.00133,
+            "uri": "<dbpedia:Mathematical_Reviews>"
+        },
+        "rourke": {
+            "score": 0.1754,
+            "uri": "<dbpedia:Heather_O'Rourke>"
+        }
+    },
+    "SemSearch_ES-63": {
+        "old": {
+            "score": 0.01436,
+            "uri": "<dbpedia:Old_English>"
+        },
+        "winchester shotguns": {
+            "score": 0.51375,
+            "uri": "<dbpedia:Shotgun>"
+        }
+    },
+    "SemSearch_ES-65": {
+        "orlando florida": {
+            "score": 0.3894,
+            "uri": "<dbpedia:Orlando,_Florida>"
+        }
+    },
+    "SemSearch_ES-66": {
+        "overeaters anonymous": {
+            "score": 0.5,
+            "uri": "<dbpedia:Overeaters_Anonymous>"
+        }
+    },
+    "SemSearch_ES-67": {
+        "movies": {
+            "score": 0.14049,
+            "uri": "<dbpedia:Film>"
+        },
+        "ovguide": {
+            "score": 0.63135,
+            "uri": "<dbpedia:OVGuide>"
+        }
+    },
+    "SemSearch_ES-68": {
+        "pierce county washington": {
+            "score": 0.38323,
+            "uri": "<dbpedia:Pierce_County,_Washington>"
+        }
+    },
+    "SemSearch_ES-7": {
+        "airsoft": {
+            "score": 0.69076,
+            "uri": "<dbpedia:Airsoft>"
+        },
+        "glock": {
+            "score": 0.41028,
+            "uri": "<dbpedia:Glock>"
+        }
+    },
+    "SemSearch_ES-70": {
+        "italia": {
+            "score": 0.07756,
+            "uri": "<dbpedia:Airship_Italia>"
+        },
+        "online": {
+            "score": 0.13533,
+            "uri": "<dbpedia:Internet>"
+        },
+        "radio": {
+            "score": 0.19475,
+            "uri": "<dbpedia:Radio>"
+        }
+    },
+    "SemSearch_ES-71": {
+        "richmond virginia": {
+            "score": 0.44424,
+            "uri": "<dbpedia:Richmond,_Virginia>"
+        }
+    },
+    "SemSearch_ES-72": {
+        "memphis": {
+            "score": 0.43942,
+            "uri": "<dbpedia:Memphis,_Tennessee>"
+        },
+        "rock 103": {
+            "score": 0.35345,
+            "uri": "<dbpedia:WEGR>"
+        }
+    },
+    "SemSearch_ES-73": {
+        "rowan university": {
+            "score": 0.5,
+            "uri": "<dbpedia:Rowan_University>"
+        }
+    },
+    "SemSearch_ES-74": {
+        "sacred heart": {
+            "score": 0.04559,
+            "uri": "<dbpedia:Sacred_Heart>"
+        }
+    },
+    "SemSearch_ES-75": {
+        "church": {
+            "score": 0.06113,
+            "uri": "<dbpedia:Catholic_Church>"
+        },
+        "houston tx": {
+            "score": 0.19819,
+            "uri": "<dbpedia:Houston>"
+        }
+    },
+    "SemSearch_ES-76": {
+        "san antonio": {
+            "score": 0.1869,
+            "uri": "<dbpedia:San_Antonio>"
+        }
+    },
+    "SemSearch_ES-77": {
+        "savannah": {
+            "score": 0.15512,
+            "uri": "<dbpedia:Savanna>"
+        },
+        "tech": {
+            "score": 0.03485,
+            "uri": "<dbpedia:Technology>"
+        }
+    },
+    "SemSearch_ES-78": {
+        "pc": {
+            "score": 0.40193,
+            "uri": "<dbpedia:Personal_computer>"
+        },
+        "sharp": {
+            "score": 0.2359,
+            "uri": "<dbpedia:Sharp_Corporation>"
+        }
+    },
+    "SemSearch_ES-79": {
+        "masala": {
+            "score": 0.36991,
+            "uri": "<dbpedia:Masala_(film_genre)>"
+        },
+        "shobana": {
+            "score": 0.7804,
+            "uri": "<dbpedia:Shobana>"
+        }
+    },
+    "SemSearch_ES-80": {
+        "sonny and cher": {
+            "score": 0.38978,
+            "uri": "<dbpedia:Sonny_&_Cher>"
+        }
+    },
+    "SemSearch_ES-81": {
+        "south dakota state university": {
+            "score": 0.5,
+            "uri": "<dbpedia:South_Dakota_State_University>"
+        }
+    },
+    "SemSearch_ES-82": {
+        "st lucia": {
+            "score": 0.26289,
+            "uri": "<dbpedia:Saint_Lucia>"
+        }
+    },
+    "SemSearch_ES-83": {
+        "st paul saints": {
+            "score": 0.5,
+            "uri": "<dbpedia:St._Paul_Saints>"
+        }
+    },
+    "SemSearch_ES-84": {
+        "danielle fishel": {
+            "score": 0.9196,
+            "uri": "<dbpedia:Danielle_Fishel>"
+        },
+        "dish": {
+            "score": 0.43071,
+            "uri": "<dbpedia:The_Dish_(TV_series)>"
+        }
+    },
+    "SemSearch_ES-85": {
+        "longest yard": {
+            "score": 0.5,
+            "uri": "<dbpedia:The_Longest_Yard_(2005_film)>"
+        },
+        "yard sale": {
+            "score": 0.11888,
+            "uri": "<dbpedia:Garage_sale>"
+        }
+    },
+    "SemSearch_ES-86": {
+        "lehigh valley": {
+            "score": 0.57835,
+            "uri": "<dbpedia:Lehigh_Valley>"
+        },
+        "morning call": {
+            "score": 0.55027,
+            "uri": "<dbpedia:The_Morning_Call>"
+        },
+        "pa": {
+            "score": 0.25817,
+            "uri": "<dbpedia:Pennsylvania>"
+        }
+    },
+    "SemSearch_ES-88": {
+        "thomas jefferson": {
+            "score": 0.43104,
+            "uri": "<dbpedia:Thomas_Jefferson>"
+        }
+    },
+    "SemSearch_ES-89": {
+        "university of north dakota": {
+            "score": 0.5,
+            "uri": "<dbpedia:University_of_North_Dakota>"
+        }
+    },
+    "SemSearch_ES-9": {
+        "american": {
+            "score": 0.14113,
+            "uri": "<dbpedia:United_States>"
+        },
+        "american embassy": {
+            "score": 0.20912,
+            "uri": "<dbpedia:Embassy_of_the_United_States,_Ottawa>"
+        },
+        "embassy": {
+            "score": 0.24668,
+            "uri": "<dbpedia:Diplomatic_mission>"
+        },
+        "nairobi": {
+            "score": 0.56875,
+            "uri": "<dbpedia:Nairobi>"
+        }
+    },
+    "SemSearch_ES-90": {
+        "university of phoenix": {
+            "score": 0.33687,
+            "uri": "<dbpedia:University_of_Phoenix>"
+        }
+    },
+    "SemSearch_ES-91": {
+        "westminster abbey": {
+            "score": 0.5,
+            "uri": "<dbpedia:Westminster_Abbey>"
+        }
+    },
+    "SemSearch_ES-93": {
+        "toyota tundra": {
+            "score": 0.46759,
+            "uri": "<dbpedia:Toyota_Tundra>"
+        }
+    },
+    "SemSearch_ES-94": {
+        "Hugh Downs": {
+            "score": 0.5,
+            "uri": "<dbpedia:Hugh_Downs>"
+        }
+    },
+    "SemSearch_ES-95": {
+        "MADRID": {
+            "score": 0.25591,
+            "uri": "<dbpedia:Madrid>"
+        }
+    },
+    "SemSearch_ES-96": {
+        "New England Coffee": {
+            "score": 0.5,
+            "uri": "<dbpedia:New_England_Coffee>"
+        }
+    },
+    "SemSearch_ES-97": {
+        "PINK PANTHER 2": {
+            "score": 0.5,
+            "uri": "<dbpedia:The_Pink_Panther_2>"
+        }
+    },
+    "SemSearch_ES-98": {
+        "University of Texas at Austin": {
+            "score": 0.46043,
+            "uri": "<dbpedia:University_of_Texas_at_Austin>"
+        }
+    },
+    "SemSearch_ES-99": {
+        "University of York": {
+            "score": 0.5,
+            "uri": "<dbpedia:University_of_York>"
+        }
+    },
+    "SemSearch_LS-1": {
+        "Apollo": {
+            "score": 0.36784,
+            "uri": "<dbpedia:Apollo_program>"
+        },
+        "Moon": {
+            "score": 0.27874,
+            "uri": "<dbpedia:Moon>"
+        },
+        "astronauts": {
+            "score": 0.2587,
+            "uri": "<dbpedia:Astronaut>"
+        },
+        "walked on": {
+            "score": 0.01805,
+            "uri": "<dbpedia:Walk-on_(sports)>"
+        }
+    },
+    "SemSearch_LS-10": {
+        "nicole kidman": {
+            "score": 0.63725,
+            "uri": "<dbpedia:Nicole_Kidman>"
+        },
+        "siblings": {
+            "score": 0.13982,
+            "uri": "<dbpedia:Sibling>"
+        }
+    },
+    "SemSearch_LS-11": {
+        "church of ireland": {
+            "score": 0.88284,
+            "uri": "<dbpedia:Church_of_Ireland>"
+        },
+        "dioceses": {
+            "score": 0.42237,
+            "uri": "<dbpedia:Anglican_Church_of_the_Southern_Cone_of_America>"
+        }
+    },
+    "SemSearch_LS-12": {
+        "atomic bomb": {
+            "score": 0.41302,
+            "uri": "<dbpedia:Nuclear_weapon>"
+        },
+        "first": {
+            "score": 0.07164,
+            "uri": "<dbpedia:British_undergraduate_degree_classification>"
+        },
+        "targets": {
+            "score": 0.0749,
+            "uri": "<dbpedia:Bullseye_(target)>"
+        }
+    },
+    "SemSearch_LS-13": {
+        "five great epics of Tamil literature": {
+            "score": 0.4,
+            "uri": "<dbpedia:The_Five_Great_Epics_of_Tamil_Literature>"
+        }
+    },
+    "SemSearch_LS-14": {
+        "Mount Olympus": {
+            "score": 0.74227,
+            "uri": "<dbpedia:Mount_Olympus>"
+        },
+        "gods": {
+            "score": 0.31376,
+            "uri": "<dbpedia:Pantheon_(gods)>"
+        }
+    },
+    "SemSearch_LS-16": {
+        "hijackers in the September 11 attacks": {
+            "score": 0.5,
+            "uri": "<dbpedia:Hijackers_in_the_September_11_attacks>"
+        }
+    },
+    "SemSearch_LS-17": {
+        "Russian parliament": {
+            "score": 0.46769,
+            "uri": "<dbpedia:Federal_Assembly_(Russia)>"
+        },
+        "houses": {
+            "score": 0.29999,
+            "uri": "<dbpedia:Chambers_of_parliament>"
+        }
+    },
+    "SemSearch_LS-18": {
+        "john lennon": {
+            "score": 0.5,
+            "uri": "<dbpedia:John_Lennon>"
+        },
+        "parents": {
+            "score": 0.00117,
+            "uri": "<dbpedia:Parent>"
+        }
+    },
+    "SemSearch_LS-19": {
+        "captain": {
+            "score": 0.40991,
+            "uri": "<dbpedia:Captain_(cricket)>"
+        },
+        "cricket": {
+            "score": 0.61867,
+            "uri": "<dbpedia:Cricket>"
+        },
+        "kenya": {
+            "score": 0.80867,
+            "uri": "<dbpedia:Kenya_national_cricket_team>"
+        }
+    },
+    "SemSearch_LS-2": {
+        "Arab states of the Persian Gulf": {
+            "score": 0.49587,
+            "uri": "<dbpedia:Arab_States_of_the_Persian_Gulf>"
+        }
+    },
+    "SemSearch_LS-20": {
+        "kublai khan": {
+            "score": 0.5,
+            "uri": "<dbpedia:Kublai_Khan>"
+        },
+        "siblings": {
+            "score": 0.00257,
+            "uri": "<dbpedia:Sibling>"
+        }
+    },
+    "SemSearch_LS-21": {
+        "lilly allen": {
+            "score": 0.45,
+            "uri": "<dbpedia:Lily_Allen>"
+        },
+        "parents": {
+            "score": 0.00117,
+            "uri": "<dbpedia:Parent>"
+        }
+    },
+    "SemSearch_LS-22": {
+        "major leagues": {
+            "score": 0.11427,
+            "uri": "<dbpedia:Major_League_Baseball>"
+        },
+        "united states": {
+            "score": 0.28713,
+            "uri": "<dbpedia:United_States>"
+        }
+    },
+    "SemSearch_LS-24": {
+        "matt berry": {
+            "score": 0.66275,
+            "uri": "<dbpedia:Matt_Berry>"
+        },
+        "tv series": {
+            "score": 0.18508,
+            "uri": "<dbpedia:Television_program>"
+        }
+    },
+    "SemSearch_LS-25": {
+        "members": {
+            "score": 0.21817,
+            "uri": "<dbpedia:The_Members>"
+        },
+        "u2": {
+            "score": 0.68602,
+            "uri": "<dbpedia:U2>"
+        }
+    },
+    "SemSearch_LS-26": {
+        "erykah badu": {
+            "score": 0.5412,
+            "uri": "<dbpedia:Erykah_Badu>"
+        },
+        "movies": {
+            "score": 0.05034,
+            "uri": "<dbpedia:Film>"
+        }
+    },
+    "SemSearch_LS-29": {
+        "Portuguese": {
+            "score": 0.45538,
+            "uri": "<dbpedia:Portuguese_language>"
+        },
+        "nations": {
+            "score": 0.19792,
+            "uri": "<dbpedia:Nation>"
+        },
+        "official language": {
+            "score": 0.3449,
+            "uri": "<dbpedia:Official_language>"
+        }
+    },
+    "SemSearch_LS-3": {
+        "Moon": {
+            "score": 0.36241,
+            "uri": "<dbpedia:Moon>"
+        },
+        "astronauts": {
+            "score": 0.33386,
+            "uri": "<dbpedia:Astronaut>"
+        }
+    },
+    "SemSearch_LS-30": {
+        "angels": {
+            "score": 0.16973,
+            "uri": "<dbpedia:Angel>"
+        },
+        "choirs": {
+            "score": 0.17662,
+            "uri": "<dbpedia:Choir>"
+        },
+        "orders": {
+            "score": 0.14379,
+            "uri": "<dbpedia:Holy_Orders>"
+        }
+    },
+    "SemSearch_LS-31": {
+        "UN Security Council": {
+            "score": 0.47091,
+            "uri": "<dbpedia:United_Nations_Security_Council>"
+        },
+        "members": {
+            "score": 0.20642,
+            "uri": "<dbpedia:Member_state_of_the_European_Union>"
+        }
+    },
+    "SemSearch_LS-32": {
+        "mount rushmore": {
+            "score": 0.65785,
+            "uri": "<dbpedia:Mount_Rushmore>"
+        },
+        "presidents": {
+            "score": 0.12993,
+            "uri": "<dbpedia:President_of_the_United_States>"
+        },
+        "shooting": {
+            "score": 0.10555,
+            "uri": "<dbpedia:Shooting_sport>"
+        }
+    },
+    "SemSearch_LS-33": {
+        "Canada": {
+            "score": 0.33365,
+            "uri": "<dbpedia:Canada>"
+        },
+        "provinces": {
+            "score": 0.20009,
+            "uri": "<dbpedia:Province>"
+        },
+        "territories": {
+            "score": 0.15864,
+            "uri": "<dbpedia:Territory_(subdivision)>"
+        }
+    },
+    "SemSearch_LS-34": {
+        "albums": {
+            "score": 0.24601,
+            "uri": "<dbpedia:Eddy_Grant>"
+        },
+        "ratt": {
+            "score": 0.74315,
+            "uri": "<dbpedia:Ratt>"
+        }
+    },
+    "SemSearch_LS-35": {
+        "Yugoslavia": {
+            "score": 0.69573,
+            "uri": "<dbpedia:Socialist_Federal_Republic_of_Yugoslavia>"
+        },
+        "former Yugoslavia": {
+            "score": 0.41896,
+            "uri": "<dbpedia:Yugoslavia>"
+        },
+        "republics": {
+            "score": 0.42039,
+            "uri": "<dbpedia:Socialist_Federal_Republic_of_Yugoslavia>"
+        }
+    },
+    "SemSearch_LS-36": {
+        "Cuba": {
+            "score": 0.68377,
+            "uri": "<dbpedia:Cuba>"
+        },
+        "revolutionaries": {
+            "score": 0.30041,
+            "uri": "<dbpedia:Cuban_Revolution>"
+        }
+    },
+    "SemSearch_LS-37": {
+        "set theory": {
+            "score": 0.56625,
+            "uri": "<dbpedia:Set_theory>"
+        },
+        "standard axioms of set theory": {
+            "score": 0.55461,
+            "uri": "<dbpedia:Zermelo%E2%80%93Fraenkel_set_theory>"
+        }
+    },
+    "SemSearch_LS-38": {
+        "border": {
+            "score": 0.21964,
+            "uri": "<dbpedia:Mexico%E2%80%93United_States_border>"
+        },
+        "oklahoma": {
+            "score": 0.42977,
+            "uri": "<dbpedia:Oklahoma>"
+        },
+        "states": {
+            "score": 0.24621,
+            "uri": "<dbpedia:State_governments_of_the_United_States>"
+        }
+    },
+    "SemSearch_LS-39": {
+        "Cyprus": {
+            "score": 0.52004,
+            "uri": "<dbpedia:Cyprus>"
+        },
+        "ancient Greek": {
+            "score": 0.44609,
+            "uri": "<dbpedia:Ancient_Greece>"
+        },
+        "ten": {
+            "score": 0.09377,
+            "uri": "<dbpedia:10_(number)>"
+        }
+    },
+    "SemSearch_LS-4": {
+        "Axis powers of World War II": {
+            "score": 0.44737,
+            "uri": "<dbpedia:Axis_powers>"
+        }
+    },
+    "SemSearch_LS-40": {
+        "american": {
+            "score": 0.37315,
+            "uri": "<dbpedia:United_States>"
+        },
+        "first": {
+            "score": 0.05399,
+            "uri": "<dbpedia:First_Amendment_to_the_United_States_Constitution>"
+        },
+        "states": {
+            "score": 0.27759,
+            "uri": "<dbpedia:United_States>"
+        }
+    },
+    "SemSearch_LS-41": {
+        "companions of the prophet": {
+            "score": 0.52387,
+            "uri": "<dbpedia:Sahabah>"
+        },
+        "prophet": {
+            "score": 0.54503,
+            "uri": "<dbpedia:Prophets_in_Islam>"
+        }
+    },
+    "SemSearch_LS-42": {
+        "Israel": {
+            "score": 0.54637,
+            "uri": "<dbpedia:Israel>"
+        },
+        "twelve tribes": {
+            "score": 0.33755,
+            "uri": "<dbpedia:Israelites>"
+        }
+    },
+    "SemSearch_LS-43": {
+        "books": {
+            "score": 0.27151,
+            "uri": "<dbpedia:Books_of_the_Bible>"
+        },
+        "paul of tarsus": {
+            "score": 0.74009,
+            "uri": "<dbpedia:Paul_the_Apostle>"
+        },
+        "write": {
+            "score": 0.16184,
+            "uri": "<dbpedia:Writing>"
+        }
+    },
+    "SemSearch_LS-44": {
+        "afghanistan": {
+            "score": 0.49649,
+            "uri": "<dbpedia:Afghanistan>"
+        },
+        "do": {
+            "score": 0.1229,
+            "uri": "<dbpedia:Auxiliary_verb>"
+        },
+        "languages": {
+            "score": 0.17802,
+            "uri": "<dbpedia:Central_Asia>"
+        },
+        "speak": {
+            "score": 0.09772,
+            "uri": "<dbpedia:Speech>"
+        }
+    },
+    "SemSearch_LS-46": {
+        "British monarch": {
+            "score": 0.5717,
+            "uri": "<dbpedia:Monarchy_of_the_United_Kingdom>"
+        },
+        "head of state": {
+            "score": 0.59769,
+            "uri": "<dbpedia:Head_of_state>"
+        }
+    },
+    "SemSearch_LS-49": {
+        "invented": {
+            "score": 0.10693,
+            "uri": "<dbpedia:Constructed_language>"
+        },
+        "python programming language": {
+            "score": 0.41872,
+            "uri": "<dbpedia:Python_(programming_language)>"
+        }
+    },
+    "SemSearch_LS-5": {
+        "Jewish": {
+            "score": 0.33809,
+            "uri": "<dbpedia:Jews>"
+        },
+        "Jewish canon": {
+            "score": 0.42306,
+            "uri": "<dbpedia:Tanakh>"
+        },
+        "books": {
+            "score": 0.34243,
+            "uri": "<dbpedia:Books_of_the_Bible>"
+        },
+        "canon": {
+            "score": 0.44826,
+            "uri": "<dbpedia:Biblical_canon>"
+        }
+    },
+    "SemSearch_LS-50": {
+        "ancient world": {
+            "score": 0.19559,
+            "uri": "<dbpedia:Ancient_history>"
+        },
+        "wonders": {
+            "score": 0.16822,
+            "uri": "<dbpedia:Miracle>"
+        }
+    },
+    "SemSearch_LS-6": {
+        "New York City": {
+            "score": 0.57743,
+            "uri": "<dbpedia:New_York_City>"
+        },
+        "boroughs": {
+            "score": 0.27348,
+            "uri": "<dbpedia:Borough_(New_York_City)>"
+        }
+    },
+    "SemSearch_LS-7": {
+        "Branches": {
+            "score": 0.27959,
+            "uri": "<dbpedia:United_States_Army_branch_insignia>"
+        },
+        "US military": {
+            "score": 0.33063,
+            "uri": "<dbpedia:United_States_Armed_Forces>"
+        }
+    },
+    "SemSearch_LS-8": {
+        "continents": {
+            "score": 0.27563,
+            "uri": "<dbpedia:Continent>"
+        },
+        "world": {
+            "score": 0.26802,
+            "uri": "<dbpedia:World>"
+        }
+    },
+    "SemSearch_LS-9": {
+        "degrees of Eastern Orthodox monasticism": {
+            "score": 0.5,
+            "uri": "<dbpedia:Degrees_of_Eastern_Orthodox_monasticism>"
+        }
+    },
+    "TREC_Entity-1": {
+        "Blackberry": {
+            "score": 0.52183,
+            "uri": "<dbpedia:BlackBerry>"
+        },
+        "Carriers": {
+            "score": 0.28231,
+            "uri": "<dbpedia:Mobile_network_operator>"
+        },
+        "phones": {
+            "score": 0.21624,
+            "uri": "<dbpedia:Telephone>"
+        }
+    },
+    "TREC_Entity-10": {
+        "Campuses": {
+            "score": 0.15306,
+            "uri": "<dbpedia:Campus>"
+        },
+        "Indiana University": {
+            "score": 0.41103,
+            "uri": "<dbpedia:Indiana_University>"
+        }
+    },
+    "TREC_Entity-11": {
+        "Donors": {
+            "score": 0.20915,
+            "uri": "<dbpedia:Donation>"
+        },
+        "Foundation": {
+            "score": 0.32367,
+            "uri": "<dbpedia:Private_foundation>"
+        },
+        "Home Depot": {
+            "score": 0.46935,
+            "uri": "<dbpedia:The_Home_Depot>"
+        }
+    },
+    "TREC_Entity-12": {
+        "Air Canada": {
+            "score": 0.57564,
+            "uri": "<dbpedia:Air_Canada>"
+        },
+        "Airlines": {
+            "score": 0.31125,
+            "uri": "<dbpedia:Airline>"
+        },
+        "code share": {
+            "score": 0.4136,
+            "uri": "<dbpedia:Codeshare_agreement>"
+        },
+        "flights": {
+            "score": 0.07225,
+            "uri": "<dbpedia:Flights>"
+        }
+    },
+    "TREC_Entity-14": {
+        "Anthony Award": {
+            "score": 0.61334,
+            "uri": "<dbpedia:Anthony_Awards>"
+        },
+        "Authors": {
+            "score": 0.1494,
+            "uri": "<dbpedia:Author>"
+        },
+        "Bouchercon": {
+            "score": 0.71485,
+            "uri": "<dbpedia:Bouchercon>"
+        }
+    },
+    "TREC_Entity-15": {
+        "SEC conference": {
+            "score": 0.24399,
+            "uri": "<dbpedia:Southeastern_Conference>"
+        },
+        "Universities": {
+            "score": 0.11279,
+            "uri": "<dbpedia:University>"
+        },
+        "football": {
+            "score": 0.34469,
+            "uri": "<dbpedia:American_football>"
+        },
+        "members": {
+            "score": 0.11164,
+            "uri": "<dbpedia:Sports_journalism>"
+        }
+    },
+    "TREC_Entity-16": {
+        "Mancuso": {
+            "score": 0.04289,
+            "uri": "<dbpedia:Alejandro_Mancuso>"
+        },
+        "Sponsors": {
+            "score": 0.01475,
+            "uri": "<dbpedia:Sponsor_(commercial)>"
+        },
+        "festivals": {
+            "score": 0.01815,
+            "uri": "<dbpedia:Rochester,_New_York>"
+        },
+        "quilt": {
+            "score": 0.12958,
+            "uri": "<dbpedia:Quilt>"
+        }
+    },
+    "TREC_Entity-17": {
+        "Chefs": {
+            "score": 0.25978,
+            "uri": "<dbpedia:Chef>"
+        },
+        "Food Network": {
+            "score": 0.77687,
+            "uri": "<dbpedia:Food_Network>"
+        },
+        "show": {
+            "score": 0.21293,
+            "uri": "<dbpedia:The_Oprah_Winfrey_Show>"
+        }
+    },
+    "TREC_Entity-18": {
+        "Jefferson Airplane": {
+            "score": 0.68235,
+            "uri": "<dbpedia:Jefferson_Airplane>"
+        },
+        "Members": {
+            "score": 0.00052,
+            "uri": "<dbpedia:The_Members>"
+        },
+        "band": {
+            "score": 0.19742,
+            "uri": "<dbpedia:The_Band>"
+        }
+    },
+    "TREC_Entity-19": {
+        "Companies": {
+            "score": 0.20645,
+            "uri": "<dbpedia:Corporation>"
+        },
+        "John Hennessey": {
+            "score": 0.40625,
+            "uri": "<dbpedia:John_Hennessey_(rugby_league)>"
+        },
+        "board": {
+            "score": 0.20338,
+            "uri": "<dbpedia:Board_of_directors>"
+        }
+    },
+    "TREC_Entity-2": {
+        "ACM": {
+            "score": 0.135,
+            "uri": "<dbpedia:Association_for_Computing_Machinery>"
+        },
+        "Athena": {
+            "score": 0.35478,
+            "uri": "<dbpedia:Athena>"
+        },
+        "Winners": {
+            "score": 0.09334,
+            "uri": "<dbpedia:Champion>"
+        },
+        "award": {
+            "score": 0.10913,
+            "uri": "<dbpedia:Award>"
+        }
+    },
+    "TREC_Entity-20": {
+        "Islay": {
+            "score": 0.76408,
+            "uri": "<dbpedia:Islay_whisky>"
+        },
+        "Scotch whisky": {
+            "score": 0.81009,
+            "uri": "<dbpedia:Scotch_whisky>"
+        },
+        "distilleries": {
+            "score": 0.43979,
+            "uri": "<dbpedia:Distillation>"
+        }
+    },
+    "TREC_Entity-4": {
+        "Philadelphia": {
+            "score": 0.30695,
+            "uri": "<dbpedia:Philadelphia>"
+        },
+        "Professional sports": {
+            "score": 0.12555,
+            "uri": "<dbpedia:Professional_sports>"
+        },
+        "Professional sports teams": {
+            "score": 0.13668,
+            "uri": "<dbpedia:Colorado>"
+        }
+    },
+    "TREC_Entity-5": {
+        "Medimmune": {
+            "score": 0.75,
+            "uri": "<dbpedia:MedImmune>"
+        },
+        "Medimmune, Inc": {
+            "score": 0.47727,
+            "uri": "<dbpedia:MedImmune>"
+        },
+        "Products": {
+            "score": 0.01854,
+            "uri": "<dbpedia:Product_(chemistry)>"
+        }
+    },
+    "TREC_Entity-6": {
+        "Nobel prizes": {
+            "score": 0.20044,
+            "uri": "<dbpedia:Nobel_Prize>"
+        },
+        "Organizations": {
+            "score": 0.15442,
+            "uri": "<dbpedia:Organization>"
+        },
+        "award": {
+            "score": 0.17775,
+            "uri": "<dbpedia:Award>"
+        }
+    },
+    "TREC_Entity-7": {
+        "Airlines": {
+            "score": 0.27762,
+            "uri": "<dbpedia:Airline>"
+        },
+        "Boeing 747": {
+            "score": 0.73878,
+            "uri": "<dbpedia:Boeing_747>"
+        },
+        "planes": {
+            "score": 0.26357,
+            "uri": "<dbpedia:Fixed-wing_aircraft>"
+        }
+    },
+    "TREC_Entity-9": {
+        "Beaux Arts Trio": {
+            "score": 0.49,
+            "uri": "<dbpedia:Beaux_Arts_Trio>"
+        },
+        "Members": {
+            "score": 0.00052,
+            "uri": "<dbpedia:Member_of_Parliament>"
+        }
+    }
+}

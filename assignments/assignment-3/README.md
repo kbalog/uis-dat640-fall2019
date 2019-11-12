@@ -119,7 +119,26 @@ The [queries2.txt](data/queries2.txt) file contains additional 233 queries. Thes
 
 ### Query entity annotations
 
-Entity annotations for the queries are provided in the *TO BE ADDED* file.
+Entity annotations for the queries are provided in the [entity_annotations.json](data/entity_annotations.json) file.  For each query (in `queries.txt` and `queries.txt`), there is an entry containing a dictionary of mentions along with the linked entity and corresponding confidence score.  For example, for query "Airlines that currently use Boeing 747 planes" (ID: TREC_Entity-7), annotations look as follows:
+
+```
+"TREC_Entity-7": {
+    "Airlines": {
+        "score": 0.27762,
+        "uri": "<dbpedia:Airline>"
+    },
+    "Boeing 747": {
+        "score": 0.73878,
+        "uri": "<dbpedia:Boeing_747>"
+    },
+    "planes": {
+        "score": 0.26357,
+        "uri": "<dbpedia:Fixed-wing_aircraft>"
+    }
+}
+```
+
+Note that these annotations are generated automatically by some entity annotation system, therefore are imperfect.
 
 
 ### Relevance judgments
