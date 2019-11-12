@@ -55,11 +55,11 @@
 | **Week 45** ||||
 | 04/11 (Mon) | Lecture (TL) | Neural IR | [slides](https://speakerdeck.com/kbalog/https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-neural-ir), [exercises](exercises/lecture_18/) |
 | 05/11 (Tue) | Lecture (KB) | Semantic search (Part V) + Review | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-semantic-search-part-v), [exercises](exercises/lecture_19/) |
-| 06/11 (Wed) | Practicum (TL) | Assignment 3 | |
+| 06/11 (Wed) | Practicum (TL) | Assignment [3](assignments/assignment-3) | |
 | **Week 46** ||||
 | 11/11 (Mon) | Trial exam Part I | | |
 | 12/11 (Tue) | Trial exam Part II | | |
-| 13/11 (Wed) | Practicum (TL) | Assignment 3 | |
+| 13/11 (Wed) | Practicum (TL) | Assignment [3](assignments/assignment-3) | |
 
 ## Contact and getting help
 
