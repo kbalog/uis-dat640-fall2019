@@ -25,7 +25,7 @@ You need to implement three models and report evaluation results on those. All m
     - *3_Evaluation*: Evaluation code is provided.
   * The ranking output files corresponding to the three models.
   * You need to complete the [REPORT.md](REPORT.md) file in your private repository.
-  * You must submit your best ranking file to the Kaggle competition, and your grade will take your performance results into account.
+  * You must submit your best ranking file to the [Kaggle competition](https://www.kaggle.com/t/b409c375ddd644b986874d54d8c8972a), and your grade will take your performance results into account.
 
 ### Assignment scoring
 
@@ -36,7 +36,7 @@ The specific criteria for scoring the assignment is as follows:
   * Implementation of SDM+ELR (*TBD* points)
   * Implementation of Your model (*TBD* points)
   * Performance of Your model (5 points)
-    - Points are based on the relative improvement made in percentage points (using rules of rounding) compared to the SDM+ELR model in terms of NDCG@10 score:
+    - Points are based on the relative improvement made in percentage points (using rules of rounding) compared to the SDM+ELR model in terms of NDCG@10 score (on the training query set, i.e., `queries.txt`):
 
     | Improvement | Points |
     | -- | -- |
