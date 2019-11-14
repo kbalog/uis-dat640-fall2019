@@ -31,12 +31,12 @@ You need to implement three models and report evaluation results on those. All m
 
 The specific criteria for scoring the assignment is as follows:
 
-  * Indexing (*TBD* points)
-  * Implementation of MLM (*TBD* points)
-  * Implementation of SDM+ELR (*TBD* points)
-  * Implementation of Your model (*TBD* points)
-  * Performance of Your model (5 points)
-    - Points are based on the relative improvement made in percentage points (using rules of rounding) compared to the SDM+ELR model in terms of NDCG@10 score (on the training query set, i.e., `queries.txt`):
+  * Indexing (2 points)
+  * Implementation of MLM (2 points)
+  * Implementation of SDM+ELR (2 points)
+  * Implementation of Your model (2 points)
+  * Performance of Your model (6 points)
+    - Points are mainly based on the relative improvement made in percentage points (using rules of rounding) compared to the SDM+ELR model in terms of NDCG@10 score (on the training query set, i.e., `queries.txt`):
 
     | Improvement | Points |
     | -- | -- |
@@ -47,8 +47,8 @@ The specific criteria for scoring the assignment is as follows:
     | >=8 and <10% | 4 |
     | >=10% | 5 |
 
-  * Report (*TBD* points)
-  * Code readability and hygiene (*TBD* points)
+  * Report (6 points)
+  * Code readability and hygiene (5 points)
 
 
 ### Submission deadline
