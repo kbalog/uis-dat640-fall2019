@@ -1,5 +1,13 @@
 # Assignment 3
 
+**UPDATE 18/11**: Since indexing can be resource intensive, you may choose to work with a smaller subset of the collection by choosing between two options:
+  * Index the following 3 files in full: `labels_en`, `long_abstracts_en`, and `page_links_en`.
+  * Index only 10% of each file listed below.
+
+Should you decide to choose any of these options, please state in your report explicitly which option you have chosen, as well as any relevant implementation details.
+
+----
+
 Your task is to implement three entity retrieval models on top of Elasticsearch and evaluate them on a standard test collection.
 
 ## Models
