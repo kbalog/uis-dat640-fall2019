@@ -83,5 +83,4 @@ Motto: "everything from the lectures and practicums"
         * Candidate selection (commonness)
         * Disambiguation (features, individual vs. collective approaches, TAGME, AIDA)
         * Evaluation
-
     - ~~Table search, generation, and completion~~
