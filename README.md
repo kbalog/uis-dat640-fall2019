@@ -1,5 +1,6 @@
 # UiS DAT640 Information Retrieval and Text Mining course, fall 2019
 
+  * [Exam information](Exam_info.md)
   * [Assignments](assignments/)
   * [Code examples](code/)
   * [Contact and getting help](#contact-and-getting-help)
@@ -18,7 +19,7 @@
 | 28/08 (Wed) | Practicum (TL) | Assignment [1A](assignments/assignment-1a)/[1B](assignments/assignment-1b) | |
 | **Week 36** ||||
 | 02/09 (Mon) | Practicum (TL) | Assignment [1A](assignments/assignment-1a)/[1B](assignments/assignment-1b) | |
-| 03/09 (Tue) | Lecture (KB) | Text classification (Part IV) | [exercises](exercises/lecture_05/) |
+| 03/09 (Tue) | Lecture (KB) | Text classification (Part IV) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-text-classification-part-iv), [exercises](exercises/lecture_05/) |
 | 04/09 (Wed) | Lecture (KB) | Text clustering | [exercises](exercises/lecture_06/) |
 | **Week 37** ||||
 | 09/09 (Mon) | Practicum (TL) | Assignment [1B](assignments/assignment-1b) | |
