@@ -8,3 +8,8 @@ This folder contains example code, in the form of Jupyter notebooks, that was us
     - [Feature extraction from text](text_feature_extraction.ipynb)
     - [Learning-to-rank](LTR.ipynb)
   * [Using Elasticsearch](elasticsearch/)
+
+## Resources
+
+  * [Wikipedia Python API](https://pypi.org/project/Wikipedia-API/)
+  
